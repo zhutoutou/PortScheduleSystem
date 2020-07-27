@@ -1,0 +1,3916 @@
+2020-07-19, 15:32:28   -----APP START-----
+
+
+2020-07-19, 15:32:28   ----------YimaEnc Control started ----------
+2020-07-19, 15:32:28   Begin to VerifyUserLicense! .........
+2020-07-19, 15:32:28   服务许可验证失败，转为本地检测
+2020-07-19, 15:32:28   电子狗激活已被禁用
+2020-07-19, 15:32:28   Failed to find YimaEncBHW.lic
+2020-07-19, 15:32:28   Failed to find YimaEncBH.lic
+2020-07-19, 15:32:28   Success to VerifyUserLicense.
+2020-07-19, 15:32:28   D:\03-个人代码\项目\Project\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-19, 15:32:28   FATAL ERROR!!!!! Init failed!!!!!
+2020-07-19, 15:32:30   RefreshDrawer beg!
+2020-07-19, 15:32:30   RefreshDrawer suc!
+2020-07-19, 15:33:19   -----APP START-----
+
+
+2020-07-19, 15:33:19   ----------YimaEnc Control started ----------
+2020-07-19, 15:33:19   Begin to VerifyUserLicense! .........
+2020-07-19, 15:33:19   服务许可验证失败，转为本地检测
+2020-07-19, 15:33:19   电子狗激活已被禁用
+2020-07-19, 15:33:19   Failed to find YimaEncBHW.lic
+2020-07-19, 15:33:19   Failed to find YimaEncBH.lic
+2020-07-19, 15:33:19   Success to VerifyUserLicense.
+2020-07-19, 15:33:19   D:\03-个人代码\项目\Project\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-19, 15:33:19   FATAL ERROR!!!!! Init failed!!!!!
+2020-07-19, 15:33:20   RefreshDrawer beg!
+2020-07-19, 15:33:20   RefreshDrawer suc!
+2020-07-19, 15:33:41   -----APP START-----
+
+
+2020-07-19, 15:33:41   ----------YimaEnc Control started ----------
+2020-07-19, 15:33:41   Begin to VerifyUserLicense! .........
+2020-07-19, 15:33:41   服务许可验证失败，转为本地检测
+2020-07-19, 15:33:41   电子狗激活已被禁用
+2020-07-19, 15:33:41   Failed to find YimaEncBHW.lic
+2020-07-19, 15:33:41   Failed to find YimaEncBH.lic
+2020-07-19, 15:33:41   Success to VerifyUserLicense.
+2020-07-19, 15:33:41   D:\03-个人代码\项目\Project\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-19, 15:33:41   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-19, 15:33:41   DGPS01
+2020-07-19, 15:33:41   DGPS01
+2020-07-19, 15:33:41   绘制池不足，建立新绘制器： 1
+2020-07-19, 15:33:41   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-19, 15:33:41   +++++ Init success! ++++++
+2020-07-19, 15:33:41   RefreshDrawer beg!
+2020-07-19, 15:33:41   --CDrawerPool::ReInitPool----begin------
+2020-07-19, 15:33:41   --CDrawerPool::ReInitPool-----end-----
+2020-07-19, 15:33:41   RefreshDrawer suc!
+2020-07-19, 15:33:51   To exit yimaenc....
+2020-07-19, 15:33:51   drawer release finished!
+2020-07-19, 15:33:51   绘制池清理完毕
+2020-07-19, 15:33:51   绘制线程清理完毕
+2020-07-19, 15:33:51   绘制线程清理完毕
+2020-07-19, 15:33:51   绘制线程清理完毕
+2020-07-19, 15:33:51   绘制线程清理完毕
+2020-07-19, 15:33:51   绘制线程清理完毕
+2020-07-19, 15:33:51   绘制线程清理完毕
+2020-07-19, 15:33:51   绘制线程清理完毕
+2020-07-19, 15:33:51   绘制线程清理完毕
+2020-07-19, 15:33:51   自定义线程清理完毕
+2020-07-19, 15:33:51   线程池清理完毕
+2020-07-19, 15:33:51   图幅加载线程清理完毕
+2020-07-19, 15:33:51   drawer release finished!
+2020-07-19, 15:33:51   drawer release finished!
+2020-07-19, 15:33:51   drawer release finished!
+2020-07-19, 15:33:51   To exit process....
+2020-07-19, 15:34:52   -----APP START-----
+
+
+2020-07-19, 15:34:52   ----------YimaEnc Control started ----------
+2020-07-19, 15:34:52   Begin to VerifyUserLicense! .........
+2020-07-19, 15:34:52   服务许可验证失败，转为本地检测
+2020-07-19, 15:34:52   电子狗激活已被禁用
+2020-07-19, 15:34:52   Failed to find YimaEncBHW.lic
+2020-07-19, 15:34:52   Failed to find YimaEncBH.lic
+2020-07-19, 15:34:52   Success to VerifyUserLicense.
+2020-07-19, 15:34:52   D:\03-个人代码\项目\Project\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-19, 15:34:52   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-19, 15:34:52   DGPS01
+2020-07-19, 15:34:52   DGPS01
+2020-07-19, 15:34:52   绘制池不足，建立新绘制器： 1
+2020-07-19, 15:34:52   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-19, 15:34:52   +++++ Init success! ++++++
+2020-07-19, 15:34:52   RefreshDrawer beg!
+2020-07-19, 15:34:52   --CDrawerPool::ReInitPool----begin------
+2020-07-19, 15:34:52   --CDrawerPool::ReInitPool-----end-----
+2020-07-19, 15:34:52   RefreshDrawer suc!
+2020-07-19, 15:34:59   To exit yimaenc....
+2020-07-19, 15:34:59   drawer release finished!
+2020-07-19, 15:34:59   绘制池清理完毕
+2020-07-19, 15:34:59   绘制线程清理完毕
+2020-07-19, 15:34:59   绘制线程清理完毕
+2020-07-19, 15:34:59   绘制线程清理完毕
+2020-07-19, 15:34:59   绘制线程清理完毕
+2020-07-19, 15:34:59   绘制线程清理完毕
+2020-07-19, 15:34:59   绘制线程清理完毕
+2020-07-19, 15:34:59   绘制线程清理完毕
+2020-07-19, 15:34:59   绘制线程清理完毕
+2020-07-19, 15:34:59   自定义线程清理完毕
+2020-07-19, 15:34:59   线程池清理完毕
+2020-07-19, 15:34:59   图幅加载线程清理完毕
+2020-07-19, 15:34:59   drawer release finished!
+2020-07-19, 15:34:59   drawer release finished!
+2020-07-19, 15:34:59   drawer release finished!
+2020-07-19, 15:34:59   To exit process....
+2020-07-19, 15:37:24   -----APP START-----
+
+
+2020-07-19, 15:37:24   ----------YimaEnc Control started ----------
+2020-07-19, 15:37:24   Begin to VerifyUserLicense! .........
+2020-07-19, 15:37:24   服务许可验证失败，转为本地检测
+2020-07-19, 15:37:24   电子狗激活已被禁用
+2020-07-19, 15:37:24   Failed to find YimaEncBHW.lic
+2020-07-19, 15:37:24   Failed to find YimaEncBH.lic
+2020-07-19, 15:37:24   Success to VerifyUserLicense.
+2020-07-19, 15:37:24   D:\03-个人代码\项目\Project\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-19, 15:37:24   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-19, 15:37:24   DGPS01
+2020-07-19, 15:37:24   DGPS01
+2020-07-19, 15:37:24   绘制池不足，建立新绘制器： 1
+2020-07-19, 15:37:24   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-19, 15:37:24   +++++ Init success! ++++++
+2020-07-19, 15:37:24   RefreshDrawer beg!
+2020-07-19, 15:37:24   --CDrawerPool::ReInitPool----begin------
+2020-07-19, 15:37:24   --CDrawerPool::ReInitPool-----end-----
+2020-07-19, 15:37:24   RefreshDrawer suc!
+2020-07-19, 15:37:29   To exit yimaenc....
+2020-07-19, 15:37:29   drawer release finished!
+2020-07-19, 15:37:29   绘制池清理完毕
+2020-07-19, 15:37:29   绘制线程清理完毕
+2020-07-19, 15:37:29   绘制线程清理完毕
+2020-07-19, 15:37:29   绘制线程清理完毕
+2020-07-19, 15:37:29   绘制线程清理完毕
+2020-07-19, 15:37:29   绘制线程清理完毕
+2020-07-19, 15:37:29   绘制线程清理完毕
+2020-07-19, 15:37:29   绘制线程清理完毕
+2020-07-19, 15:37:29   绘制线程清理完毕
+2020-07-19, 15:37:29   自定义线程清理完毕
+2020-07-19, 15:37:29   线程池清理完毕
+2020-07-19, 15:37:29   图幅加载线程清理完毕
+2020-07-19, 15:37:29   drawer release finished!
+2020-07-19, 15:37:29   drawer release finished!
+2020-07-19, 15:37:29   drawer release finished!
+2020-07-19, 15:37:29   To exit process....
+2020-07-19, 15:39:12   -----APP START-----
+
+
+2020-07-19, 15:39:12   ----------YimaEnc Control started ----------
+2020-07-19, 15:39:12   Begin to VerifyUserLicense! .........
+2020-07-19, 15:39:12   服务许可验证失败，转为本地检测
+2020-07-19, 15:39:12   电子狗激活已被禁用
+2020-07-19, 15:39:12   Failed to find YimaEncBHW.lic
+2020-07-19, 15:39:12   Failed to find YimaEncBH.lic
+2020-07-19, 15:39:12   Success to VerifyUserLicense.
+2020-07-19, 15:39:12   D:\03-个人代码\项目\Project\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-19, 15:39:12   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-19, 15:39:12   DGPS01
+2020-07-19, 15:39:12   DGPS01
+2020-07-19, 15:39:12   绘制池不足，建立新绘制器： 1
+2020-07-19, 15:39:12   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-19, 15:39:12   +++++ Init success! ++++++
+2020-07-19, 15:39:12   RefreshDrawer beg!
+2020-07-19, 15:39:12   --CDrawerPool::ReInitPool----begin------
+2020-07-19, 15:39:12   --CDrawerPool::ReInitPool-----end-----
+2020-07-19, 15:39:12   RefreshDrawer suc!
+2020-07-19, 15:39:15   To exit yimaenc....
+2020-07-19, 15:39:15   drawer release finished!
+2020-07-19, 15:39:15   绘制池清理完毕
+2020-07-19, 15:39:15   绘制线程清理完毕
+2020-07-19, 15:39:15   绘制线程清理完毕
+2020-07-19, 15:39:15   绘制线程清理完毕
+2020-07-19, 15:39:15   绘制线程清理完毕
+2020-07-19, 15:39:15   绘制线程清理完毕
+2020-07-19, 15:39:15   绘制线程清理完毕
+2020-07-19, 15:39:15   绘制线程清理完毕
+2020-07-19, 15:39:15   绘制线程清理完毕
+2020-07-19, 15:39:15   自定义线程清理完毕
+2020-07-19, 15:39:15   线程池清理完毕
+2020-07-19, 15:39:15   图幅加载线程清理完毕
+2020-07-19, 15:39:15   drawer release finished!
+2020-07-19, 15:39:15   drawer release finished!
+2020-07-19, 15:39:15   drawer release finished!
+2020-07-19, 15:39:15   To exit process....
+2020-07-19, 15:50:46   -----APP START-----
+
+
+2020-07-19, 15:50:46   ----------YimaEnc Control started ----------
+2020-07-19, 15:50:46   Begin to VerifyUserLicense! .........
+2020-07-19, 15:50:46   服务许可验证失败，转为本地检测
+2020-07-19, 15:50:46   电子狗激活已被禁用
+2020-07-19, 15:50:46   Failed to find YimaEncBHW.lic
+2020-07-19, 15:50:46   Failed to find YimaEncBH.lic
+2020-07-19, 15:50:46   Success to VerifyUserLicense.
+2020-07-19, 15:50:46   D:\03-个人代码\项目\Project\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-19, 15:50:46   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-19, 15:50:46   DGPS01
+2020-07-19, 15:50:46   DGPS01
+2020-07-19, 15:50:46   绘制池不足，建立新绘制器： 1
+2020-07-19, 15:50:46   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-19, 15:50:46   +++++ Init success! ++++++
+2020-07-19, 15:50:46   RefreshDrawer beg!
+2020-07-19, 15:50:46   --CDrawerPool::ReInitPool----begin------
+2020-07-19, 15:50:46   --CDrawerPool::ReInitPool-----end-----
+2020-07-19, 15:50:46   RefreshDrawer suc!
+2020-07-19, 15:50:58   To exit yimaenc....
+2020-07-19, 15:50:58   drawer release finished!
+2020-07-19, 15:50:58   绘制池清理完毕
+2020-07-19, 15:50:58   绘制线程清理完毕
+2020-07-19, 15:50:58   绘制线程清理完毕
+2020-07-19, 15:50:58   绘制线程清理完毕
+2020-07-19, 15:50:58   绘制线程清理完毕
+2020-07-19, 15:50:58   绘制线程清理完毕
+2020-07-19, 15:50:58   绘制线程清理完毕
+2020-07-19, 15:50:58   绘制线程清理完毕
+2020-07-19, 15:50:58   绘制线程清理完毕
+2020-07-19, 15:50:58   自定义线程清理完毕
+2020-07-19, 15:50:58   线程池清理完毕
+2020-07-19, 15:50:58   图幅加载线程清理完毕
+2020-07-19, 15:50:58   drawer release finished!
+2020-07-19, 15:50:58   drawer release finished!
+2020-07-19, 15:50:58   drawer release finished!
+2020-07-19, 15:50:58   To exit process....
+2020-07-19, 15:55:08   -----APP START-----
+
+
+2020-07-19, 15:55:08   ----------YimaEnc Control started ----------
+2020-07-19, 15:55:08   Begin to VerifyUserLicense! .........
+2020-07-19, 15:55:08   服务许可验证失败，转为本地检测
+2020-07-19, 15:55:08   电子狗激活已被禁用
+2020-07-19, 15:55:08   Failed to find YimaEncBHW.lic
+2020-07-19, 15:55:08   Failed to find YimaEncBH.lic
+2020-07-19, 15:55:08   Success to VerifyUserLicense.
+2020-07-19, 15:55:08   D:\03-个人代码\项目\Project\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-19, 15:55:08   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-19, 15:55:08   DGPS01
+2020-07-19, 15:55:08   DGPS01
+2020-07-19, 15:55:08   绘制池不足，建立新绘制器： 1
+2020-07-19, 15:55:08   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-19, 15:55:08   +++++ Init success! ++++++
+2020-07-19, 15:55:08   RefreshDrawer beg!
+2020-07-19, 15:55:08   --CDrawerPool::ReInitPool----begin------
+2020-07-19, 15:55:08   --CDrawerPool::ReInitPool-----end-----
+2020-07-19, 15:55:08   RefreshDrawer suc!
+2020-07-19, 15:55:15   To exit yimaenc....
+2020-07-19, 15:55:15   drawer release finished!
+2020-07-19, 15:55:15   绘制池清理完毕
+2020-07-19, 15:55:15   绘制线程清理完毕
+2020-07-19, 15:55:15   绘制线程清理完毕
+2020-07-19, 15:55:15   绘制线程清理完毕
+2020-07-19, 15:55:15   绘制线程清理完毕
+2020-07-19, 15:55:15   绘制线程清理完毕
+2020-07-19, 15:55:15   绘制线程清理完毕
+2020-07-19, 15:55:15   绘制线程清理完毕
+2020-07-19, 15:55:15   绘制线程清理完毕
+2020-07-19, 15:55:15   自定义线程清理完毕
+2020-07-19, 15:55:15   线程池清理完毕
+2020-07-19, 15:55:15   图幅加载线程清理完毕
+2020-07-19, 15:55:15   drawer release finished!
+2020-07-19, 15:55:15   drawer release finished!
+2020-07-19, 15:55:15   drawer release finished!
+2020-07-19, 15:55:15   To exit process....
+2020-07-19, 15:57:14   -----APP START-----
+
+
+2020-07-19, 15:57:14   ----------YimaEnc Control started ----------
+2020-07-19, 15:57:14   Begin to VerifyUserLicense! .........
+2020-07-19, 15:57:14   服务许可验证失败，转为本地检测
+2020-07-19, 15:57:14   电子狗激活已被禁用
+2020-07-19, 15:57:14   Failed to find YimaEncBHW.lic
+2020-07-19, 15:57:14   Failed to find YimaEncBH.lic
+2020-07-19, 15:57:14   Success to VerifyUserLicense.
+2020-07-19, 15:57:14   D:\03-个人代码\项目\Project\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-19, 15:57:14   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-19, 15:57:14   DGPS01
+2020-07-19, 15:57:14   DGPS01
+2020-07-19, 15:57:14   绘制池不足，建立新绘制器： 1
+2020-07-19, 15:57:14   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-19, 15:57:14   +++++ Init success! ++++++
+2020-07-19, 15:57:14   RefreshDrawer beg!
+2020-07-19, 15:57:14   --CDrawerPool::ReInitPool----begin------
+2020-07-19, 15:57:14   --CDrawerPool::ReInitPool-----end-----
+2020-07-19, 15:57:14   RefreshDrawer suc!
+2020-07-19, 15:59:34   -----APP START-----
+
+
+2020-07-19, 15:59:34   ----------YimaEnc Control started ----------
+2020-07-19, 15:59:34   Begin to VerifyUserLicense! .........
+2020-07-19, 15:59:34   服务许可验证失败，转为本地检测
+2020-07-19, 15:59:34   电子狗激活已被禁用
+2020-07-19, 15:59:34   Failed to find YimaEncBHW.lic
+2020-07-19, 15:59:34   Failed to find YimaEncBH.lic
+2020-07-19, 15:59:34   Success to VerifyUserLicense.
+2020-07-19, 15:59:34   D:\03-个人代码\项目\Project\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-19, 15:59:34   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-19, 15:59:34   DGPS01
+2020-07-19, 15:59:34   DGPS01
+2020-07-19, 15:59:34   绘制池不足，建立新绘制器： 1
+2020-07-19, 15:59:34   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-19, 15:59:34   +++++ Init success! ++++++
+2020-07-19, 15:59:34   RefreshDrawer beg!
+2020-07-19, 15:59:34   --CDrawerPool::ReInitPool----begin------
+2020-07-19, 15:59:34   --CDrawerPool::ReInitPool-----end-----
+2020-07-19, 15:59:34   RefreshDrawer suc!
+2020-07-19, 15:59:43   RefreshDrawer beg!
+2020-07-19, 15:59:44   --CDrawerPool::ReInitPool----begin------
+2020-07-19, 15:59:44   --CDrawerPool::ReInitPool-----end-----
+2020-07-19, 15:59:44   RefreshDrawer suc!
+2020-07-19, 15:59:45   RefreshDrawer beg!
+2020-07-19, 15:59:45   --CDrawerPool::ReInitPool----begin------
+2020-07-19, 15:59:45   --CDrawerPool::ReInitPool-----end-----
+2020-07-19, 15:59:45   RefreshDrawer suc!
+2020-07-19, 15:59:46   To exit yimaenc....
+2020-07-19, 15:59:46   drawer release finished!
+2020-07-19, 15:59:46   绘制池清理完毕
+2020-07-19, 15:59:46   绘制线程清理完毕
+2020-07-19, 15:59:46   绘制线程清理完毕
+2020-07-19, 15:59:46   绘制线程清理完毕
+2020-07-19, 15:59:46   绘制线程清理完毕
+2020-07-19, 15:59:46   绘制线程清理完毕
+2020-07-19, 15:59:46   绘制线程清理完毕
+2020-07-19, 15:59:46   绘制线程清理完毕
+2020-07-19, 15:59:46   绘制线程清理完毕
+2020-07-19, 15:59:46   自定义线程清理完毕
+2020-07-19, 15:59:46   线程池清理完毕
+2020-07-19, 15:59:46   图幅加载线程清理完毕
+2020-07-19, 15:59:46   drawer release finished!
+2020-07-19, 15:59:46   drawer release finished!
+2020-07-19, 15:59:46   drawer release finished!
+2020-07-19, 15:59:46   To exit process....
+2020-07-19, 16:02:57   -----APP START-----
+
+
+2020-07-19, 16:02:57   ----------YimaEnc Control started ----------
+2020-07-19, 16:02:57   Begin to VerifyUserLicense! .........
+2020-07-19, 16:02:57   服务许可验证失败，转为本地检测
+2020-07-19, 16:02:57   电子狗激活已被禁用
+2020-07-19, 16:02:57   Failed to find YimaEncBHW.lic
+2020-07-19, 16:02:57   Failed to find YimaEncBH.lic
+2020-07-19, 16:02:57   Success to VerifyUserLicense.
+2020-07-19, 16:02:57   D:\03-个人代码\项目\Project\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-19, 16:02:57   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-19, 16:02:57   DGPS01
+2020-07-19, 16:02:57   DGPS01
+2020-07-19, 16:02:57   绘制池不足，建立新绘制器： 1
+2020-07-19, 16:02:57   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-19, 16:02:57   +++++ Init success! ++++++
+2020-07-19, 16:02:57   RefreshDrawer beg!
+2020-07-19, 16:02:57   --CDrawerPool::ReInitPool----begin------
+2020-07-19, 16:02:57   --CDrawerPool::ReInitPool-----end-----
+2020-07-19, 16:02:57   RefreshDrawer suc!
+2020-07-19, 16:03:08   RefreshDrawer beg!
+2020-07-19, 16:03:08   --CDrawerPool::ReInitPool----begin------
+2020-07-19, 16:03:08   --CDrawerPool::ReInitPool-----end-----
+2020-07-19, 16:03:08   RefreshDrawer suc!
+2020-07-19, 16:03:15   To exit yimaenc....
+2020-07-19, 16:03:15   drawer release finished!
+2020-07-19, 16:03:15   绘制池清理完毕
+2020-07-19, 16:03:15   绘制线程清理完毕
+2020-07-19, 16:03:15   绘制线程清理完毕
+2020-07-19, 16:03:15   绘制线程清理完毕
+2020-07-19, 16:03:15   绘制线程清理完毕
+2020-07-19, 16:03:15   绘制线程清理完毕
+2020-07-19, 16:03:15   绘制线程清理完毕
+2020-07-19, 16:03:15   绘制线程清理完毕
+2020-07-19, 16:03:15   绘制线程清理完毕
+2020-07-19, 16:03:15   自定义线程清理完毕
+2020-07-19, 16:03:15   线程池清理完毕
+2020-07-19, 16:03:15   图幅加载线程清理完毕
+2020-07-19, 16:03:15   drawer release finished!
+2020-07-19, 16:03:15   drawer release finished!
+2020-07-19, 16:03:15   drawer release finished!
+2020-07-19, 16:03:15   To exit process....
+2020-07-19, 16:13:30   -----APP START-----
+
+
+2020-07-19, 16:13:30   ----------YimaEnc Control started ----------
+2020-07-19, 16:13:30   Begin to VerifyUserLicense! .........
+2020-07-19, 16:13:30   服务许可验证失败，转为本地检测
+2020-07-19, 16:13:30   电子狗激活已被禁用
+2020-07-19, 16:13:30   Failed to find YimaEncBHW.lic
+2020-07-19, 16:13:30   Failed to find YimaEncBH.lic
+2020-07-19, 16:13:30   Success to VerifyUserLicense.
+2020-07-19, 16:13:30   D:\03-个人代码\项目\Project\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-19, 16:13:30   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-19, 16:13:30   DGPS01
+2020-07-19, 16:13:30   DGPS01
+2020-07-19, 16:13:30   绘制池不足，建立新绘制器： 1
+2020-07-19, 16:13:30   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-19, 16:13:30   +++++ Init success! ++++++
+2020-07-19, 16:13:30   RefreshDrawer beg!
+2020-07-19, 16:13:30   --CDrawerPool::ReInitPool----begin------
+2020-07-19, 16:13:30   --CDrawerPool::ReInitPool-----end-----
+2020-07-19, 16:13:30   RefreshDrawer suc!
+2020-07-19, 16:13:35   To exit yimaenc....
+2020-07-19, 16:13:35   drawer release finished!
+2020-07-19, 16:13:35   绘制池清理完毕
+2020-07-19, 16:13:35   绘制线程清理完毕
+2020-07-19, 16:13:35   绘制线程清理完毕
+2020-07-19, 16:13:35   绘制线程清理完毕
+2020-07-19, 16:13:35   绘制线程清理完毕
+2020-07-19, 16:13:35   绘制线程清理完毕
+2020-07-19, 16:13:35   绘制线程清理完毕
+2020-07-19, 16:13:35   绘制线程清理完毕
+2020-07-19, 16:13:35   绘制线程清理完毕
+2020-07-19, 16:13:35   自定义线程清理完毕
+2020-07-19, 16:13:35   线程池清理完毕
+2020-07-19, 16:13:35   图幅加载线程清理完毕
+2020-07-19, 16:13:35   drawer release finished!
+2020-07-19, 16:13:35   drawer release finished!
+2020-07-19, 16:13:35   drawer release finished!
+2020-07-19, 16:13:35   To exit process....
+2020-07-19, 16:16:38   -----APP START-----
+
+
+2020-07-19, 16:16:38   ----------YimaEnc Control started ----------
+2020-07-19, 16:16:38   Begin to VerifyUserLicense! .........
+2020-07-19, 16:16:38   服务许可验证失败，转为本地检测
+2020-07-19, 16:16:38   电子狗激活已被禁用
+2020-07-19, 16:16:38   Failed to find YimaEncBHW.lic
+2020-07-19, 16:16:38   Failed to find YimaEncBH.lic
+2020-07-19, 16:16:38   Success to VerifyUserLicense.
+2020-07-19, 16:16:38   D:\03-个人代码\项目\Project\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-19, 16:16:38   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-19, 16:16:38   DGPS01
+2020-07-19, 16:16:38   DGPS01
+2020-07-19, 16:16:38   绘制池不足，建立新绘制器： 1
+2020-07-19, 16:16:38   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-19, 16:16:38   +++++ Init success! ++++++
+2020-07-19, 16:16:38   RefreshDrawer beg!
+2020-07-19, 16:16:38   --CDrawerPool::ReInitPool----begin------
+2020-07-19, 16:16:38   --CDrawerPool::ReInitPool-----end-----
+2020-07-19, 16:16:38   RefreshDrawer suc!
+2020-07-19, 16:16:38   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-19, 16:16:38   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-19, 16:16:38   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-19, 16:16:38   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-19, 16:16:38   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-19, 16:16:38   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-19, 16:16:39   绘制池不足，建立新绘制器： 2
+2020-07-19, 16:16:46   To exit yimaenc....
+2020-07-19, 16:16:46   drawer release finished!
+2020-07-19, 16:16:46   drawer release finished!
+2020-07-19, 16:16:46   绘制池清理完毕
+2020-07-19, 16:16:46   绘制线程清理完毕
+2020-07-19, 16:16:46   绘制线程清理完毕
+2020-07-19, 16:16:46   绘制线程清理完毕
+2020-07-19, 16:16:46   绘制线程清理完毕
+2020-07-19, 16:16:46   绘制线程清理完毕
+2020-07-19, 16:16:46   绘制线程清理完毕
+2020-07-19, 16:16:46   绘制线程清理完毕
+2020-07-19, 16:16:46   绘制线程清理完毕
+2020-07-19, 16:16:46   自定义线程清理完毕
+2020-07-19, 16:16:46   线程池清理完毕
+2020-07-19, 16:16:46   图幅加载线程清理完毕
+2020-07-19, 16:16:46   drawer release finished!
+2020-07-19, 16:16:46   drawer release finished!
+2020-07-19, 16:16:46   drawer release finished!
+2020-07-19, 16:16:46   To exit process....
+2020-07-19, 16:17:29   -----APP START-----
+
+
+2020-07-19, 16:17:29   ----------YimaEnc Control started ----------
+2020-07-19, 16:17:29   Begin to VerifyUserLicense! .........
+2020-07-19, 16:17:29   服务许可验证失败，转为本地检测
+2020-07-19, 16:17:29   电子狗激活已被禁用
+2020-07-19, 16:17:29   Failed to find YimaEncBHW.lic
+2020-07-19, 16:17:29   Failed to find YimaEncBH.lic
+2020-07-19, 16:17:29   Success to VerifyUserLicense.
+2020-07-19, 16:17:29   D:\03-个人代码\项目\Project\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-19, 16:17:29   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-19, 16:17:29   DGPS01
+2020-07-19, 16:17:29   DGPS01
+2020-07-19, 16:17:29   绘制池不足，建立新绘制器： 1
+2020-07-19, 16:17:29   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-19, 16:17:29   +++++ Init success! ++++++
+2020-07-19, 16:17:29   RefreshDrawer beg!
+2020-07-19, 16:17:29   --CDrawerPool::ReInitPool----begin------
+2020-07-19, 16:17:29   --CDrawerPool::ReInitPool-----end-----
+2020-07-19, 16:17:29   RefreshDrawer suc!
+2020-07-19, 16:17:30   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-19, 16:17:30   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-19, 16:17:30   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-19, 16:17:30   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-19, 16:17:30   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-19, 16:17:30   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-19, 16:17:31   绘制池不足，建立新绘制器： 2
+2020-07-19, 16:17:44   To exit yimaenc....
+2020-07-19, 16:17:44   drawer release finished!
+2020-07-19, 16:17:44   drawer release finished!
+2020-07-19, 16:17:44   绘制池清理完毕
+2020-07-19, 16:17:44   绘制线程清理完毕
+2020-07-19, 16:17:44   绘制线程清理完毕
+2020-07-19, 16:17:44   绘制线程清理完毕
+2020-07-19, 16:17:44   绘制线程清理完毕
+2020-07-19, 16:17:44   绘制线程清理完毕
+2020-07-19, 16:17:44   绘制线程清理完毕
+2020-07-19, 16:17:44   绘制线程清理完毕
+2020-07-19, 16:17:44   绘制线程清理完毕
+2020-07-19, 16:17:44   自定义线程清理完毕
+2020-07-19, 16:17:44   线程池清理完毕
+2020-07-19, 16:17:44   图幅加载线程清理完毕
+2020-07-19, 16:17:44   drawer release finished!
+2020-07-19, 16:17:44   drawer release finished!
+2020-07-19, 16:17:44   drawer release finished!
+2020-07-19, 16:17:44   To exit process....
+2020-07-19, 19:16:04   -----APP START-----
+
+
+2020-07-19, 19:16:04   ----------YimaEnc Control started ----------
+2020-07-19, 19:16:04   Begin to VerifyUserLicense! .........
+2020-07-19, 19:16:04   服务许可验证失败，转为本地检测
+2020-07-19, 19:16:04   电子狗激活已被禁用
+2020-07-19, 19:16:04   Failed to find YimaEncBHW.lic
+2020-07-19, 19:16:04   Failed to find YimaEncBH.lic
+2020-07-19, 19:16:04   Success to VerifyUserLicense.
+2020-07-19, 19:16:04   D:\03-个人代码\项目\Project\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-19, 19:16:04   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-19, 19:16:04   DGPS01
+2020-07-19, 19:16:04   DGPS01
+2020-07-19, 19:16:04   绘制池不足，建立新绘制器： 1
+2020-07-19, 19:16:04   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-19, 19:16:04   +++++ Init success! ++++++
+2020-07-19, 19:16:04   RefreshDrawer beg!
+2020-07-19, 19:16:04   --CDrawerPool::ReInitPool----begin------
+2020-07-19, 19:16:04   --CDrawerPool::ReInitPool-----end-----
+2020-07-19, 19:16:04   RefreshDrawer suc!
+2020-07-19, 19:16:04   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-19, 19:16:04   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-19, 19:16:04   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-19, 19:16:05   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-19, 19:16:05   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-19, 19:16:05   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-19, 19:16:06   绘制池不足，建立新绘制器： 2
+2020-07-19, 19:16:13   To exit yimaenc....
+2020-07-19, 19:16:13   drawer release finished!
+2020-07-19, 19:16:13   drawer release finished!
+2020-07-19, 19:16:13   绘制池清理完毕
+2020-07-19, 19:16:13   绘制线程清理完毕
+2020-07-19, 19:16:13   绘制线程清理完毕
+2020-07-19, 19:16:13   绘制线程清理完毕
+2020-07-19, 19:16:13   绘制线程清理完毕
+2020-07-19, 19:16:13   绘制线程清理完毕
+2020-07-19, 19:16:13   绘制线程清理完毕
+2020-07-19, 19:16:13   绘制线程清理完毕
+2020-07-19, 19:16:13   绘制线程清理完毕
+2020-07-19, 19:16:13   自定义线程清理完毕
+2020-07-19, 19:16:13   线程池清理完毕
+2020-07-19, 19:16:13   图幅加载线程清理完毕
+2020-07-19, 19:16:13   drawer release finished!
+2020-07-19, 19:16:13   drawer release finished!
+2020-07-19, 19:16:13   drawer release finished!
+2020-07-19, 19:16:13   To exit process....
+2020-07-19, 19:18:12   -----APP START-----
+
+
+2020-07-19, 19:18:12   ----------YimaEnc Control started ----------
+2020-07-19, 19:18:12   Begin to VerifyUserLicense! .........
+2020-07-19, 19:18:12   服务许可验证失败，转为本地检测
+2020-07-19, 19:18:12   电子狗激活已被禁用
+2020-07-19, 19:18:12   Failed to find YimaEncBHW.lic
+2020-07-19, 19:18:12   Failed to find YimaEncBH.lic
+2020-07-19, 19:18:12   Success to VerifyUserLicense.
+2020-07-19, 19:18:12   D:\03-个人代码\项目\Project\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-19, 19:18:12   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-19, 19:18:12   DGPS01
+2020-07-19, 19:18:12   DGPS01
+2020-07-19, 19:18:12   绘制池不足，建立新绘制器： 1
+2020-07-19, 19:18:12   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-19, 19:18:12   +++++ Init success! ++++++
+2020-07-19, 19:18:12   RefreshDrawer beg!
+2020-07-19, 19:18:12   --CDrawerPool::ReInitPool----begin------
+2020-07-19, 19:18:12   --CDrawerPool::ReInitPool-----end-----
+2020-07-19, 19:18:12   RefreshDrawer suc!
+2020-07-19, 19:18:12   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-19, 19:18:12   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-19, 19:18:12   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-19, 19:18:12   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-19, 19:18:12   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-19, 19:18:13   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-19, 19:18:16   RefreshDrawer beg!
+2020-07-19, 19:18:16   --CDrawerPool::ReInitPool----begin------
+2020-07-19, 19:18:16   --CDrawerPool::ReInitPool-----end-----
+2020-07-19, 19:18:16   RefreshDrawer suc!
+2020-07-19, 19:18:16   绘制池不足，建立新绘制器： 2
+2020-07-19, 19:18:31   To exit yimaenc....
+2020-07-19, 19:18:31   drawer release finished!
+2020-07-19, 19:18:31   drawer release finished!
+2020-07-19, 19:18:31   绘制池清理完毕
+2020-07-19, 19:18:31   绘制线程清理完毕
+2020-07-19, 19:18:31   绘制线程清理完毕
+2020-07-19, 19:18:31   绘制线程清理完毕
+2020-07-19, 19:18:31   绘制线程清理完毕
+2020-07-19, 19:18:31   绘制线程清理完毕
+2020-07-19, 19:18:31   绘制线程清理完毕
+2020-07-19, 19:18:31   绘制线程清理完毕
+2020-07-19, 19:18:31   绘制线程清理完毕
+2020-07-19, 19:18:31   自定义线程清理完毕
+2020-07-19, 19:18:31   线程池清理完毕
+2020-07-19, 19:18:31   图幅加载线程清理完毕
+2020-07-19, 19:18:31   drawer release finished!
+2020-07-19, 19:18:31   drawer release finished!
+2020-07-19, 19:18:31   drawer release finished!
+2020-07-19, 19:18:31   To exit process....
+2020-07-19, 19:23:21   -----APP START-----
+
+
+2020-07-19, 19:23:21   ----------YimaEnc Control started ----------
+2020-07-19, 19:23:21   Begin to VerifyUserLicense! .........
+2020-07-19, 19:23:21   服务许可验证失败，转为本地检测
+2020-07-19, 19:23:21   电子狗激活已被禁用
+2020-07-19, 19:23:21   Failed to find YimaEncBHW.lic
+2020-07-19, 19:23:21   Failed to find YimaEncBH.lic
+2020-07-19, 19:23:21   Success to VerifyUserLicense.
+2020-07-19, 19:23:21   D:\03-个人代码\项目\Project\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-19, 19:23:21   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-19, 19:23:21   DGPS01
+2020-07-19, 19:23:21   DGPS01
+2020-07-19, 19:23:21   绘制池不足，建立新绘制器： 1
+2020-07-19, 19:23:21   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-19, 19:23:21   +++++ Init success! ++++++
+2020-07-19, 19:23:21   RefreshDrawer beg!
+2020-07-19, 19:23:21   --CDrawerPool::ReInitPool----begin------
+2020-07-19, 19:23:21   --CDrawerPool::ReInitPool-----end-----
+2020-07-19, 19:23:21   RefreshDrawer suc!
+2020-07-19, 19:23:21   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-19, 19:23:21   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-19, 19:23:21   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-19, 19:23:21   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-19, 19:23:21   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-19, 19:23:21   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-19, 19:23:23   RefreshDrawer beg!
+2020-07-19, 19:23:23   --CDrawerPool::ReInitPool----begin------
+2020-07-19, 19:23:23   --CDrawerPool::ReInitPool-----end-----
+2020-07-19, 19:23:23   RefreshDrawer suc!
+2020-07-19, 19:23:23   绘制池不足，建立新绘制器： 2
+2020-07-19, 19:23:29   To exit yimaenc....
+2020-07-19, 19:23:29   drawer release finished!
+2020-07-19, 19:23:29   drawer release finished!
+2020-07-19, 19:23:29   绘制池清理完毕
+2020-07-19, 19:23:29   绘制线程清理完毕
+2020-07-19, 19:23:29   绘制线程清理完毕
+2020-07-19, 19:23:29   绘制线程清理完毕
+2020-07-19, 19:23:29   绘制线程清理完毕
+2020-07-19, 19:23:29   绘制线程清理完毕
+2020-07-19, 19:23:29   绘制线程清理完毕
+2020-07-19, 19:23:29   绘制线程清理完毕
+2020-07-19, 19:23:29   绘制线程清理完毕
+2020-07-19, 19:23:29   自定义线程清理完毕
+2020-07-19, 19:23:29   线程池清理完毕
+2020-07-19, 19:23:29   图幅加载线程清理完毕
+2020-07-19, 19:23:29   drawer release finished!
+2020-07-19, 19:23:29   drawer release finished!
+2020-07-19, 19:23:29   drawer release finished!
+2020-07-19, 19:23:29   To exit process....
+2020-07-19, 19:23:34   -----APP START-----
+
+
+2020-07-19, 19:23:34   ----------YimaEnc Control started ----------
+2020-07-19, 19:23:34   Begin to VerifyUserLicense! .........
+2020-07-19, 19:23:34   服务许可验证失败，转为本地检测
+2020-07-19, 19:23:34   电子狗激活已被禁用
+2020-07-19, 19:23:34   Failed to find YimaEncBHW.lic
+2020-07-19, 19:23:34   Failed to find YimaEncBH.lic
+2020-07-19, 19:23:34   Success to VerifyUserLicense.
+2020-07-19, 19:23:34   D:\03-个人代码\项目\Project\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-19, 19:23:34   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-19, 19:23:34   DGPS01
+2020-07-19, 19:23:34   DGPS01
+2020-07-19, 19:23:34   绘制池不足，建立新绘制器： 1
+2020-07-19, 19:23:34   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-19, 19:23:34   +++++ Init success! ++++++
+2020-07-19, 19:23:34   RefreshDrawer beg!
+2020-07-19, 19:23:34   --CDrawerPool::ReInitPool----begin------
+2020-07-19, 19:23:34   --CDrawerPool::ReInitPool-----end-----
+2020-07-19, 19:23:34   RefreshDrawer suc!
+2020-07-19, 19:23:34   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-19, 19:23:34   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-19, 19:23:34   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-19, 19:23:34   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-19, 19:23:34   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-19, 19:23:34   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-19, 19:23:36   RefreshDrawer beg!
+2020-07-19, 19:23:36   --CDrawerPool::ReInitPool----begin------
+2020-07-19, 19:23:36   --CDrawerPool::ReInitPool-----end-----
+2020-07-19, 19:23:36   RefreshDrawer suc!
+2020-07-19, 19:23:36   绘制池不足，建立新绘制器： 2
+2020-07-19, 19:23:44   To exit yimaenc....
+2020-07-19, 19:23:44   drawer release finished!
+2020-07-19, 19:23:44   drawer release finished!
+2020-07-19, 19:23:44   绘制池清理完毕
+2020-07-19, 19:23:44   绘制线程清理完毕
+2020-07-19, 19:23:44   绘制线程清理完毕
+2020-07-19, 19:23:44   绘制线程清理完毕
+2020-07-19, 19:23:44   绘制线程清理完毕
+2020-07-19, 19:23:44   绘制线程清理完毕
+2020-07-19, 19:23:44   绘制线程清理完毕
+2020-07-19, 19:23:44   绘制线程清理完毕
+2020-07-19, 19:23:44   绘制线程清理完毕
+2020-07-19, 19:23:44   自定义线程清理完毕
+2020-07-19, 19:23:44   线程池清理完毕
+2020-07-19, 19:23:44   图幅加载线程清理完毕
+2020-07-19, 19:23:44   drawer release finished!
+2020-07-19, 19:23:44   drawer release finished!
+2020-07-19, 19:23:44   drawer release finished!
+2020-07-19, 19:23:44   To exit process....
+2020-07-20, 09:01:14   -----APP START-----
+
+
+2020-07-20, 09:01:14   ----------YimaEnc Control started ----------
+2020-07-20, 09:01:14   Begin to VerifyUserLicense! .........
+2020-07-20, 09:01:14   服务许可验证失败，转为本地检测
+2020-07-20, 09:01:14   电子狗激活已被禁用
+2020-07-20, 09:01:14   Failed to find YimaEncBHW.lic
+2020-07-20, 09:01:14   Failed to find YimaEncBH.lic
+2020-07-20, 09:01:14   Success to VerifyUserLicense.
+2020-07-20, 09:01:14   D:\03-个人代码\项目\Project\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-20, 09:01:14   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-20, 09:01:14   DGPS01
+2020-07-20, 09:01:14   DGPS01
+2020-07-20, 09:01:14   绘制池不足，建立新绘制器： 1
+2020-07-20, 09:01:14   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-20, 09:01:14   +++++ Init success! ++++++
+2020-07-20, 09:01:14   RefreshDrawer beg!
+2020-07-20, 09:01:14   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 09:01:14   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 09:01:14   RefreshDrawer suc!
+2020-07-20, 09:01:14   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 09:01:14   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 09:01:14   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 09:01:14   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 09:01:14   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 09:01:14   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 09:01:20   RefreshDrawer beg!
+2020-07-20, 09:01:20   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 09:01:20   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 09:01:20   RefreshDrawer suc!
+2020-07-20, 09:01:20   绘制池不足，建立新绘制器： 2
+2020-07-20, 09:01:33   To exit yimaenc....
+2020-07-20, 09:01:33   drawer release finished!
+2020-07-20, 09:01:33   drawer release finished!
+2020-07-20, 09:01:33   绘制池清理完毕
+2020-07-20, 09:01:33   绘制线程清理完毕
+2020-07-20, 09:01:33   绘制线程清理完毕
+2020-07-20, 09:01:33   绘制线程清理完毕
+2020-07-20, 09:01:33   绘制线程清理完毕
+2020-07-20, 09:01:33   绘制线程清理完毕
+2020-07-20, 09:01:33   绘制线程清理完毕
+2020-07-20, 09:01:33   绘制线程清理完毕
+2020-07-20, 09:01:33   绘制线程清理完毕
+2020-07-20, 09:01:33   自定义线程清理完毕
+2020-07-20, 09:01:33   线程池清理完毕
+2020-07-20, 09:01:33   图幅加载线程清理完毕
+2020-07-20, 09:01:33   drawer release finished!
+2020-07-20, 09:01:33   drawer release finished!
+2020-07-20, 09:01:33   drawer release finished!
+2020-07-20, 09:01:33   To exit process....
+2020-07-20, 09:02:23   -----APP START-----
+
+
+2020-07-20, 09:02:23   ----------YimaEnc Control started ----------
+2020-07-20, 09:02:23   Begin to VerifyUserLicense! .........
+2020-07-20, 09:02:23   服务许可验证失败，转为本地检测
+2020-07-20, 09:02:23   电子狗激活已被禁用
+2020-07-20, 09:02:23   Failed to find YimaEncBHW.lic
+2020-07-20, 09:02:23   Failed to find YimaEncBH.lic
+2020-07-20, 09:02:23   Success to VerifyUserLicense.
+2020-07-20, 09:02:23   D:\03-个人代码\项目\Project\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-20, 09:02:23   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-20, 09:02:23   DGPS01
+2020-07-20, 09:02:23   DGPS01
+2020-07-20, 09:02:23   绘制池不足，建立新绘制器： 1
+2020-07-20, 09:02:23   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-20, 09:02:23   +++++ Init success! ++++++
+2020-07-20, 09:02:23   RefreshDrawer beg!
+2020-07-20, 09:02:23   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 09:02:23   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 09:02:23   RefreshDrawer suc!
+2020-07-20, 09:02:23   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 09:02:23   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 09:02:23   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 09:02:23   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 09:02:23   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 09:02:23   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 09:03:06   RefreshDrawer beg!
+2020-07-20, 09:03:06   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 09:03:06   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 09:03:06   RefreshDrawer suc!
+2020-07-20, 09:03:06   绘制池不足，建立新绘制器： 2
+2020-07-20, 09:03:08   绘制池不足，建立新绘制器： 3
+2020-07-20, 09:03:13   RefreshDrawer beg!
+2020-07-20, 09:03:13   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 09:03:13   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 09:03:13   RefreshDrawer suc!
+2020-07-20, 09:03:38   To exit yimaenc....
+2020-07-20, 09:03:38   drawer release finished!
+2020-07-20, 09:03:38   drawer release finished!
+2020-07-20, 09:03:38   drawer release finished!
+2020-07-20, 09:03:38   绘制池清理完毕
+2020-07-20, 09:03:38   绘制线程清理完毕
+2020-07-20, 09:03:38   绘制线程清理完毕
+2020-07-20, 09:03:38   绘制线程清理完毕
+2020-07-20, 09:03:38   绘制线程清理完毕
+2020-07-20, 09:03:38   绘制线程清理完毕
+2020-07-20, 09:03:38   绘制线程清理完毕
+2020-07-20, 09:03:38   绘制线程清理完毕
+2020-07-20, 09:03:38   绘制线程清理完毕
+2020-07-20, 09:03:38   自定义线程清理完毕
+2020-07-20, 09:03:38   线程池清理完毕
+2020-07-20, 09:03:38   图幅加载线程清理完毕
+2020-07-20, 09:03:38   drawer release finished!
+2020-07-20, 09:03:38   drawer release finished!
+2020-07-20, 09:03:38   drawer release finished!
+2020-07-20, 09:03:38   To exit process....
+2020-07-20, 09:10:06   -----APP START-----
+
+
+2020-07-20, 09:10:06   ----------YimaEnc Control started ----------
+2020-07-20, 09:10:06   Begin to VerifyUserLicense! .........
+2020-07-20, 09:10:06   服务许可验证失败，转为本地检测
+2020-07-20, 09:10:06   电子狗激活已被禁用
+2020-07-20, 09:10:06   Failed to find YimaEncBHW.lic
+2020-07-20, 09:10:06   Failed to find YimaEncBH.lic
+2020-07-20, 09:10:06   Success to VerifyUserLicense.
+2020-07-20, 09:10:06   D:\03-个人代码\项目\Project\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-20, 09:10:06   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-20, 09:10:06   DGPS01
+2020-07-20, 09:10:06   DGPS01
+2020-07-20, 09:10:06   绘制池不足，建立新绘制器： 1
+2020-07-20, 09:10:06   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-20, 09:10:06   +++++ Init success! ++++++
+2020-07-20, 09:10:06   RefreshDrawer beg!
+2020-07-20, 09:10:06   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 09:10:06   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 09:10:06   RefreshDrawer suc!
+2020-07-20, 09:10:06   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 09:10:06   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 09:10:06   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 09:10:06   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 09:10:06   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 09:10:06   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 09:10:08   RefreshDrawer beg!
+2020-07-20, 09:10:08   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 09:10:08   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 09:10:08   RefreshDrawer suc!
+2020-07-20, 09:10:08   绘制池不足，建立新绘制器： 2
+2020-07-20, 09:10:25   To exit yimaenc....
+2020-07-20, 09:10:25   drawer release finished!
+2020-07-20, 09:10:25   drawer release finished!
+2020-07-20, 09:10:25   绘制池清理完毕
+2020-07-20, 09:10:25   绘制线程清理完毕
+2020-07-20, 09:10:25   绘制线程清理完毕
+2020-07-20, 09:10:25   绘制线程清理完毕
+2020-07-20, 09:10:25   绘制线程清理完毕
+2020-07-20, 09:10:25   绘制线程清理完毕
+2020-07-20, 09:10:25   绘制线程清理完毕
+2020-07-20, 09:10:25   绘制线程清理完毕
+2020-07-20, 09:10:25   绘制线程清理完毕
+2020-07-20, 09:10:25   自定义线程清理完毕
+2020-07-20, 09:10:25   线程池清理完毕
+2020-07-20, 09:10:25   图幅加载线程清理完毕
+2020-07-20, 09:10:25   drawer release finished!
+2020-07-20, 09:10:25   drawer release finished!
+2020-07-20, 09:10:25   drawer release finished!
+2020-07-20, 09:10:25   To exit process....
+2020-07-20, 14:21:48   -----APP START-----
+
+
+2020-07-20, 14:21:48   ----------YimaEnc Control started ----------
+2020-07-20, 14:21:48   Begin to VerifyUserLicense! .........
+2020-07-20, 14:21:48   服务许可验证失败，转为本地检测
+2020-07-20, 14:21:48   电子狗激活已被禁用
+2020-07-20, 14:21:48   Failed to find YimaEncBHW.lic
+2020-07-20, 14:21:48   Failed to find YimaEncBH.lic
+2020-07-20, 14:21:48   Success to VerifyUserLicense.
+2020-07-20, 14:21:48   D:\03-个人代码\项目\Project\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-20, 14:21:48   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-20, 14:21:48   DGPS01
+2020-07-20, 14:21:48   DGPS01
+2020-07-20, 14:21:48   绘制池不足，建立新绘制器： 1
+2020-07-20, 14:21:48   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-20, 14:21:48   +++++ Init success! ++++++
+2020-07-20, 14:21:48   RefreshDrawer beg!
+2020-07-20, 14:21:48   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 14:21:48   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 14:21:48   RefreshDrawer suc!
+2020-07-20, 14:21:48   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 14:21:48   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 14:21:48   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 14:21:48   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 14:21:48   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 14:21:48   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 14:21:49   绘制池不足，建立新绘制器： 2
+2020-07-20, 14:21:58   绘制池不足，建立新绘制器： 3
+2020-07-20, 14:22:04   RefreshDrawer beg!
+2020-07-20, 14:22:04   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 14:22:04   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 14:22:04   RefreshDrawer suc!
+2020-07-20, 14:22:06   RefreshDrawer beg!
+2020-07-20, 14:22:06   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 14:22:06   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 14:22:06   RefreshDrawer suc!
+2020-07-20, 14:22:06   RefreshDrawer beg!
+2020-07-20, 14:22:06   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 14:22:06   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 14:22:06   RefreshDrawer suc!
+2020-07-20, 14:22:06   RefreshDrawer beg!
+2020-07-20, 14:22:06   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 14:22:06   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 14:22:06   RefreshDrawer suc!
+2020-07-20, 14:22:06   RefreshDrawer beg!
+2020-07-20, 14:22:06   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 14:22:06   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 14:22:06   RefreshDrawer suc!
+2020-07-20, 14:22:06   RefreshDrawer beg!
+2020-07-20, 14:22:06   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 14:22:06   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 14:22:06   RefreshDrawer suc!
+2020-07-20, 14:22:06   RefreshDrawer beg!
+2020-07-20, 14:22:06   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 14:22:06   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 14:22:06   RefreshDrawer suc!
+2020-07-20, 14:22:06   RefreshDrawer beg!
+2020-07-20, 14:22:06   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 14:22:06   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 14:22:06   RefreshDrawer suc!
+2020-07-20, 14:22:06   RefreshDrawer beg!
+2020-07-20, 14:22:06   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 14:22:06   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 14:22:06   RefreshDrawer suc!
+2020-07-20, 14:22:06   RefreshDrawer beg!
+2020-07-20, 14:22:06   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 14:22:06   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 14:22:06   RefreshDrawer suc!
+2020-07-20, 14:22:06   RefreshDrawer beg!
+2020-07-20, 14:22:06   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 14:22:06   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 14:22:06   RefreshDrawer suc!
+2020-07-20, 14:22:06   RefreshDrawer beg!
+2020-07-20, 14:22:06   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 14:22:06   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 14:22:06   RefreshDrawer suc!
+2020-07-20, 14:22:07   RefreshDrawer beg!
+2020-07-20, 14:22:07   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 14:22:07   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 14:22:07   RefreshDrawer suc!
+2020-07-20, 14:22:07   RefreshDrawer beg!
+2020-07-20, 14:22:07   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 14:22:07   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 14:22:07   RefreshDrawer suc!
+2020-07-20, 14:22:07   RefreshDrawer beg!
+2020-07-20, 14:22:07   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 14:22:07   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 14:22:07   RefreshDrawer suc!
+2020-07-20, 14:22:07   RefreshDrawer beg!
+2020-07-20, 14:22:07   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 14:22:07   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 14:22:07   RefreshDrawer suc!
+2020-07-20, 14:22:07   RefreshDrawer beg!
+2020-07-20, 14:22:07   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 14:22:07   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 14:22:07   RefreshDrawer suc!
+2020-07-20, 14:22:08   RefreshDrawer beg!
+2020-07-20, 14:22:08   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 14:22:08   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 14:22:08   RefreshDrawer suc!
+2020-07-20, 14:22:08   RefreshDrawer beg!
+2020-07-20, 14:22:08   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 14:22:08   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 14:22:08   RefreshDrawer suc!
+2020-07-20, 14:22:08   RefreshDrawer beg!
+2020-07-20, 14:22:08   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 14:22:08   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 14:22:08   RefreshDrawer suc!
+2020-07-20, 14:22:08   RefreshDrawer beg!
+2020-07-20, 14:22:08   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 14:22:08   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 14:22:08   RefreshDrawer suc!
+2020-07-20, 14:22:08   RefreshDrawer beg!
+2020-07-20, 14:22:08   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 14:22:08   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 14:22:08   RefreshDrawer suc!
+2020-07-20, 14:22:08   RefreshDrawer beg!
+2020-07-20, 14:22:08   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 14:22:08   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 14:22:08   RefreshDrawer suc!
+2020-07-20, 14:22:08   RefreshDrawer beg!
+2020-07-20, 14:22:08   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 14:22:08   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 14:22:08   RefreshDrawer suc!
+2020-07-20, 14:22:08   RefreshDrawer beg!
+2020-07-20, 14:22:08   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 14:22:08   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 14:22:08   RefreshDrawer suc!
+2020-07-20, 14:22:08   RefreshDrawer beg!
+2020-07-20, 14:22:08   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 14:22:08   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 14:22:08   RefreshDrawer suc!
+2020-07-20, 14:22:08   RefreshDrawer beg!
+2020-07-20, 14:22:08   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 14:22:08   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 14:22:08   RefreshDrawer suc!
+2020-07-20, 14:22:09   RefreshDrawer beg!
+2020-07-20, 14:22:09   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 14:22:09   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 14:22:09   RefreshDrawer suc!
+2020-07-20, 14:22:09   RefreshDrawer beg!
+2020-07-20, 14:22:09   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 14:22:09   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 14:22:09   RefreshDrawer suc!
+2020-07-20, 14:22:16   RefreshDrawer beg!
+2020-07-20, 14:22:16   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 14:22:16   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 14:22:16   RefreshDrawer suc!
+2020-07-20, 14:22:38   To exit yimaenc....
+2020-07-20, 14:22:38   drawer release finished!
+2020-07-20, 14:22:38   drawer release finished!
+2020-07-20, 14:22:38   drawer release finished!
+2020-07-20, 14:22:38   绘制池清理完毕
+2020-07-20, 14:22:38   绘制线程清理完毕
+2020-07-20, 14:22:38   绘制线程清理完毕
+2020-07-20, 14:22:38   绘制线程清理完毕
+2020-07-20, 14:22:38   绘制线程清理完毕
+2020-07-20, 14:22:38   绘制线程清理完毕
+2020-07-20, 14:22:38   绘制线程清理完毕
+2020-07-20, 14:22:38   绘制线程清理完毕
+2020-07-20, 14:22:38   绘制线程清理完毕
+2020-07-20, 14:22:38   自定义线程清理完毕
+2020-07-20, 14:22:38   线程池清理完毕
+2020-07-20, 14:22:38   图幅加载线程清理完毕
+2020-07-20, 14:22:38   drawer release finished!
+2020-07-20, 14:22:38   drawer release finished!
+2020-07-20, 14:22:38   drawer release finished!
+2020-07-20, 14:22:38   To exit process....
+2020-07-20, 14:27:26   -----APP START-----
+
+
+2020-07-20, 14:27:26   ----------YimaEnc Control started ----------
+2020-07-20, 14:27:26   Begin to VerifyUserLicense! .........
+2020-07-20, 14:27:26   服务许可验证失败，转为本地检测
+2020-07-20, 14:27:26   电子狗激活已被禁用
+2020-07-20, 14:27:26   Failed to find YimaEncBHW.lic
+2020-07-20, 14:27:26   Failed to find YimaEncBH.lic
+2020-07-20, 14:27:26   Success to VerifyUserLicense.
+2020-07-20, 14:27:26   D:\03-个人代码\项目\Project\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-20, 14:27:27   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-20, 14:27:27   DGPS01
+2020-07-20, 14:27:27   DGPS01
+2020-07-20, 14:27:27   绘制池不足，建立新绘制器： 1
+2020-07-20, 14:27:27   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-20, 14:27:27   +++++ Init success! ++++++
+2020-07-20, 14:27:27   RefreshDrawer beg!
+2020-07-20, 14:27:27   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 14:27:27   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 14:27:27   RefreshDrawer suc!
+2020-07-20, 14:27:27   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 14:27:27   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 14:27:27   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 14:27:27   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 14:27:27   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 14:27:27   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 14:27:28   RefreshDrawer beg!
+2020-07-20, 14:27:28   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 14:27:28   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 14:27:28   RefreshDrawer suc!
+2020-07-20, 14:27:28   绘制池不足，建立新绘制器： 2
+2020-07-20, 14:27:32   To exit yimaenc....
+2020-07-20, 14:27:32   drawer release finished!
+2020-07-20, 14:27:32   drawer release finished!
+2020-07-20, 14:27:32   绘制池清理完毕
+2020-07-20, 14:27:32   绘制线程清理完毕
+2020-07-20, 14:27:32   绘制线程清理完毕
+2020-07-20, 14:27:32   绘制线程清理完毕
+2020-07-20, 14:27:32   绘制线程清理完毕
+2020-07-20, 14:27:32   绘制线程清理完毕
+2020-07-20, 14:27:32   绘制线程清理完毕
+2020-07-20, 14:27:32   绘制线程清理完毕
+2020-07-20, 14:27:32   绘制线程清理完毕
+2020-07-20, 14:27:32   自定义线程清理完毕
+2020-07-20, 14:27:32   线程池清理完毕
+2020-07-20, 14:27:32   图幅加载线程清理完毕
+2020-07-20, 14:27:32   drawer release finished!
+2020-07-20, 14:27:32   drawer release finished!
+2020-07-20, 14:27:32   drawer release finished!
+2020-07-20, 14:27:32   To exit process....
+2020-07-20, 14:31:14   -----APP START-----
+
+
+2020-07-20, 14:31:14   ----------YimaEnc Control started ----------
+2020-07-20, 14:31:14   Begin to VerifyUserLicense! .........
+2020-07-20, 14:31:14   服务许可验证失败，转为本地检测
+2020-07-20, 14:31:14   电子狗激活已被禁用
+2020-07-20, 14:31:14   Failed to find YimaEncBHW.lic
+2020-07-20, 14:31:14   Failed to find YimaEncBH.lic
+2020-07-20, 14:31:14   Success to VerifyUserLicense.
+2020-07-20, 14:31:14   D:\03-个人代码\项目\Project\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-20, 14:31:14   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-20, 14:31:14   DGPS01
+2020-07-20, 14:31:14   DGPS01
+2020-07-20, 14:31:14   绘制池不足，建立新绘制器： 1
+2020-07-20, 14:31:14   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-20, 14:31:14   +++++ Init success! ++++++
+2020-07-20, 14:31:14   RefreshDrawer beg!
+2020-07-20, 14:31:14   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 14:31:14   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 14:31:14   RefreshDrawer suc!
+2020-07-20, 14:31:14   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 14:31:14   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 14:31:14   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 14:31:14   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 14:31:14   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 14:31:14   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 14:31:16   绘制池不足，建立新绘制器： 2
+2020-07-20, 14:31:26   To exit yimaenc....
+2020-07-20, 14:31:26   drawer release finished!
+2020-07-20, 14:31:26   drawer release finished!
+2020-07-20, 14:31:26   绘制池清理完毕
+2020-07-20, 14:31:26   绘制线程清理完毕
+2020-07-20, 14:31:26   绘制线程清理完毕
+2020-07-20, 14:31:26   绘制线程清理完毕
+2020-07-20, 14:31:26   绘制线程清理完毕
+2020-07-20, 14:31:26   绘制线程清理完毕
+2020-07-20, 14:31:26   绘制线程清理完毕
+2020-07-20, 14:31:26   绘制线程清理完毕
+2020-07-20, 14:31:26   绘制线程清理完毕
+2020-07-20, 14:31:26   自定义线程清理完毕
+2020-07-20, 14:31:26   线程池清理完毕
+2020-07-20, 14:31:26   图幅加载线程清理完毕
+2020-07-20, 14:31:26   drawer release finished!
+2020-07-20, 14:31:26   drawer release finished!
+2020-07-20, 14:31:26   drawer release finished!
+2020-07-20, 14:31:26   To exit process....
+2020-07-20, 14:50:19   -----APP START-----
+
+
+2020-07-20, 14:50:19   ----------YimaEnc Control started ----------
+2020-07-20, 14:50:19   Begin to VerifyUserLicense! .........
+2020-07-20, 14:50:19   服务许可验证失败，转为本地检测
+2020-07-20, 14:50:19   电子狗激活已被禁用
+2020-07-20, 14:50:19   Failed to find YimaEncBHW.lic
+2020-07-20, 14:50:19   Failed to find YimaEncBH.lic
+2020-07-20, 14:50:19   Success to VerifyUserLicense.
+2020-07-20, 14:50:19   D:\03-个人代码\项目\Project\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-20, 14:50:19   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-20, 14:50:19   DGPS01
+2020-07-20, 14:50:19   DGPS01
+2020-07-20, 14:50:19   绘制池不足，建立新绘制器： 1
+2020-07-20, 14:50:20   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-20, 14:50:20   +++++ Init success! ++++++
+2020-07-20, 14:50:20   RefreshDrawer beg!
+2020-07-20, 14:50:20   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 14:50:20   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 14:50:20   RefreshDrawer suc!
+2020-07-20, 14:50:20   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 14:50:20   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 14:50:20   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 14:50:20   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 14:50:20   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 14:50:20   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 14:50:21   绘制池不足，建立新绘制器： 2
+2020-07-20, 14:50:25   To exit yimaenc....
+2020-07-20, 14:50:25   drawer release finished!
+2020-07-20, 14:50:25   drawer release finished!
+2020-07-20, 14:50:25   绘制池清理完毕
+2020-07-20, 14:50:25   绘制线程清理完毕
+2020-07-20, 14:50:25   绘制线程清理完毕
+2020-07-20, 14:50:25   绘制线程清理完毕
+2020-07-20, 14:50:25   绘制线程清理完毕
+2020-07-20, 14:50:25   绘制线程清理完毕
+2020-07-20, 14:50:25   绘制线程清理完毕
+2020-07-20, 14:50:25   绘制线程清理完毕
+2020-07-20, 14:50:25   绘制线程清理完毕
+2020-07-20, 14:50:25   自定义线程清理完毕
+2020-07-20, 14:50:25   线程池清理完毕
+2020-07-20, 14:50:25   图幅加载线程清理完毕
+2020-07-20, 14:50:25   drawer release finished!
+2020-07-20, 14:50:25   drawer release finished!
+2020-07-20, 14:50:25   drawer release finished!
+2020-07-20, 14:50:25   To exit process....
+2020-07-20, 14:52:42   -----APP START-----
+
+
+2020-07-20, 14:52:42   ----------YimaEnc Control started ----------
+2020-07-20, 14:52:42   Begin to VerifyUserLicense! .........
+2020-07-20, 14:52:42   服务许可验证失败，转为本地检测
+2020-07-20, 14:52:42   电子狗激活已被禁用
+2020-07-20, 14:52:42   Failed to find YimaEncBHW.lic
+2020-07-20, 14:52:42   Failed to find YimaEncBH.lic
+2020-07-20, 14:52:42   Success to VerifyUserLicense.
+2020-07-20, 14:52:42   D:\03-个人代码\项目\Project\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-20, 14:52:42   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-20, 14:52:42   DGPS01
+2020-07-20, 14:52:42   DGPS01
+2020-07-20, 14:52:42   绘制池不足，建立新绘制器： 1
+2020-07-20, 14:52:42   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-20, 14:52:42   +++++ Init success! ++++++
+2020-07-20, 14:52:42   RefreshDrawer beg!
+2020-07-20, 14:52:42   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 14:52:42   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 14:52:42   RefreshDrawer suc!
+2020-07-20, 14:52:42   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 14:52:42   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 14:52:42   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 14:52:42   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 14:52:42   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 14:52:42   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 14:52:43   绘制池不足，建立新绘制器： 2
+2020-07-20, 14:52:46   To exit yimaenc....
+2020-07-20, 14:52:46   drawer release finished!
+2020-07-20, 14:52:46   drawer release finished!
+2020-07-20, 14:52:46   绘制池清理完毕
+2020-07-20, 14:52:46   绘制线程清理完毕
+2020-07-20, 14:52:46   绘制线程清理完毕
+2020-07-20, 14:52:46   绘制线程清理完毕
+2020-07-20, 14:52:46   绘制线程清理完毕
+2020-07-20, 14:52:46   绘制线程清理完毕
+2020-07-20, 14:52:46   绘制线程清理完毕
+2020-07-20, 14:52:46   绘制线程清理完毕
+2020-07-20, 14:52:46   绘制线程清理完毕
+2020-07-20, 14:52:46   自定义线程清理完毕
+2020-07-20, 14:52:46   线程池清理完毕
+2020-07-20, 14:52:46   图幅加载线程清理完毕
+2020-07-20, 14:52:46   drawer release finished!
+2020-07-20, 14:52:46   drawer release finished!
+2020-07-20, 14:52:46   drawer release finished!
+2020-07-20, 14:52:46   To exit process....
+2020-07-20, 15:00:09   -----APP START-----
+
+
+2020-07-20, 15:00:09   ----------YimaEnc Control started ----------
+2020-07-20, 15:00:09   Begin to VerifyUserLicense! .........
+2020-07-20, 15:00:09   服务许可验证失败，转为本地检测
+2020-07-20, 15:00:09   电子狗激活已被禁用
+2020-07-20, 15:00:09   Failed to find YimaEncBHW.lic
+2020-07-20, 15:00:09   Failed to find YimaEncBH.lic
+2020-07-20, 15:00:09   Success to VerifyUserLicense.
+2020-07-20, 15:00:09   D:\03-个人代码\项目\Project\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-20, 15:00:09   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-20, 15:00:09   DGPS01
+2020-07-20, 15:00:09   DGPS01
+2020-07-20, 15:00:09   绘制池不足，建立新绘制器： 1
+2020-07-20, 15:00:09   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-20, 15:00:09   +++++ Init success! ++++++
+2020-07-20, 15:00:09   RefreshDrawer beg!
+2020-07-20, 15:00:09   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 15:00:09   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 15:00:09   RefreshDrawer suc!
+2020-07-20, 15:00:09   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 15:00:09   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 15:00:09   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 15:00:09   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 15:00:09   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 15:00:09   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 15:00:11   绘制池不足，建立新绘制器： 2
+2020-07-20, 15:00:16   绘制池不足，建立新绘制器： 3
+2020-07-20, 15:00:23   To exit yimaenc....
+2020-07-20, 15:00:23   drawer release finished!
+2020-07-20, 15:00:23   drawer release finished!
+2020-07-20, 15:00:23   drawer release finished!
+2020-07-20, 15:00:23   绘制池清理完毕
+2020-07-20, 15:00:23   绘制线程清理完毕
+2020-07-20, 15:00:23   绘制线程清理完毕
+2020-07-20, 15:00:23   绘制线程清理完毕
+2020-07-20, 15:00:23   绘制线程清理完毕
+2020-07-20, 15:00:23   绘制线程清理完毕
+2020-07-20, 15:00:23   绘制线程清理完毕
+2020-07-20, 15:00:23   绘制线程清理完毕
+2020-07-20, 15:00:23   绘制线程清理完毕
+2020-07-20, 15:00:23   自定义线程清理完毕
+2020-07-20, 15:00:23   线程池清理完毕
+2020-07-20, 15:00:23   图幅加载线程清理完毕
+2020-07-20, 15:00:23   drawer release finished!
+2020-07-20, 15:00:23   drawer release finished!
+2020-07-20, 15:00:23   drawer release finished!
+2020-07-20, 15:00:23   To exit process....
+2020-07-20, 15:50:15   -----APP START-----
+
+
+2020-07-20, 15:50:15   ----------YimaEnc Control started ----------
+2020-07-20, 15:50:15   Begin to VerifyUserLicense! .........
+2020-07-20, 15:50:15   服务许可验证失败，转为本地检测
+2020-07-20, 15:50:15   电子狗激活已被禁用
+2020-07-20, 15:50:15   Failed to find YimaEncBHW.lic
+2020-07-20, 15:50:15   Failed to find YimaEncBH.lic
+2020-07-20, 15:50:15   Success to VerifyUserLicense.
+2020-07-20, 15:50:15   D:\03-个人代码\项目\Project\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-20, 15:50:15   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-20, 15:50:15   DGPS01
+2020-07-20, 15:50:15   DGPS01
+2020-07-20, 15:50:15   绘制池不足，建立新绘制器： 1
+2020-07-20, 15:50:15   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-20, 15:50:15   +++++ Init success! ++++++
+2020-07-20, 15:50:15   RefreshDrawer beg!
+2020-07-20, 15:50:15   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 15:50:15   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 15:50:15   RefreshDrawer suc!
+2020-07-20, 15:50:15   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 15:50:15   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 15:50:15   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 15:50:15   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 15:50:15   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 15:50:15   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 15:50:15   RefreshDrawer beg!
+2020-07-20, 15:50:15   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 15:50:15   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 15:50:15   RefreshDrawer suc!
+2020-07-20, 15:50:15   绘制池不足，建立新绘制器： 2
+2020-07-20, 15:51:01   To exit yimaenc....
+2020-07-20, 15:51:01   drawer release finished!
+2020-07-20, 15:51:01   drawer release finished!
+2020-07-20, 15:51:01   绘制池清理完毕
+2020-07-20, 15:51:01   绘制线程清理完毕
+2020-07-20, 15:51:01   绘制线程清理完毕
+2020-07-20, 15:51:01   绘制线程清理完毕
+2020-07-20, 15:51:01   绘制线程清理完毕
+2020-07-20, 15:51:01   绘制线程清理完毕
+2020-07-20, 15:51:01   绘制线程清理完毕
+2020-07-20, 15:51:01   绘制线程清理完毕
+2020-07-20, 15:51:01   绘制线程清理完毕
+2020-07-20, 15:51:01   自定义线程清理完毕
+2020-07-20, 15:51:01   线程池清理完毕
+2020-07-20, 15:51:01   图幅加载线程清理完毕
+2020-07-20, 15:51:01   drawer release finished!
+2020-07-20, 15:51:01   drawer release finished!
+2020-07-20, 15:51:01   drawer release finished!
+2020-07-20, 15:51:01   To exit process....
+2020-07-20, 19:23:15   -----APP START-----
+
+
+2020-07-20, 19:23:15   ----------YimaEnc Control started ----------
+2020-07-20, 19:23:15   Begin to VerifyUserLicense! .........
+2020-07-20, 19:23:15   服务许可验证失败，转为本地检测
+2020-07-20, 19:23:15   电子狗激活已被禁用
+2020-07-20, 19:23:15   Failed to find YimaEncBHW.lic
+2020-07-20, 19:23:15   Failed to find YimaEncBH.lic
+2020-07-20, 19:23:15   Success to VerifyUserLicense.
+2020-07-20, 19:23:15   C:\Users\zhengweilin\Desktop\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-20, 19:23:15   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-20, 19:23:15   DGPS01
+2020-07-20, 19:23:15   DGPS01
+2020-07-20, 19:23:15   绘制池不足，建立新绘制器： 1
+2020-07-20, 19:23:15   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-20, 19:23:15   +++++ Init success! ++++++
+2020-07-20, 19:23:15   RefreshDrawer beg!
+2020-07-20, 19:23:15   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 19:23:15   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 19:23:15   RefreshDrawer suc!
+2020-07-20, 19:23:15   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 19:23:15   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 19:23:15   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 19:23:15   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 19:23:15   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 19:23:15   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 19:23:17   绘制池不足，建立新绘制器： 2
+2020-07-20, 19:24:23   绘制池不足，建立新绘制器： 3
+2020-07-20, 19:26:42   To exit yimaenc....
+2020-07-20, 19:26:42   drawer release finished!
+2020-07-20, 19:26:42   drawer release finished!
+2020-07-20, 19:26:42   drawer release finished!
+2020-07-20, 19:26:42   绘制池清理完毕
+2020-07-20, 19:26:42   绘制线程清理完毕
+2020-07-20, 19:26:42   绘制线程清理完毕
+2020-07-20, 19:26:42   绘制线程清理完毕
+2020-07-20, 19:26:42   绘制线程清理完毕
+2020-07-20, 19:26:42   绘制线程清理完毕
+2020-07-20, 19:26:42   绘制线程清理完毕
+2020-07-20, 19:26:42   绘制线程清理完毕
+2020-07-20, 19:26:42   绘制线程清理完毕
+2020-07-20, 19:26:42   自定义线程清理完毕
+2020-07-20, 19:26:42   线程池清理完毕
+2020-07-20, 19:26:42   图幅加载线程清理完毕
+2020-07-20, 19:26:42   drawer release finished!
+2020-07-20, 19:26:42   drawer release finished!
+2020-07-20, 19:26:42   drawer release finished!
+2020-07-20, 19:26:42   To exit process....
+2020-07-20, 20:50:48   -----APP START-----
+
+
+2020-07-20, 20:50:48   ----------YimaEnc Control started ----------
+2020-07-20, 20:50:48   Begin to VerifyUserLicense! .........
+2020-07-20, 20:50:48   服务许可验证失败，转为本地检测
+2020-07-20, 20:50:48   电子狗激活已被禁用
+2020-07-20, 20:50:48   Failed to find YimaEncBHW.lic
+2020-07-20, 20:50:48   Failed to find YimaEncBH.lic
+2020-07-20, 20:50:48   Success to VerifyUserLicense.
+2020-07-20, 20:50:48   C:\Users\zhengweilin\Desktop\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-20, 20:50:48   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-20, 20:50:48   DGPS01
+2020-07-20, 20:50:48   DGPS01
+2020-07-20, 20:50:48   绘制池不足，建立新绘制器： 1
+2020-07-20, 20:50:48   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-20, 20:50:48   +++++ Init success! ++++++
+2020-07-20, 20:50:48   RefreshDrawer beg!
+2020-07-20, 20:50:48   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 20:50:48   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 20:50:48   RefreshDrawer suc!
+2020-07-20, 20:50:48   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 20:50:48   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 20:50:48   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 20:50:48   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 20:50:48   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 20:50:48   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 20:58:18   -----APP START-----
+
+
+2020-07-20, 20:58:18   ----------YimaEnc Control started ----------
+2020-07-20, 20:58:18   Begin to VerifyUserLicense! .........
+2020-07-20, 20:58:18   服务许可验证失败，转为本地检测
+2020-07-20, 20:58:18   电子狗激活已被禁用
+2020-07-20, 20:58:18   Failed to find YimaEncBHW.lic
+2020-07-20, 20:58:18   Failed to find YimaEncBH.lic
+2020-07-20, 20:58:18   Success to VerifyUserLicense.
+2020-07-20, 20:58:18   C:\Users\zhengweilin\Desktop\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-20, 20:58:18   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-20, 20:58:18   DGPS01
+2020-07-20, 20:58:18   DGPS01
+2020-07-20, 20:58:18   绘制池不足，建立新绘制器： 1
+2020-07-20, 20:58:18   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-20, 20:58:18   +++++ Init success! ++++++
+2020-07-20, 20:58:18   RefreshDrawer beg!
+2020-07-20, 20:58:18   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 20:58:18   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 20:58:18   RefreshDrawer suc!
+2020-07-20, 20:58:18   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 20:58:18   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 20:58:18   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 20:58:18   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 20:58:18   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 20:58:18   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 20:58:20   绘制池不足，建立新绘制器： 2
+2020-07-20, 20:58:31   To exit yimaenc....
+2020-07-20, 20:58:31   drawer release finished!
+2020-07-20, 20:58:31   drawer release finished!
+2020-07-20, 20:58:31   绘制池清理完毕
+2020-07-20, 20:58:31   绘制线程清理完毕
+2020-07-20, 20:58:31   绘制线程清理完毕
+2020-07-20, 20:58:31   绘制线程清理完毕
+2020-07-20, 20:58:31   绘制线程清理完毕
+2020-07-20, 20:58:31   绘制线程清理完毕
+2020-07-20, 20:58:31   绘制线程清理完毕
+2020-07-20, 20:58:31   绘制线程清理完毕
+2020-07-20, 20:58:31   绘制线程清理完毕
+2020-07-20, 20:58:31   自定义线程清理完毕
+2020-07-20, 20:58:31   线程池清理完毕
+2020-07-20, 20:58:31   图幅加载线程清理完毕
+2020-07-20, 20:58:31   drawer release finished!
+2020-07-20, 20:58:31   drawer release finished!
+2020-07-20, 20:58:31   drawer release finished!
+2020-07-20, 20:58:31   To exit process....
+2020-07-20, 21:06:13   -----APP START-----
+
+
+2020-07-20, 21:06:13   ----------YimaEnc Control started ----------
+2020-07-20, 21:06:13   Begin to VerifyUserLicense! .........
+2020-07-20, 21:06:13   服务许可验证失败，转为本地检测
+2020-07-20, 21:06:13   电子狗激活已被禁用
+2020-07-20, 21:06:13   Failed to find YimaEncBHW.lic
+2020-07-20, 21:06:13   Failed to find YimaEncBH.lic
+2020-07-20, 21:06:13   Success to VerifyUserLicense.
+2020-07-20, 21:06:13   C:\Users\zhengweilin\Desktop\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-20, 21:06:13   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-20, 21:06:13   DGPS01
+2020-07-20, 21:06:13   DGPS01
+2020-07-20, 21:06:13   绘制池不足，建立新绘制器： 1
+2020-07-20, 21:06:13   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-20, 21:06:13   +++++ Init success! ++++++
+2020-07-20, 21:06:13   RefreshDrawer beg!
+2020-07-20, 21:06:13   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 21:06:13   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 21:06:13   RefreshDrawer suc!
+2020-07-20, 21:06:13   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 21:06:13   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 21:06:13   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 21:06:13   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 21:06:13   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 21:06:13   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 21:06:15   绘制池不足，建立新绘制器： 2
+2020-07-20, 21:07:02   -----APP START-----
+
+
+2020-07-20, 21:07:02   ----------YimaEnc Control started ----------
+2020-07-20, 21:07:02   Begin to VerifyUserLicense! .........
+2020-07-20, 21:07:02   服务许可验证失败，转为本地检测
+2020-07-20, 21:07:02   电子狗激活已被禁用
+2020-07-20, 21:07:02   Failed to find YimaEncBHW.lic
+2020-07-20, 21:07:02   Failed to find YimaEncBH.lic
+2020-07-20, 21:07:02   Success to VerifyUserLicense.
+2020-07-20, 21:07:02   C:\Users\zhengweilin\Desktop\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-20, 21:07:03   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-20, 21:07:03   DGPS01
+2020-07-20, 21:07:03   DGPS01
+2020-07-20, 21:07:03   绘制池不足，建立新绘制器： 1
+2020-07-20, 21:07:03   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-20, 21:07:03   +++++ Init success! ++++++
+2020-07-20, 21:07:03   RefreshDrawer beg!
+2020-07-20, 21:07:03   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 21:07:03   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 21:07:03   RefreshDrawer suc!
+2020-07-20, 21:07:03   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 21:07:03   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 21:07:03   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 21:07:03   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 21:07:03   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 21:07:03   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 21:07:04   绘制池不足，建立新绘制器： 2
+2020-07-20, 21:07:59   -----APP START-----
+
+
+2020-07-20, 21:07:59   ----------YimaEnc Control started ----------
+2020-07-20, 21:07:59   Begin to VerifyUserLicense! .........
+2020-07-20, 21:07:59   服务许可验证失败，转为本地检测
+2020-07-20, 21:07:59   电子狗激活已被禁用
+2020-07-20, 21:07:59   Failed to find YimaEncBHW.lic
+2020-07-20, 21:07:59   Failed to find YimaEncBH.lic
+2020-07-20, 21:07:59   Success to VerifyUserLicense.
+2020-07-20, 21:07:59   C:\Users\zhengweilin\Desktop\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-20, 21:07:59   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-20, 21:07:59   DGPS01
+2020-07-20, 21:07:59   DGPS01
+2020-07-20, 21:07:59   绘制池不足，建立新绘制器： 1
+2020-07-20, 21:07:59   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-20, 21:07:59   +++++ Init success! ++++++
+2020-07-20, 21:07:59   RefreshDrawer beg!
+2020-07-20, 21:07:59   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 21:07:59   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 21:07:59   RefreshDrawer suc!
+2020-07-20, 21:07:59   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 21:07:59   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 21:07:59   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 21:07:59   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 21:07:59   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 21:07:59   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 21:08:01   绘制池不足，建立新绘制器： 2
+2020-07-20, 21:08:37   To exit yimaenc....
+2020-07-20, 21:08:37   drawer release finished!
+2020-07-20, 21:08:37   drawer release finished!
+2020-07-20, 21:08:37   绘制池清理完毕
+2020-07-20, 21:08:37   绘制线程清理完毕
+2020-07-20, 21:08:37   绘制线程清理完毕
+2020-07-20, 21:08:37   绘制线程清理完毕
+2020-07-20, 21:08:37   绘制线程清理完毕
+2020-07-20, 21:08:37   绘制线程清理完毕
+2020-07-20, 21:08:37   绘制线程清理完毕
+2020-07-20, 21:08:37   绘制线程清理完毕
+2020-07-20, 21:08:37   绘制线程清理完毕
+2020-07-20, 21:08:37   自定义线程清理完毕
+2020-07-20, 21:08:37   线程池清理完毕
+2020-07-20, 21:08:37   图幅加载线程清理完毕
+2020-07-20, 21:08:37   drawer release finished!
+2020-07-20, 21:08:37   drawer release finished!
+2020-07-20, 21:08:37   drawer release finished!
+2020-07-20, 21:08:37   To exit process....
+2020-07-20, 21:11:08   -----APP START-----
+
+
+2020-07-20, 21:11:08   ----------YimaEnc Control started ----------
+2020-07-20, 21:11:08   Begin to VerifyUserLicense! .........
+2020-07-20, 21:11:08   服务许可验证失败，转为本地检测
+2020-07-20, 21:11:08   电子狗激活已被禁用
+2020-07-20, 21:11:08   Failed to find YimaEncBHW.lic
+2020-07-20, 21:11:08   Failed to find YimaEncBH.lic
+2020-07-20, 21:11:08   Success to VerifyUserLicense.
+2020-07-20, 21:11:08   C:\Users\zhengweilin\Desktop\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-20, 21:11:08   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-20, 21:11:08   DGPS01
+2020-07-20, 21:11:08   DGPS01
+2020-07-20, 21:11:08   绘制池不足，建立新绘制器： 1
+2020-07-20, 21:11:08   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-20, 21:11:08   +++++ Init success! ++++++
+2020-07-20, 21:11:08   RefreshDrawer beg!
+2020-07-20, 21:11:08   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 21:11:08   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 21:11:08   RefreshDrawer suc!
+2020-07-20, 21:11:08   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 21:11:08   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 21:11:08   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 21:11:08   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 21:11:08   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 21:11:08   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 21:11:10   绘制池不足，建立新绘制器： 2
+2020-07-20, 21:11:34   To exit yimaenc....
+2020-07-20, 21:11:34   drawer release finished!
+2020-07-20, 21:11:34   drawer release finished!
+2020-07-20, 21:11:34   绘制池清理完毕
+2020-07-20, 21:11:34   绘制线程清理完毕
+2020-07-20, 21:11:34   绘制线程清理完毕
+2020-07-20, 21:11:34   绘制线程清理完毕
+2020-07-20, 21:11:34   绘制线程清理完毕
+2020-07-20, 21:11:34   绘制线程清理完毕
+2020-07-20, 21:11:34   绘制线程清理完毕
+2020-07-20, 21:11:34   绘制线程清理完毕
+2020-07-20, 21:11:34   绘制线程清理完毕
+2020-07-20, 21:11:34   自定义线程清理完毕
+2020-07-20, 21:11:34   线程池清理完毕
+2020-07-20, 21:11:34   图幅加载线程清理完毕
+2020-07-20, 21:11:34   drawer release finished!
+2020-07-20, 21:11:34   drawer release finished!
+2020-07-20, 21:11:34   drawer release finished!
+2020-07-20, 21:11:34   To exit process....
+2020-07-20, 21:12:06   -----APP START-----
+
+
+2020-07-20, 21:12:06   ----------YimaEnc Control started ----------
+2020-07-20, 21:12:06   Begin to VerifyUserLicense! .........
+2020-07-20, 21:12:06   服务许可验证失败，转为本地检测
+2020-07-20, 21:12:06   电子狗激活已被禁用
+2020-07-20, 21:12:06   Failed to find YimaEncBHW.lic
+2020-07-20, 21:12:06   Failed to find YimaEncBH.lic
+2020-07-20, 21:12:06   Success to VerifyUserLicense.
+2020-07-20, 21:12:06   C:\Users\zhengweilin\Desktop\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-20, 21:12:06   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-20, 21:12:06   DGPS01
+2020-07-20, 21:12:06   DGPS01
+2020-07-20, 21:12:06   绘制池不足，建立新绘制器： 1
+2020-07-20, 21:12:06   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-20, 21:12:06   +++++ Init success! ++++++
+2020-07-20, 21:12:06   RefreshDrawer beg!
+2020-07-20, 21:12:06   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 21:12:06   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 21:12:06   RefreshDrawer suc!
+2020-07-20, 21:12:06   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 21:12:06   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 21:12:06   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 21:12:06   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 21:12:06   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 21:12:06   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 21:12:08   绘制池不足，建立新绘制器： 2
+2020-07-20, 21:13:47   To exit yimaenc....
+2020-07-20, 21:13:47   drawer release finished!
+2020-07-20, 21:13:47   drawer release finished!
+2020-07-20, 21:13:47   绘制池清理完毕
+2020-07-20, 21:13:47   绘制线程清理完毕
+2020-07-20, 21:13:47   绘制线程清理完毕
+2020-07-20, 21:13:47   绘制线程清理完毕
+2020-07-20, 21:13:47   绘制线程清理完毕
+2020-07-20, 21:13:47   绘制线程清理完毕
+2020-07-20, 21:13:47   绘制线程清理完毕
+2020-07-20, 21:13:47   绘制线程清理完毕
+2020-07-20, 21:13:47   绘制线程清理完毕
+2020-07-20, 21:13:47   自定义线程清理完毕
+2020-07-20, 21:13:47   线程池清理完毕
+2020-07-20, 21:13:47   图幅加载线程清理完毕
+2020-07-20, 21:13:47   drawer release finished!
+2020-07-20, 21:13:47   drawer release finished!
+2020-07-20, 21:13:47   drawer release finished!
+2020-07-20, 21:13:47   To exit process....
+2020-07-20, 21:14:30   -----APP START-----
+
+
+2020-07-20, 21:14:30   ----------YimaEnc Control started ----------
+2020-07-20, 21:14:30   Begin to VerifyUserLicense! .........
+2020-07-20, 21:14:30   服务许可验证失败，转为本地检测
+2020-07-20, 21:14:30   电子狗激活已被禁用
+2020-07-20, 21:14:30   Failed to find YimaEncBHW.lic
+2020-07-20, 21:14:30   Failed to find YimaEncBH.lic
+2020-07-20, 21:14:30   Success to VerifyUserLicense.
+2020-07-20, 21:14:30   C:\Users\zhengweilin\Desktop\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-20, 21:14:30   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-20, 21:14:30   DGPS01
+2020-07-20, 21:14:30   DGPS01
+2020-07-20, 21:14:30   绘制池不足，建立新绘制器： 1
+2020-07-20, 21:14:30   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-20, 21:14:30   +++++ Init success! ++++++
+2020-07-20, 21:14:30   RefreshDrawer beg!
+2020-07-20, 21:14:30   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 21:14:30   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 21:14:30   RefreshDrawer suc!
+2020-07-20, 21:14:30   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 21:14:30   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 21:14:30   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 21:14:30   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 21:14:30   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 21:14:30   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 21:14:32   绘制池不足，建立新绘制器： 2
+2020-07-20, 21:22:50   To exit yimaenc....
+2020-07-20, 21:22:50   drawer release finished!
+2020-07-20, 21:22:50   drawer release finished!
+2020-07-20, 21:22:50   绘制池清理完毕
+2020-07-20, 21:22:50   绘制线程清理完毕
+2020-07-20, 21:22:50   绘制线程清理完毕
+2020-07-20, 21:22:50   绘制线程清理完毕
+2020-07-20, 21:22:50   绘制线程清理完毕
+2020-07-20, 21:22:50   绘制线程清理完毕
+2020-07-20, 21:22:50   绘制线程清理完毕
+2020-07-20, 21:22:50   绘制线程清理完毕
+2020-07-20, 21:22:50   绘制线程清理完毕
+2020-07-20, 21:22:50   自定义线程清理完毕
+2020-07-20, 21:22:50   线程池清理完毕
+2020-07-20, 21:22:50   图幅加载线程清理完毕
+2020-07-20, 21:22:50   drawer release finished!
+2020-07-20, 21:22:50   drawer release finished!
+2020-07-20, 21:22:50   drawer release finished!
+2020-07-20, 21:22:50   To exit process....
+2020-07-20, 21:26:26   -----APP START-----
+
+
+2020-07-20, 21:26:26   ----------YimaEnc Control started ----------
+2020-07-20, 21:26:26   Begin to VerifyUserLicense! .........
+2020-07-20, 21:26:26   服务许可验证失败，转为本地检测
+2020-07-20, 21:26:26   电子狗激活已被禁用
+2020-07-20, 21:26:26   Failed to find YimaEncBHW.lic
+2020-07-20, 21:26:26   Failed to find YimaEncBH.lic
+2020-07-20, 21:26:26   Success to VerifyUserLicense.
+2020-07-20, 21:26:26   C:\Users\zhengweilin\Desktop\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-20, 21:26:26   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-20, 21:26:26   DGPS01
+2020-07-20, 21:26:26   DGPS01
+2020-07-20, 21:26:26   绘制池不足，建立新绘制器： 1
+2020-07-20, 21:26:26   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-20, 21:26:26   +++++ Init success! ++++++
+2020-07-20, 21:26:26   RefreshDrawer beg!
+2020-07-20, 21:26:26   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 21:26:26   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 21:26:26   RefreshDrawer suc!
+2020-07-20, 21:26:26   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 21:26:26   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 21:26:26   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 21:26:26   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 21:26:26   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 21:26:26   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 21:26:27   绘制池不足，建立新绘制器： 2
+2020-07-20, 21:27:35   RefreshDrawer beg!
+2020-07-20, 21:27:35   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 21:27:35   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 21:27:35   RefreshDrawer suc!
+2020-07-20, 21:30:02   -----APP START-----
+
+
+2020-07-20, 21:30:02   ----------YimaEnc Control started ----------
+2020-07-20, 21:30:02   Begin to VerifyUserLicense! .........
+2020-07-20, 21:30:02   服务许可验证失败，转为本地检测
+2020-07-20, 21:30:02   电子狗激活已被禁用
+2020-07-20, 21:30:02   Failed to find YimaEncBHW.lic
+2020-07-20, 21:30:02   Failed to find YimaEncBH.lic
+2020-07-20, 21:30:02   Success to VerifyUserLicense.
+2020-07-20, 21:30:02   C:\Users\zhengweilin\Desktop\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-20, 21:30:02   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-20, 21:30:02   DGPS01
+2020-07-20, 21:30:02   DGPS01
+2020-07-20, 21:30:02   绘制池不足，建立新绘制器： 1
+2020-07-20, 21:30:02   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-20, 21:30:02   +++++ Init success! ++++++
+2020-07-20, 21:30:02   RefreshDrawer beg!
+2020-07-20, 21:30:02   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 21:30:02   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 21:30:02   RefreshDrawer suc!
+2020-07-20, 21:30:02   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 21:30:02   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 21:30:02   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 21:30:02   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 21:30:02   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 21:30:02   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 21:30:04   绘制池不足，建立新绘制器： 2
+2020-07-20, 21:30:11   RefreshDrawer beg!
+2020-07-20, 21:30:11   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 21:30:11   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 21:30:11   RefreshDrawer suc!
+2020-07-20, 21:30:15   RefreshDrawer beg!
+2020-07-20, 21:30:15   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 21:30:15   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 21:30:15   RefreshDrawer suc!
+2020-07-20, 21:30:19   To exit yimaenc....
+2020-07-20, 21:30:19   drawer release finished!
+2020-07-20, 21:30:19   drawer release finished!
+2020-07-20, 21:30:19   绘制池清理完毕
+2020-07-20, 21:30:19   绘制线程清理完毕
+2020-07-20, 21:30:19   绘制线程清理完毕
+2020-07-20, 21:30:19   绘制线程清理完毕
+2020-07-20, 21:30:19   绘制线程清理完毕
+2020-07-20, 21:30:19   绘制线程清理完毕
+2020-07-20, 21:30:19   绘制线程清理完毕
+2020-07-20, 21:30:19   绘制线程清理完毕
+2020-07-20, 21:30:19   绘制线程清理完毕
+2020-07-20, 21:30:19   自定义线程清理完毕
+2020-07-20, 21:30:19   线程池清理完毕
+2020-07-20, 21:30:19   图幅加载线程清理完毕
+2020-07-20, 21:30:19   drawer release finished!
+2020-07-20, 21:30:19   drawer release finished!
+2020-07-20, 21:30:19   drawer release finished!
+2020-07-20, 21:30:19   To exit process....
+2020-07-20, 21:31:35   -----APP START-----
+
+
+2020-07-20, 21:31:35   ----------YimaEnc Control started ----------
+2020-07-20, 21:31:35   Begin to VerifyUserLicense! .........
+2020-07-20, 21:31:35   服务许可验证失败，转为本地检测
+2020-07-20, 21:31:35   电子狗激活已被禁用
+2020-07-20, 21:31:35   Failed to find YimaEncBHW.lic
+2020-07-20, 21:31:35   Failed to find YimaEncBH.lic
+2020-07-20, 21:31:35   Success to VerifyUserLicense.
+2020-07-20, 21:31:35   C:\Users\zhengweilin\Desktop\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-20, 21:31:35   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-20, 21:31:35   DGPS01
+2020-07-20, 21:31:35   DGPS01
+2020-07-20, 21:31:35   绘制池不足，建立新绘制器： 1
+2020-07-20, 21:31:35   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-20, 21:31:35   +++++ Init success! ++++++
+2020-07-20, 21:31:35   RefreshDrawer beg!
+2020-07-20, 21:31:35   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 21:31:35   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 21:31:35   RefreshDrawer suc!
+2020-07-20, 21:31:44   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 21:31:44   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 21:31:44   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 21:31:44   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 21:31:44   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 21:31:44   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 21:31:49   绘制池不足，建立新绘制器： 2
+2020-07-20, 21:31:51   To exit yimaenc....
+2020-07-20, 21:31:51   drawer release finished!
+2020-07-20, 21:31:51   drawer release finished!
+2020-07-20, 21:31:51   绘制池清理完毕
+2020-07-20, 21:31:51   绘制线程清理完毕
+2020-07-20, 21:31:51   绘制线程清理完毕
+2020-07-20, 21:31:51   绘制线程清理完毕
+2020-07-20, 21:31:51   绘制线程清理完毕
+2020-07-20, 21:31:51   绘制线程清理完毕
+2020-07-20, 21:31:51   绘制线程清理完毕
+2020-07-20, 21:31:51   绘制线程清理完毕
+2020-07-20, 21:31:51   绘制线程清理完毕
+2020-07-20, 21:31:51   自定义线程清理完毕
+2020-07-20, 21:31:51   线程池清理完毕
+2020-07-20, 21:31:51   图幅加载线程清理完毕
+2020-07-20, 21:31:51   drawer release finished!
+2020-07-20, 21:31:51   drawer release finished!
+2020-07-20, 21:31:51   drawer release finished!
+2020-07-20, 21:31:51   To exit process....
+2020-07-20, 21:32:28   -----APP START-----
+
+
+2020-07-20, 21:32:28   ----------YimaEnc Control started ----------
+2020-07-20, 21:32:28   Begin to VerifyUserLicense! .........
+2020-07-20, 21:32:28   服务许可验证失败，转为本地检测
+2020-07-20, 21:32:28   电子狗激活已被禁用
+2020-07-20, 21:32:28   Failed to find YimaEncBHW.lic
+2020-07-20, 21:32:28   Failed to find YimaEncBH.lic
+2020-07-20, 21:32:28   Success to VerifyUserLicense.
+2020-07-20, 21:32:28   C:\Users\zhengweilin\Desktop\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-20, 21:32:28   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-20, 21:32:28   DGPS01
+2020-07-20, 21:32:28   DGPS01
+2020-07-20, 21:32:28   绘制池不足，建立新绘制器： 1
+2020-07-20, 21:32:28   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-20, 21:32:28   +++++ Init success! ++++++
+2020-07-20, 21:32:28   RefreshDrawer beg!
+2020-07-20, 21:32:28   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 21:32:28   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 21:32:28   RefreshDrawer suc!
+2020-07-20, 21:32:28   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 21:32:28   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 21:32:28   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 21:32:28   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 21:32:28   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 21:32:28   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 21:32:30   绘制池不足，建立新绘制器： 2
+2020-07-20, 21:32:51   To exit yimaenc....
+2020-07-20, 21:32:51   drawer release finished!
+2020-07-20, 21:32:51   drawer release finished!
+2020-07-20, 21:32:51   绘制池清理完毕
+2020-07-20, 21:32:51   绘制线程清理完毕
+2020-07-20, 21:32:51   绘制线程清理完毕
+2020-07-20, 21:32:51   绘制线程清理完毕
+2020-07-20, 21:32:51   绘制线程清理完毕
+2020-07-20, 21:32:51   绘制线程清理完毕
+2020-07-20, 21:32:51   绘制线程清理完毕
+2020-07-20, 21:32:51   绘制线程清理完毕
+2020-07-20, 21:32:51   绘制线程清理完毕
+2020-07-20, 21:32:51   自定义线程清理完毕
+2020-07-20, 21:32:51   线程池清理完毕
+2020-07-20, 21:32:51   图幅加载线程清理完毕
+2020-07-20, 21:32:51   drawer release finished!
+2020-07-20, 21:32:51   drawer release finished!
+2020-07-20, 21:32:51   drawer release finished!
+2020-07-20, 21:32:51   To exit process....
+2020-07-20, 21:33:49   -----APP START-----
+
+
+2020-07-20, 21:33:49   ----------YimaEnc Control started ----------
+2020-07-20, 21:33:49   Begin to VerifyUserLicense! .........
+2020-07-20, 21:33:49   服务许可验证失败，转为本地检测
+2020-07-20, 21:33:49   电子狗激活已被禁用
+2020-07-20, 21:33:49   Failed to find YimaEncBHW.lic
+2020-07-20, 21:33:49   Failed to find YimaEncBH.lic
+2020-07-20, 21:33:49   Success to VerifyUserLicense.
+2020-07-20, 21:33:49   C:\Users\zhengweilin\Desktop\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-20, 21:33:49   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-20, 21:33:49   DGPS01
+2020-07-20, 21:33:49   DGPS01
+2020-07-20, 21:33:49   绘制池不足，建立新绘制器： 1
+2020-07-20, 21:33:49   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-20, 21:33:49   +++++ Init success! ++++++
+2020-07-20, 21:33:49   RefreshDrawer beg!
+2020-07-20, 21:33:49   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 21:33:49   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 21:33:49   RefreshDrawer suc!
+2020-07-20, 21:33:49   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 21:33:49   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 21:33:49   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 21:33:49   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 21:33:49   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 21:33:49   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 21:33:51   绘制池不足，建立新绘制器： 2
+2020-07-20, 21:34:03   To exit yimaenc....
+2020-07-20, 21:34:03   drawer release finished!
+2020-07-20, 21:34:03   drawer release finished!
+2020-07-20, 21:34:03   绘制池清理完毕
+2020-07-20, 21:34:03   绘制线程清理完毕
+2020-07-20, 21:34:03   绘制线程清理完毕
+2020-07-20, 21:34:03   绘制线程清理完毕
+2020-07-20, 21:34:03   绘制线程清理完毕
+2020-07-20, 21:34:03   绘制线程清理完毕
+2020-07-20, 21:34:03   绘制线程清理完毕
+2020-07-20, 21:34:03   绘制线程清理完毕
+2020-07-20, 21:34:03   绘制线程清理完毕
+2020-07-20, 21:34:03   自定义线程清理完毕
+2020-07-20, 21:34:03   线程池清理完毕
+2020-07-20, 21:34:03   图幅加载线程清理完毕
+2020-07-20, 21:34:03   drawer release finished!
+2020-07-20, 21:34:03   drawer release finished!
+2020-07-20, 21:34:03   drawer release finished!
+2020-07-20, 21:34:03   To exit process....
+2020-07-20, 21:41:17   -----APP START-----
+
+
+2020-07-20, 21:41:17   ----------YimaEnc Control started ----------
+2020-07-20, 21:41:17   Begin to VerifyUserLicense! .........
+2020-07-20, 21:41:17   服务许可验证失败，转为本地检测
+2020-07-20, 21:41:17   电子狗激活已被禁用
+2020-07-20, 21:41:17   Failed to find YimaEncBHW.lic
+2020-07-20, 21:41:17   Failed to find YimaEncBH.lic
+2020-07-20, 21:41:17   Success to VerifyUserLicense.
+2020-07-20, 21:41:17   C:\Users\zhengweilin\Desktop\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-20, 21:41:17   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-20, 21:41:17   DGPS01
+2020-07-20, 21:41:17   DGPS01
+2020-07-20, 21:41:17   绘制池不足，建立新绘制器： 1
+2020-07-20, 21:41:17   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-20, 21:41:17   +++++ Init success! ++++++
+2020-07-20, 21:41:17   RefreshDrawer beg!
+2020-07-20, 21:41:17   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 21:41:17   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 21:41:17   RefreshDrawer suc!
+2020-07-20, 21:41:17   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 21:41:17   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 21:41:17   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 21:41:17   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 21:41:17   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 21:41:17   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 21:41:19   绘制池不足，建立新绘制器： 2
+2020-07-20, 21:44:07   To exit yimaenc....
+2020-07-20, 21:44:07   drawer release finished!
+2020-07-20, 21:44:07   drawer release finished!
+2020-07-20, 21:44:07   绘制池清理完毕
+2020-07-20, 21:44:07   绘制线程清理完毕
+2020-07-20, 21:44:07   绘制线程清理完毕
+2020-07-20, 21:44:07   绘制线程清理完毕
+2020-07-20, 21:44:07   绘制线程清理完毕
+2020-07-20, 21:44:07   绘制线程清理完毕
+2020-07-20, 21:44:07   绘制线程清理完毕
+2020-07-20, 21:44:07   绘制线程清理完毕
+2020-07-20, 21:44:07   绘制线程清理完毕
+2020-07-20, 21:44:07   自定义线程清理完毕
+2020-07-20, 21:44:07   线程池清理完毕
+2020-07-20, 21:44:07   图幅加载线程清理完毕
+2020-07-20, 21:44:07   drawer release finished!
+2020-07-20, 21:44:07   drawer release finished!
+2020-07-20, 21:44:07   drawer release finished!
+2020-07-20, 21:44:07   To exit process....
+2020-07-20, 21:49:19   -----APP START-----
+
+
+2020-07-20, 21:49:19   ----------YimaEnc Control started ----------
+2020-07-20, 21:49:19   Begin to VerifyUserLicense! .........
+2020-07-20, 21:49:19   服务许可验证失败，转为本地检测
+2020-07-20, 21:49:19   电子狗激活已被禁用
+2020-07-20, 21:49:19   Failed to find YimaEncBHW.lic
+2020-07-20, 21:49:19   Failed to find YimaEncBH.lic
+2020-07-20, 21:49:19   Success to VerifyUserLicense.
+2020-07-20, 21:49:19   C:\Users\zhengweilin\Desktop\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-20, 21:49:19   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-20, 21:49:19   DGPS01
+2020-07-20, 21:49:19   DGPS01
+2020-07-20, 21:49:19   绘制池不足，建立新绘制器： 1
+2020-07-20, 21:49:19   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-20, 21:49:19   +++++ Init success! ++++++
+2020-07-20, 21:49:19   RefreshDrawer beg!
+2020-07-20, 21:49:19   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 21:49:19   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 21:49:19   RefreshDrawer suc!
+2020-07-20, 21:49:19   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 21:49:19   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 21:49:19   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 21:49:19   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 21:49:19   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 21:49:20   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 21:49:21   绘制池不足，建立新绘制器： 2
+2020-07-20, 21:49:40   To exit yimaenc....
+2020-07-20, 21:49:40   drawer release finished!
+2020-07-20, 21:49:40   drawer release finished!
+2020-07-20, 21:49:40   绘制池清理完毕
+2020-07-20, 21:49:40   绘制线程清理完毕
+2020-07-20, 21:49:40   绘制线程清理完毕
+2020-07-20, 21:49:40   绘制线程清理完毕
+2020-07-20, 21:49:40   绘制线程清理完毕
+2020-07-20, 21:49:40   绘制线程清理完毕
+2020-07-20, 21:49:40   绘制线程清理完毕
+2020-07-20, 21:49:40   绘制线程清理完毕
+2020-07-20, 21:49:40   绘制线程清理完毕
+2020-07-20, 21:49:40   自定义线程清理完毕
+2020-07-20, 21:49:40   线程池清理完毕
+2020-07-20, 21:49:40   图幅加载线程清理完毕
+2020-07-20, 21:49:40   drawer release finished!
+2020-07-20, 21:49:40   drawer release finished!
+2020-07-20, 21:49:40   drawer release finished!
+2020-07-20, 21:49:40   To exit process....
+2020-07-20, 21:51:27   -----APP START-----
+
+
+2020-07-20, 21:51:27   ----------YimaEnc Control started ----------
+2020-07-20, 21:51:27   Begin to VerifyUserLicense! .........
+2020-07-20, 21:51:27   服务许可验证失败，转为本地检测
+2020-07-20, 21:51:27   电子狗激活已被禁用
+2020-07-20, 21:51:27   Failed to find YimaEncBHW.lic
+2020-07-20, 21:51:27   Failed to find YimaEncBH.lic
+2020-07-20, 21:51:27   Success to VerifyUserLicense.
+2020-07-20, 21:51:27   C:\Users\zhengweilin\Desktop\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-20, 21:51:27   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-20, 21:51:27   DGPS01
+2020-07-20, 21:51:27   DGPS01
+2020-07-20, 21:51:27   绘制池不足，建立新绘制器： 1
+2020-07-20, 21:51:27   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-20, 21:51:27   +++++ Init success! ++++++
+2020-07-20, 21:51:27   RefreshDrawer beg!
+2020-07-20, 21:51:27   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 21:51:27   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 21:51:27   RefreshDrawer suc!
+2020-07-20, 21:51:27   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 21:51:27   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 21:51:27   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 21:51:27   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 21:51:27   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 21:51:27   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 21:51:28   绘制池不足，建立新绘制器： 2
+2020-07-20, 21:54:08   -----APP START-----
+
+
+2020-07-20, 21:54:08   ----------YimaEnc Control started ----------
+2020-07-20, 21:54:08   Begin to VerifyUserLicense! .........
+2020-07-20, 21:54:08   服务许可验证失败，转为本地检测
+2020-07-20, 21:54:08   电子狗激活已被禁用
+2020-07-20, 21:54:08   Failed to find YimaEncBHW.lic
+2020-07-20, 21:54:08   Failed to find YimaEncBH.lic
+2020-07-20, 21:54:08   Success to VerifyUserLicense.
+2020-07-20, 21:54:08   C:\Users\zhengweilin\Desktop\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-20, 21:54:09   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-20, 21:54:09   DGPS01
+2020-07-20, 21:54:09   DGPS01
+2020-07-20, 21:54:09   绘制池不足，建立新绘制器： 1
+2020-07-20, 21:54:09   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-20, 21:54:09   +++++ Init success! ++++++
+2020-07-20, 21:54:09   RefreshDrawer beg!
+2020-07-20, 21:54:09   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 21:54:09   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 21:54:09   RefreshDrawer suc!
+2020-07-20, 21:54:09   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 21:54:09   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 21:54:09   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 21:54:09   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 21:54:09   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 21:54:09   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 21:54:10   绘制池不足，建立新绘制器： 2
+2020-07-20, 21:54:55   To exit yimaenc....
+2020-07-20, 21:54:55   drawer release finished!
+2020-07-20, 21:54:55   drawer release finished!
+2020-07-20, 21:54:55   绘制池清理完毕
+2020-07-20, 21:54:55   绘制线程清理完毕
+2020-07-20, 21:54:55   绘制线程清理完毕
+2020-07-20, 21:54:55   绘制线程清理完毕
+2020-07-20, 21:54:55   绘制线程清理完毕
+2020-07-20, 21:54:55   绘制线程清理完毕
+2020-07-20, 21:54:55   绘制线程清理完毕
+2020-07-20, 21:54:55   绘制线程清理完毕
+2020-07-20, 21:54:55   绘制线程清理完毕
+2020-07-20, 21:54:55   自定义线程清理完毕
+2020-07-20, 21:54:55   线程池清理完毕
+2020-07-20, 21:54:55   图幅加载线程清理完毕
+2020-07-20, 21:54:55   drawer release finished!
+2020-07-20, 21:54:55   drawer release finished!
+2020-07-20, 21:54:55   drawer release finished!
+2020-07-20, 21:54:55   To exit process....
+2020-07-20, 21:56:12   -----APP START-----
+
+
+2020-07-20, 21:56:12   ----------YimaEnc Control started ----------
+2020-07-20, 21:56:12   Begin to VerifyUserLicense! .........
+2020-07-20, 21:56:12   服务许可验证失败，转为本地检测
+2020-07-20, 21:56:12   电子狗激活已被禁用
+2020-07-20, 21:56:12   Failed to find YimaEncBHW.lic
+2020-07-20, 21:56:12   Failed to find YimaEncBH.lic
+2020-07-20, 21:56:12   Success to VerifyUserLicense.
+2020-07-20, 21:56:12   C:\Users\zhengweilin\Desktop\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-20, 21:56:12   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-20, 21:56:12   DGPS01
+2020-07-20, 21:56:12   DGPS01
+2020-07-20, 21:56:12   绘制池不足，建立新绘制器： 1
+2020-07-20, 21:56:12   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-20, 21:56:12   +++++ Init success! ++++++
+2020-07-20, 21:56:12   RefreshDrawer beg!
+2020-07-20, 21:56:12   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 21:56:12   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 21:56:12   RefreshDrawer suc!
+2020-07-20, 21:56:12   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 21:56:12   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 21:56:12   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 21:56:12   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 21:56:12   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 21:56:12   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 21:56:14   绘制池不足，建立新绘制器： 2
+2020-07-20, 21:56:23   To exit yimaenc....
+2020-07-20, 21:56:23   drawer release finished!
+2020-07-20, 21:56:23   drawer release finished!
+2020-07-20, 21:56:23   绘制池清理完毕
+2020-07-20, 21:56:23   绘制线程清理完毕
+2020-07-20, 21:56:23   绘制线程清理完毕
+2020-07-20, 21:56:23   绘制线程清理完毕
+2020-07-20, 21:56:23   绘制线程清理完毕
+2020-07-20, 21:56:23   绘制线程清理完毕
+2020-07-20, 21:56:23   绘制线程清理完毕
+2020-07-20, 21:56:23   绘制线程清理完毕
+2020-07-20, 21:56:23   绘制线程清理完毕
+2020-07-20, 21:56:23   自定义线程清理完毕
+2020-07-20, 21:56:23   线程池清理完毕
+2020-07-20, 21:56:23   图幅加载线程清理完毕
+2020-07-20, 21:56:23   drawer release finished!
+2020-07-20, 21:56:23   drawer release finished!
+2020-07-20, 21:56:23   drawer release finished!
+2020-07-20, 21:56:23   To exit process....
+2020-07-20, 21:59:13   -----APP START-----
+
+
+2020-07-20, 21:59:13   ----------YimaEnc Control started ----------
+2020-07-20, 21:59:13   Begin to VerifyUserLicense! .........
+2020-07-20, 21:59:13   服务许可验证失败，转为本地检测
+2020-07-20, 21:59:13   电子狗激活已被禁用
+2020-07-20, 21:59:13   Failed to find YimaEncBHW.lic
+2020-07-20, 21:59:13   Failed to find YimaEncBH.lic
+2020-07-20, 21:59:13   Success to VerifyUserLicense.
+2020-07-20, 21:59:13   C:\Users\zhengweilin\Desktop\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-20, 21:59:13   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-20, 21:59:13   DGPS01
+2020-07-20, 21:59:13   DGPS01
+2020-07-20, 21:59:13   绘制池不足，建立新绘制器： 1
+2020-07-20, 21:59:13   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-20, 21:59:13   +++++ Init success! ++++++
+2020-07-20, 21:59:13   RefreshDrawer beg!
+2020-07-20, 21:59:13   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 21:59:13   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 21:59:13   RefreshDrawer suc!
+2020-07-20, 21:59:13   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 21:59:13   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 21:59:13   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 21:59:13   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 21:59:13   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 21:59:13   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 21:59:15   绘制池不足，建立新绘制器： 2
+2020-07-20, 21:59:23   RefreshDrawer beg!
+2020-07-20, 21:59:23   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 21:59:23   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 21:59:23   RefreshDrawer suc!
+2020-07-20, 21:59:25   To exit yimaenc....
+2020-07-20, 21:59:25   drawer release finished!
+2020-07-20, 21:59:25   drawer release finished!
+2020-07-20, 21:59:25   绘制池清理完毕
+2020-07-20, 21:59:25   绘制线程清理完毕
+2020-07-20, 21:59:25   绘制线程清理完毕
+2020-07-20, 21:59:25   绘制线程清理完毕
+2020-07-20, 21:59:25   绘制线程清理完毕
+2020-07-20, 21:59:25   绘制线程清理完毕
+2020-07-20, 21:59:25   绘制线程清理完毕
+2020-07-20, 21:59:25   绘制线程清理完毕
+2020-07-20, 21:59:25   绘制线程清理完毕
+2020-07-20, 21:59:25   自定义线程清理完毕
+2020-07-20, 21:59:25   线程池清理完毕
+2020-07-20, 21:59:25   图幅加载线程清理完毕
+2020-07-20, 21:59:25   drawer release finished!
+2020-07-20, 21:59:25   drawer release finished!
+2020-07-20, 21:59:25   drawer release finished!
+2020-07-20, 21:59:25   To exit process....
+2020-07-20, 22:00:44   -----APP START-----
+
+
+2020-07-20, 22:00:44   ----------YimaEnc Control started ----------
+2020-07-20, 22:00:44   Begin to VerifyUserLicense! .........
+2020-07-20, 22:00:44   服务许可验证失败，转为本地检测
+2020-07-20, 22:00:44   电子狗激活已被禁用
+2020-07-20, 22:00:44   Failed to find YimaEncBHW.lic
+2020-07-20, 22:00:44   Failed to find YimaEncBH.lic
+2020-07-20, 22:00:44   Success to VerifyUserLicense.
+2020-07-20, 22:00:44   C:\Users\zhengweilin\Desktop\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-20, 22:00:44   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-20, 22:00:44   DGPS01
+2020-07-20, 22:00:44   DGPS01
+2020-07-20, 22:00:44   绘制池不足，建立新绘制器： 1
+2020-07-20, 22:00:44   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-20, 22:00:44   +++++ Init success! ++++++
+2020-07-20, 22:00:44   RefreshDrawer beg!
+2020-07-20, 22:00:44   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 22:00:44   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 22:00:44   RefreshDrawer suc!
+2020-07-20, 22:00:44   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 22:00:44   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 22:00:44   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 22:00:44   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 22:00:44   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 22:00:44   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 22:00:46   绘制池不足，建立新绘制器： 2
+2020-07-20, 22:00:55   RefreshDrawer beg!
+2020-07-20, 22:00:55   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 22:00:55   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 22:00:55   RefreshDrawer suc!
+2020-07-20, 22:00:59   RefreshDrawer beg!
+2020-07-20, 22:00:59   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 22:00:59   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 22:00:59   RefreshDrawer suc!
+2020-07-20, 22:01:34   -----APP START-----
+
+
+2020-07-20, 22:01:34   ----------YimaEnc Control started ----------
+2020-07-20, 22:01:34   Begin to VerifyUserLicense! .........
+2020-07-20, 22:01:34   服务许可验证失败，转为本地检测
+2020-07-20, 22:01:34   电子狗激活已被禁用
+2020-07-20, 22:01:34   Failed to find YimaEncBHW.lic
+2020-07-20, 22:01:34   Failed to find YimaEncBH.lic
+2020-07-20, 22:01:34   Success to VerifyUserLicense.
+2020-07-20, 22:01:34   C:\Users\zhengweilin\Desktop\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-20, 22:01:34   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-20, 22:01:34   DGPS01
+2020-07-20, 22:01:34   DGPS01
+2020-07-20, 22:01:34   绘制池不足，建立新绘制器： 1
+2020-07-20, 22:01:34   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-20, 22:01:34   +++++ Init success! ++++++
+2020-07-20, 22:01:34   RefreshDrawer beg!
+2020-07-20, 22:01:34   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 22:01:34   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 22:01:34   RefreshDrawer suc!
+2020-07-20, 22:01:34   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 22:01:34   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 22:01:34   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 22:01:34   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 22:01:34   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 22:01:34   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 22:01:35   绘制池不足，建立新绘制器： 2
+2020-07-20, 22:01:53   To exit yimaenc....
+2020-07-20, 22:01:53   drawer release finished!
+2020-07-20, 22:01:53   drawer release finished!
+2020-07-20, 22:01:53   绘制池清理完毕
+2020-07-20, 22:01:53   绘制线程清理完毕
+2020-07-20, 22:01:53   绘制线程清理完毕
+2020-07-20, 22:01:53   绘制线程清理完毕
+2020-07-20, 22:01:53   绘制线程清理完毕
+2020-07-20, 22:01:53   绘制线程清理完毕
+2020-07-20, 22:01:53   绘制线程清理完毕
+2020-07-20, 22:01:53   绘制线程清理完毕
+2020-07-20, 22:01:53   绘制线程清理完毕
+2020-07-20, 22:01:53   自定义线程清理完毕
+2020-07-20, 22:01:53   线程池清理完毕
+2020-07-20, 22:01:53   图幅加载线程清理完毕
+2020-07-20, 22:01:53   drawer release finished!
+2020-07-20, 22:01:53   drawer release finished!
+2020-07-20, 22:01:53   drawer release finished!
+2020-07-20, 22:01:53   To exit process....
+2020-07-20, 22:11:07   -----APP START-----
+
+
+2020-07-20, 22:11:07   ----------YimaEnc Control started ----------
+2020-07-20, 22:11:07   Begin to VerifyUserLicense! .........
+2020-07-20, 22:11:07   服务许可验证失败，转为本地检测
+2020-07-20, 22:11:07   电子狗激活已被禁用
+2020-07-20, 22:11:07   Failed to find YimaEncBHW.lic
+2020-07-20, 22:11:07   Failed to find YimaEncBH.lic
+2020-07-20, 22:11:07   Success to VerifyUserLicense.
+2020-07-20, 22:11:07   C:\Users\zhengweilin\Desktop\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-20, 22:11:07   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-20, 22:11:07   DGPS01
+2020-07-20, 22:11:07   DGPS01
+2020-07-20, 22:11:07   绘制池不足，建立新绘制器： 1
+2020-07-20, 22:11:07   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-20, 22:11:07   +++++ Init success! ++++++
+2020-07-20, 22:11:07   RefreshDrawer beg!
+2020-07-20, 22:11:07   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 22:11:07   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 22:11:07   RefreshDrawer suc!
+2020-07-20, 22:11:07   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 22:11:07   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 22:11:07   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 22:11:07   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 22:11:07   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 22:11:07   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 22:11:09   绘制池不足，建立新绘制器： 2
+2020-07-20, 22:11:20   To exit yimaenc....
+2020-07-20, 22:11:20   drawer release finished!
+2020-07-20, 22:11:20   drawer release finished!
+2020-07-20, 22:11:20   绘制池清理完毕
+2020-07-20, 22:11:20   绘制线程清理完毕
+2020-07-20, 22:11:20   绘制线程清理完毕
+2020-07-20, 22:11:20   绘制线程清理完毕
+2020-07-20, 22:11:20   绘制线程清理完毕
+2020-07-20, 22:11:20   绘制线程清理完毕
+2020-07-20, 22:11:20   绘制线程清理完毕
+2020-07-20, 22:11:20   绘制线程清理完毕
+2020-07-20, 22:11:20   绘制线程清理完毕
+2020-07-20, 22:11:20   自定义线程清理完毕
+2020-07-20, 22:11:20   线程池清理完毕
+2020-07-20, 22:11:20   图幅加载线程清理完毕
+2020-07-20, 22:11:20   drawer release finished!
+2020-07-20, 22:11:20   drawer release finished!
+2020-07-20, 22:11:20   drawer release finished!
+2020-07-20, 22:11:20   To exit process....
+2020-07-20, 22:11:37   -----APP START-----
+
+
+2020-07-20, 22:11:37   ----------YimaEnc Control started ----------
+2020-07-20, 22:11:37   Begin to VerifyUserLicense! .........
+2020-07-20, 22:11:37   服务许可验证失败，转为本地检测
+2020-07-20, 22:11:37   电子狗激活已被禁用
+2020-07-20, 22:11:37   Failed to find YimaEncBHW.lic
+2020-07-20, 22:11:37   Failed to find YimaEncBH.lic
+2020-07-20, 22:11:37   Success to VerifyUserLicense.
+2020-07-20, 22:11:37   C:\Users\zhengweilin\Desktop\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-20, 22:11:37   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-20, 22:11:37   DGPS01
+2020-07-20, 22:11:37   DGPS01
+2020-07-20, 22:11:37   绘制池不足，建立新绘制器： 1
+2020-07-20, 22:11:37   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-20, 22:11:37   +++++ Init success! ++++++
+2020-07-20, 22:11:37   RefreshDrawer beg!
+2020-07-20, 22:11:37   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 22:11:37   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 22:11:37   RefreshDrawer suc!
+2020-07-20, 22:11:37   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 22:11:37   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 22:11:37   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 22:11:37   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 22:11:37   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 22:11:37   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 22:11:39   绘制池不足，建立新绘制器： 2
+2020-07-20, 22:11:41   To exit yimaenc....
+2020-07-20, 22:11:41   drawer release finished!
+2020-07-20, 22:11:41   drawer release finished!
+2020-07-20, 22:11:41   绘制池清理完毕
+2020-07-20, 22:11:41   绘制线程清理完毕
+2020-07-20, 22:11:41   绘制线程清理完毕
+2020-07-20, 22:11:41   绘制线程清理完毕
+2020-07-20, 22:11:41   绘制线程清理完毕
+2020-07-20, 22:11:41   绘制线程清理完毕
+2020-07-20, 22:11:41   绘制线程清理完毕
+2020-07-20, 22:11:41   绘制线程清理完毕
+2020-07-20, 22:11:41   绘制线程清理完毕
+2020-07-20, 22:11:41   自定义线程清理完毕
+2020-07-20, 22:11:41   线程池清理完毕
+2020-07-20, 22:11:41   图幅加载线程清理完毕
+2020-07-20, 22:11:41   drawer release finished!
+2020-07-20, 22:11:41   drawer release finished!
+2020-07-20, 22:11:41   drawer release finished!
+2020-07-20, 22:11:41   To exit process....
+2020-07-20, 22:12:04   -----APP START-----
+
+
+2020-07-20, 22:12:04   ----------YimaEnc Control started ----------
+2020-07-20, 22:12:04   Begin to VerifyUserLicense! .........
+2020-07-20, 22:12:04   服务许可验证失败，转为本地检测
+2020-07-20, 22:12:04   电子狗激活已被禁用
+2020-07-20, 22:12:04   Failed to find YimaEncBHW.lic
+2020-07-20, 22:12:04   Failed to find YimaEncBH.lic
+2020-07-20, 22:12:04   Success to VerifyUserLicense.
+2020-07-20, 22:12:04   C:\Users\zhengweilin\Desktop\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-20, 22:12:04   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-20, 22:12:04   DGPS01
+2020-07-20, 22:12:04   DGPS01
+2020-07-20, 22:12:04   绘制池不足，建立新绘制器： 1
+2020-07-20, 22:12:04   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-20, 22:12:04   +++++ Init success! ++++++
+2020-07-20, 22:12:04   RefreshDrawer beg!
+2020-07-20, 22:12:04   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 22:12:04   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 22:12:04   RefreshDrawer suc!
+2020-07-20, 22:12:04   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 22:12:04   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 22:12:04   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 22:12:04   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 22:12:04   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 22:12:04   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 22:12:06   绘制池不足，建立新绘制器： 2
+2020-07-20, 22:12:14   To exit yimaenc....
+2020-07-20, 22:12:14   drawer release finished!
+2020-07-20, 22:12:14   drawer release finished!
+2020-07-20, 22:12:14   绘制池清理完毕
+2020-07-20, 22:12:14   绘制线程清理完毕
+2020-07-20, 22:12:14   绘制线程清理完毕
+2020-07-20, 22:12:14   绘制线程清理完毕
+2020-07-20, 22:12:14   绘制线程清理完毕
+2020-07-20, 22:12:14   绘制线程清理完毕
+2020-07-20, 22:12:14   绘制线程清理完毕
+2020-07-20, 22:12:14   绘制线程清理完毕
+2020-07-20, 22:12:14   绘制线程清理完毕
+2020-07-20, 22:12:14   自定义线程清理完毕
+2020-07-20, 22:12:14   线程池清理完毕
+2020-07-20, 22:12:14   图幅加载线程清理完毕
+2020-07-20, 22:12:14   drawer release finished!
+2020-07-20, 22:12:14   drawer release finished!
+2020-07-20, 22:12:14   drawer release finished!
+2020-07-20, 22:12:14   To exit process....
+2020-07-20, 22:12:44   -----APP START-----
+
+
+2020-07-20, 22:12:44   ----------YimaEnc Control started ----------
+2020-07-20, 22:12:44   Begin to VerifyUserLicense! .........
+2020-07-20, 22:12:44   服务许可验证失败，转为本地检测
+2020-07-20, 22:12:44   电子狗激活已被禁用
+2020-07-20, 22:12:44   Failed to find YimaEncBHW.lic
+2020-07-20, 22:12:44   Failed to find YimaEncBH.lic
+2020-07-20, 22:12:44   Success to VerifyUserLicense.
+2020-07-20, 22:12:44   C:\Users\zhengweilin\Desktop\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-20, 22:12:44   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-20, 22:12:44   DGPS01
+2020-07-20, 22:12:44   DGPS01
+2020-07-20, 22:12:44   绘制池不足，建立新绘制器： 1
+2020-07-20, 22:12:44   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-20, 22:12:44   +++++ Init success! ++++++
+2020-07-20, 22:12:44   RefreshDrawer beg!
+2020-07-20, 22:12:44   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 22:12:44   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 22:12:44   RefreshDrawer suc!
+2020-07-20, 22:12:44   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 22:12:44   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 22:12:44   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 22:12:44   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 22:12:44   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 22:12:44   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 22:12:45   绘制池不足，建立新绘制器： 2
+2020-07-20, 22:12:48   To exit yimaenc....
+2020-07-20, 22:12:48   drawer release finished!
+2020-07-20, 22:12:48   drawer release finished!
+2020-07-20, 22:12:48   绘制池清理完毕
+2020-07-20, 22:12:48   绘制线程清理完毕
+2020-07-20, 22:12:48   绘制线程清理完毕
+2020-07-20, 22:12:48   绘制线程清理完毕
+2020-07-20, 22:12:48   绘制线程清理完毕
+2020-07-20, 22:12:48   绘制线程清理完毕
+2020-07-20, 22:12:48   绘制线程清理完毕
+2020-07-20, 22:12:48   绘制线程清理完毕
+2020-07-20, 22:12:48   绘制线程清理完毕
+2020-07-20, 22:12:48   自定义线程清理完毕
+2020-07-20, 22:12:48   线程池清理完毕
+2020-07-20, 22:12:48   图幅加载线程清理完毕
+2020-07-20, 22:12:48   drawer release finished!
+2020-07-20, 22:12:48   drawer release finished!
+2020-07-20, 22:12:48   drawer release finished!
+2020-07-20, 22:12:48   To exit process....
+2020-07-20, 22:13:23   -----APP START-----
+
+
+2020-07-20, 22:13:23   ----------YimaEnc Control started ----------
+2020-07-20, 22:13:23   Begin to VerifyUserLicense! .........
+2020-07-20, 22:13:23   服务许可验证失败，转为本地检测
+2020-07-20, 22:13:23   电子狗激活已被禁用
+2020-07-20, 22:13:23   Failed to find YimaEncBHW.lic
+2020-07-20, 22:13:23   Failed to find YimaEncBH.lic
+2020-07-20, 22:13:23   Success to VerifyUserLicense.
+2020-07-20, 22:13:23   C:\Users\zhengweilin\Desktop\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-20, 22:13:23   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-20, 22:13:23   DGPS01
+2020-07-20, 22:13:23   DGPS01
+2020-07-20, 22:13:23   绘制池不足，建立新绘制器： 1
+2020-07-20, 22:13:23   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-20, 22:13:23   +++++ Init success! ++++++
+2020-07-20, 22:13:23   RefreshDrawer beg!
+2020-07-20, 22:13:23   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 22:13:23   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 22:13:23   RefreshDrawer suc!
+2020-07-20, 22:13:23   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 22:13:23   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 22:13:23   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 22:13:23   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 22:13:23   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 22:13:23   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 22:13:25   绘制池不足，建立新绘制器： 2
+2020-07-20, 22:13:30   To exit yimaenc....
+2020-07-20, 22:13:30   drawer release finished!
+2020-07-20, 22:13:30   drawer release finished!
+2020-07-20, 22:13:30   绘制池清理完毕
+2020-07-20, 22:13:30   绘制线程清理完毕
+2020-07-20, 22:13:30   绘制线程清理完毕
+2020-07-20, 22:13:30   绘制线程清理完毕
+2020-07-20, 22:13:30   绘制线程清理完毕
+2020-07-20, 22:13:30   绘制线程清理完毕
+2020-07-20, 22:13:30   绘制线程清理完毕
+2020-07-20, 22:13:30   绘制线程清理完毕
+2020-07-20, 22:13:30   绘制线程清理完毕
+2020-07-20, 22:13:30   自定义线程清理完毕
+2020-07-20, 22:13:30   线程池清理完毕
+2020-07-20, 22:13:30   图幅加载线程清理完毕
+2020-07-20, 22:13:30   drawer release finished!
+2020-07-20, 22:13:30   drawer release finished!
+2020-07-20, 22:13:30   drawer release finished!
+2020-07-20, 22:13:30   To exit process....
+2020-07-20, 22:13:49   -----APP START-----
+
+
+2020-07-20, 22:13:49   ----------YimaEnc Control started ----------
+2020-07-20, 22:13:49   Begin to VerifyUserLicense! .........
+2020-07-20, 22:13:49   服务许可验证失败，转为本地检测
+2020-07-20, 22:13:49   电子狗激活已被禁用
+2020-07-20, 22:13:49   Failed to find YimaEncBHW.lic
+2020-07-20, 22:13:49   Failed to find YimaEncBH.lic
+2020-07-20, 22:13:49   Success to VerifyUserLicense.
+2020-07-20, 22:13:49   C:\Users\zhengweilin\Desktop\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-20, 22:13:49   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-20, 22:13:49   DGPS01
+2020-07-20, 22:13:49   DGPS01
+2020-07-20, 22:13:49   绘制池不足，建立新绘制器： 1
+2020-07-20, 22:13:49   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-20, 22:13:49   +++++ Init success! ++++++
+2020-07-20, 22:13:49   RefreshDrawer beg!
+2020-07-20, 22:13:49   --CDrawerPool::ReInitPool----begin------
+2020-07-20, 22:13:49   --CDrawerPool::ReInitPool-----end-----
+2020-07-20, 22:13:49   RefreshDrawer suc!
+2020-07-20, 22:13:49   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 22:13:49   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 22:13:49   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 22:13:49   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-20, 22:13:49   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-20, 22:13:49   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-20, 22:13:51   绘制池不足，建立新绘制器： 2
+2020-07-20, 22:13:53   To exit yimaenc....
+2020-07-20, 22:13:53   drawer release finished!
+2020-07-20, 22:13:53   drawer release finished!
+2020-07-20, 22:13:53   绘制池清理完毕
+2020-07-20, 22:13:53   绘制线程清理完毕
+2020-07-20, 22:13:53   绘制线程清理完毕
+2020-07-20, 22:13:53   绘制线程清理完毕
+2020-07-20, 22:13:53   绘制线程清理完毕
+2020-07-20, 22:13:53   绘制线程清理完毕
+2020-07-20, 22:13:53   绘制线程清理完毕
+2020-07-20, 22:13:53   绘制线程清理完毕
+2020-07-20, 22:13:53   绘制线程清理完毕
+2020-07-20, 22:13:53   自定义线程清理完毕
+2020-07-20, 22:13:53   线程池清理完毕
+2020-07-20, 22:13:53   图幅加载线程清理完毕
+2020-07-20, 22:13:53   drawer release finished!
+2020-07-20, 22:13:53   drawer release finished!
+2020-07-20, 22:13:53   drawer release finished!
+2020-07-20, 22:13:53   To exit process....
+2020-07-21, 20:20:29   -----APP START-----
+
+
+2020-07-21, 20:20:29   ----------YimaEnc Control started ----------
+2020-07-21, 20:20:29   Begin to VerifyUserLicense! .........
+2020-07-21, 20:20:29   服务许可验证失败，转为本地检测
+2020-07-21, 20:20:29   电子狗激活已被禁用
+2020-07-21, 20:20:29   Failed to find YimaEncBHW.lic
+2020-07-21, 20:20:29   Failed to find YimaEncBH.lic
+2020-07-21, 20:20:29   Success to VerifyUserLicense.
+2020-07-21, 20:20:29   C:\Users\zhengweilin\Desktop\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-21, 20:20:29   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-21, 20:20:29   DGPS01
+2020-07-21, 20:20:29   DGPS01
+2020-07-21, 20:20:29   绘制池不足，建立新绘制器： 1
+2020-07-21, 20:20:29   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-21, 20:20:29   +++++ Init success! ++++++
+2020-07-21, 20:20:29   RefreshDrawer beg!
+2020-07-21, 20:20:29   --CDrawerPool::ReInitPool----begin------
+2020-07-21, 20:20:29   --CDrawerPool::ReInitPool-----end-----
+2020-07-21, 20:20:29   RefreshDrawer suc!
+2020-07-21, 20:20:29   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-21, 20:20:29   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-21, 20:20:29   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-21, 20:20:29   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-21, 20:20:29   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-21, 20:20:29   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-21, 20:20:31   绘制池不足，建立新绘制器： 2
+2020-07-21, 20:27:58   RefreshDrawer beg!
+2020-07-21, 20:27:58   --CDrawerPool::ReInitPool----begin------
+2020-07-21, 20:27:58   --CDrawerPool::ReInitPool-----end-----
+2020-07-21, 20:27:58   RefreshDrawer suc!
+2020-07-21, 20:28:27   RefreshDrawer beg!
+2020-07-21, 20:28:27   --CDrawerPool::ReInitPool----begin------
+2020-07-21, 20:28:27   --CDrawerPool::ReInitPool-----end-----
+2020-07-21, 20:28:27   RefreshDrawer suc!
+2020-07-21, 20:44:10   To exit yimaenc....
+2020-07-21, 20:44:10   drawer release finished!
+2020-07-21, 20:44:10   drawer release finished!
+2020-07-21, 20:44:10   绘制池清理完毕
+2020-07-21, 20:44:10   绘制线程清理完毕
+2020-07-21, 20:44:10   绘制线程清理完毕
+2020-07-21, 20:44:10   绘制线程清理完毕
+2020-07-21, 20:44:10   绘制线程清理完毕
+2020-07-21, 20:44:10   绘制线程清理完毕
+2020-07-21, 20:44:10   绘制线程清理完毕
+2020-07-21, 20:44:10   绘制线程清理完毕
+2020-07-21, 20:44:10   绘制线程清理完毕
+2020-07-21, 20:44:10   自定义线程清理完毕
+2020-07-21, 20:44:10   线程池清理完毕
+2020-07-21, 20:44:10   图幅加载线程清理完毕
+2020-07-21, 20:44:10   drawer release finished!
+2020-07-21, 20:44:10   drawer release finished!
+2020-07-21, 20:44:10   drawer release finished!
+2020-07-21, 20:44:10   To exit process....
+2020-07-21, 20:57:52   -----APP START-----
+
+
+2020-07-21, 20:57:52   ----------YimaEnc Control started ----------
+2020-07-21, 20:57:52   Begin to VerifyUserLicense! .........
+2020-07-21, 20:57:52   服务许可验证失败，转为本地检测
+2020-07-21, 20:57:52   电子狗激活已被禁用
+2020-07-21, 20:57:52   Failed to find YimaEncBHW.lic
+2020-07-21, 20:57:52   Failed to find YimaEncBH.lic
+2020-07-21, 20:57:52   Success to VerifyUserLicense.
+2020-07-21, 20:57:52   C:\Users\zhengweilin\Desktop\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-21, 20:57:52   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-21, 20:57:52   DGPS01
+2020-07-21, 20:57:52   DGPS01
+2020-07-21, 20:57:52   绘制池不足，建立新绘制器： 1
+2020-07-21, 20:57:52   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-21, 20:57:52   +++++ Init success! ++++++
+2020-07-21, 20:57:52   RefreshDrawer beg!
+2020-07-21, 20:57:52   --CDrawerPool::ReInitPool----begin------
+2020-07-21, 20:57:52   --CDrawerPool::ReInitPool-----end-----
+2020-07-21, 20:57:52   RefreshDrawer suc!
+2020-07-21, 20:57:52   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-21, 20:57:52   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-21, 20:57:52   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-21, 20:57:52   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-21, 20:57:52   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-21, 20:57:52   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-21, 20:57:54   绘制池不足，建立新绘制器： 2
+2020-07-21, 20:58:04   To exit yimaenc....
+2020-07-21, 20:58:04   drawer release finished!
+2020-07-21, 20:58:04   drawer release finished!
+2020-07-21, 20:58:04   绘制池清理完毕
+2020-07-21, 20:58:04   绘制线程清理完毕
+2020-07-21, 20:58:04   绘制线程清理完毕
+2020-07-21, 20:58:04   绘制线程清理完毕
+2020-07-21, 20:58:04   绘制线程清理完毕
+2020-07-21, 20:58:04   绘制线程清理完毕
+2020-07-21, 20:58:04   绘制线程清理完毕
+2020-07-21, 20:58:04   绘制线程清理完毕
+2020-07-21, 20:58:04   绘制线程清理完毕
+2020-07-21, 20:58:04   自定义线程清理完毕
+2020-07-21, 20:58:04   线程池清理完毕
+2020-07-21, 20:58:04   图幅加载线程清理完毕
+2020-07-21, 20:58:04   drawer release finished!
+2020-07-21, 20:58:04   drawer release finished!
+2020-07-21, 20:58:04   drawer release finished!
+2020-07-21, 20:58:04   To exit process....
+2020-07-21, 20:58:25   -----APP START-----
+
+
+2020-07-21, 20:58:25   ----------YimaEnc Control started ----------
+2020-07-21, 20:58:25   Begin to VerifyUserLicense! .........
+2020-07-21, 20:58:25   服务许可验证失败，转为本地检测
+2020-07-21, 20:58:25   电子狗激活已被禁用
+2020-07-21, 20:58:25   Failed to find YimaEncBHW.lic
+2020-07-21, 20:58:25   Failed to find YimaEncBH.lic
+2020-07-21, 20:58:25   Success to VerifyUserLicense.
+2020-07-21, 20:58:25   C:\Users\zhengweilin\Desktop\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-21, 20:58:26   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-21, 20:58:26   DGPS01
+2020-07-21, 20:58:26   DGPS01
+2020-07-21, 20:58:26   绘制池不足，建立新绘制器： 1
+2020-07-21, 20:58:26   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-21, 20:58:26   +++++ Init success! ++++++
+2020-07-21, 20:58:26   RefreshDrawer beg!
+2020-07-21, 20:58:26   --CDrawerPool::ReInitPool----begin------
+2020-07-21, 20:58:26   --CDrawerPool::ReInitPool-----end-----
+2020-07-21, 20:58:26   RefreshDrawer suc!
+2020-07-21, 20:58:26   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-21, 20:58:26   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-21, 20:58:26   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-21, 20:58:26   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-21, 20:58:26   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-21, 20:58:26   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-21, 20:58:27   绘制池不足，建立新绘制器： 2
+2020-07-21, 20:58:43   To exit yimaenc....
+2020-07-21, 20:58:43   drawer release finished!
+2020-07-21, 20:58:43   drawer release finished!
+2020-07-21, 20:58:43   绘制池清理完毕
+2020-07-21, 20:58:43   绘制线程清理完毕
+2020-07-21, 20:58:43   绘制线程清理完毕
+2020-07-21, 20:58:43   绘制线程清理完毕
+2020-07-21, 20:58:43   绘制线程清理完毕
+2020-07-21, 20:58:43   绘制线程清理完毕
+2020-07-21, 20:58:43   绘制线程清理完毕
+2020-07-21, 20:58:43   绘制线程清理完毕
+2020-07-21, 20:58:43   绘制线程清理完毕
+2020-07-21, 20:58:43   自定义线程清理完毕
+2020-07-21, 20:58:43   线程池清理完毕
+2020-07-21, 20:58:43   图幅加载线程清理完毕
+2020-07-21, 20:58:43   drawer release finished!
+2020-07-21, 20:58:43   drawer release finished!
+2020-07-21, 20:58:43   drawer release finished!
+2020-07-21, 20:58:43   To exit process....
+2020-07-21, 20:59:24   -----APP START-----
+
+
+2020-07-21, 20:59:24   ----------YimaEnc Control started ----------
+2020-07-21, 20:59:24   Begin to VerifyUserLicense! .........
+2020-07-21, 20:59:24   服务许可验证失败，转为本地检测
+2020-07-21, 20:59:24   电子狗激活已被禁用
+2020-07-21, 20:59:24   Failed to find YimaEncBHW.lic
+2020-07-21, 20:59:24   Failed to find YimaEncBH.lic
+2020-07-21, 20:59:24   Success to VerifyUserLicense.
+2020-07-21, 20:59:24   C:\Users\zhengweilin\Desktop\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-21, 20:59:24   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-21, 20:59:24   DGPS01
+2020-07-21, 20:59:24   DGPS01
+2020-07-21, 20:59:25   绘制池不足，建立新绘制器： 1
+2020-07-21, 20:59:25   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-21, 20:59:25   +++++ Init success! ++++++
+2020-07-21, 20:59:25   RefreshDrawer beg!
+2020-07-21, 20:59:25   --CDrawerPool::ReInitPool----begin------
+2020-07-21, 20:59:25   --CDrawerPool::ReInitPool-----end-----
+2020-07-21, 20:59:25   RefreshDrawer suc!
+2020-07-21, 20:59:25   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-21, 20:59:25   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-21, 20:59:25   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-21, 20:59:25   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-21, 20:59:25   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-21, 20:59:25   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-21, 20:59:27   绘制池不足，建立新绘制器： 2
+2020-07-21, 20:59:34   To exit yimaenc....
+2020-07-21, 20:59:34   drawer release finished!
+2020-07-21, 20:59:34   drawer release finished!
+2020-07-21, 20:59:34   绘制池清理完毕
+2020-07-21, 20:59:34   绘制线程清理完毕
+2020-07-21, 20:59:34   绘制线程清理完毕
+2020-07-21, 20:59:34   绘制线程清理完毕
+2020-07-21, 20:59:34   绘制线程清理完毕
+2020-07-21, 20:59:34   绘制线程清理完毕
+2020-07-21, 20:59:34   绘制线程清理完毕
+2020-07-21, 20:59:34   绘制线程清理完毕
+2020-07-21, 20:59:34   绘制线程清理完毕
+2020-07-21, 20:59:34   自定义线程清理完毕
+2020-07-21, 20:59:34   线程池清理完毕
+2020-07-21, 20:59:34   图幅加载线程清理完毕
+2020-07-21, 20:59:34   drawer release finished!
+2020-07-21, 20:59:34   drawer release finished!
+2020-07-21, 20:59:34   drawer release finished!
+2020-07-21, 20:59:34   To exit process....
+2020-07-21, 21:04:30   -----APP START-----
+
+
+2020-07-21, 21:04:30   ----------YimaEnc Control started ----------
+2020-07-21, 21:04:30   Begin to VerifyUserLicense! .........
+2020-07-21, 21:04:30   服务许可验证失败，转为本地检测
+2020-07-21, 21:04:30   电子狗激活已被禁用
+2020-07-21, 21:04:30   Failed to find YimaEncBHW.lic
+2020-07-21, 21:04:30   Failed to find YimaEncBH.lic
+2020-07-21, 21:04:30   Success to VerifyUserLicense.
+2020-07-21, 21:04:30   C:\Users\zhengweilin\Desktop\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-21, 21:04:30   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-21, 21:04:30   DGPS01
+2020-07-21, 21:04:30   DGPS01
+2020-07-21, 21:04:30   绘制池不足，建立新绘制器： 1
+2020-07-21, 21:04:30   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-21, 21:04:30   +++++ Init success! ++++++
+2020-07-21, 21:04:30   RefreshDrawer beg!
+2020-07-21, 21:04:30   --CDrawerPool::ReInitPool----begin------
+2020-07-21, 21:04:30   --CDrawerPool::ReInitPool-----end-----
+2020-07-21, 21:04:30   RefreshDrawer suc!
+2020-07-21, 21:04:30   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-21, 21:04:30   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-21, 21:04:30   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-21, 21:04:30   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-21, 21:04:30   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-21, 21:04:30   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-21, 21:04:32   绘制池不足，建立新绘制器： 2
+2020-07-21, 21:04:43   To exit yimaenc....
+2020-07-21, 21:04:43   drawer release finished!
+2020-07-21, 21:04:43   drawer release finished!
+2020-07-21, 21:04:43   绘制池清理完毕
+2020-07-21, 21:04:43   绘制线程清理完毕
+2020-07-21, 21:04:43   绘制线程清理完毕
+2020-07-21, 21:04:43   绘制线程清理完毕
+2020-07-21, 21:04:43   绘制线程清理完毕
+2020-07-21, 21:04:43   绘制线程清理完毕
+2020-07-21, 21:04:43   绘制线程清理完毕
+2020-07-21, 21:04:43   绘制线程清理完毕
+2020-07-21, 21:04:43   绘制线程清理完毕
+2020-07-21, 21:04:43   自定义线程清理完毕
+2020-07-21, 21:04:43   线程池清理完毕
+2020-07-21, 21:04:43   图幅加载线程清理完毕
+2020-07-21, 21:04:43   drawer release finished!
+2020-07-21, 21:04:43   drawer release finished!
+2020-07-21, 21:04:43   drawer release finished!
+2020-07-21, 21:04:43   To exit process....
+2020-07-21, 21:11:33   -----APP START-----
+
+
+2020-07-21, 21:11:33   ----------YimaEnc Control started ----------
+2020-07-21, 21:11:33   Begin to VerifyUserLicense! .........
+2020-07-21, 21:11:33   服务许可验证失败，转为本地检测
+2020-07-21, 21:11:33   电子狗激活已被禁用
+2020-07-21, 21:11:33   Failed to find YimaEncBHW.lic
+2020-07-21, 21:11:33   Failed to find YimaEncBH.lic
+2020-07-21, 21:11:33   Success to VerifyUserLicense.
+2020-07-21, 21:11:33   C:\Users\zhengweilin\Desktop\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-21, 21:11:34   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-21, 21:11:34   DGPS01
+2020-07-21, 21:11:34   DGPS01
+2020-07-21, 21:11:34   绘制池不足，建立新绘制器： 1
+2020-07-21, 21:11:34   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-21, 21:11:34   +++++ Init success! ++++++
+2020-07-21, 21:11:34   RefreshDrawer beg!
+2020-07-21, 21:11:34   --CDrawerPool::ReInitPool----begin------
+2020-07-21, 21:11:34   --CDrawerPool::ReInitPool-----end-----
+2020-07-21, 21:11:34   RefreshDrawer suc!
+2020-07-21, 21:11:34   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-21, 21:11:34   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-21, 21:11:34   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-21, 21:11:34   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-21, 21:11:34   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-21, 21:11:34   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-21, 21:11:35   绘制池不足，建立新绘制器： 2
+2020-07-21, 21:11:42   To exit yimaenc....
+2020-07-21, 21:11:42   drawer release finished!
+2020-07-21, 21:11:42   drawer release finished!
+2020-07-21, 21:11:42   绘制池清理完毕
+2020-07-21, 21:11:42   绘制线程清理完毕
+2020-07-21, 21:11:42   绘制线程清理完毕
+2020-07-21, 21:11:42   绘制线程清理完毕
+2020-07-21, 21:11:42   绘制线程清理完毕
+2020-07-21, 21:11:42   绘制线程清理完毕
+2020-07-21, 21:11:42   绘制线程清理完毕
+2020-07-21, 21:11:42   绘制线程清理完毕
+2020-07-21, 21:11:42   绘制线程清理完毕
+2020-07-21, 21:11:42   自定义线程清理完毕
+2020-07-21, 21:11:42   线程池清理完毕
+2020-07-21, 21:11:42   图幅加载线程清理完毕
+2020-07-21, 21:11:42   drawer release finished!
+2020-07-21, 21:11:42   drawer release finished!
+2020-07-21, 21:11:42   drawer release finished!
+2020-07-21, 21:11:42   To exit process....
+2020-07-21, 21:12:12   -----APP START-----
+
+
+2020-07-21, 21:12:12   ----------YimaEnc Control started ----------
+2020-07-21, 21:12:12   Begin to VerifyUserLicense! .........
+2020-07-21, 21:12:12   服务许可验证失败，转为本地检测
+2020-07-21, 21:12:12   电子狗激活已被禁用
+2020-07-21, 21:12:12   Failed to find YimaEncBHW.lic
+2020-07-21, 21:12:12   Failed to find YimaEncBH.lic
+2020-07-21, 21:12:12   Success to VerifyUserLicense.
+2020-07-21, 21:12:12   C:\Users\zhengweilin\Desktop\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-21, 21:12:12   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-21, 21:12:12   DGPS01
+2020-07-21, 21:12:12   DGPS01
+2020-07-21, 21:12:12   绘制池不足，建立新绘制器： 1
+2020-07-21, 21:12:12   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-21, 21:12:12   +++++ Init success! ++++++
+2020-07-21, 21:12:12   RefreshDrawer beg!
+2020-07-21, 21:12:12   --CDrawerPool::ReInitPool----begin------
+2020-07-21, 21:12:12   --CDrawerPool::ReInitPool-----end-----
+2020-07-21, 21:12:12   RefreshDrawer suc!
+2020-07-21, 21:12:12   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-21, 21:12:12   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-21, 21:12:12   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-21, 21:12:12   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-21, 21:12:12   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-21, 21:12:12   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-21, 21:12:13   绘制池不足，建立新绘制器： 2
+2020-07-21, 21:12:14   To exit yimaenc....
+2020-07-21, 21:12:14   drawer release finished!
+2020-07-21, 21:12:14   drawer release finished!
+2020-07-21, 21:12:14   绘制池清理完毕
+2020-07-21, 21:12:14   绘制线程清理完毕
+2020-07-21, 21:12:14   绘制线程清理完毕
+2020-07-21, 21:12:14   绘制线程清理完毕
+2020-07-21, 21:12:14   绘制线程清理完毕
+2020-07-21, 21:12:14   绘制线程清理完毕
+2020-07-21, 21:12:14   绘制线程清理完毕
+2020-07-21, 21:12:14   绘制线程清理完毕
+2020-07-21, 21:12:14   绘制线程清理完毕
+2020-07-21, 21:12:14   自定义线程清理完毕
+2020-07-21, 21:12:14   线程池清理完毕
+2020-07-21, 21:12:14   图幅加载线程清理完毕
+2020-07-21, 21:12:14   drawer release finished!
+2020-07-21, 21:12:14   drawer release finished!
+2020-07-21, 21:12:14   drawer release finished!
+2020-07-21, 21:12:14   To exit process....
+2020-07-21, 21:14:03   -----APP START-----
+
+
+2020-07-21, 21:14:03   ----------YimaEnc Control started ----------
+2020-07-21, 21:14:03   Begin to VerifyUserLicense! .........
+2020-07-21, 21:14:03   服务许可验证失败，转为本地检测
+2020-07-21, 21:14:03   电子狗激活已被禁用
+2020-07-21, 21:14:03   Failed to find YimaEncBHW.lic
+2020-07-21, 21:14:03   Failed to find YimaEncBH.lic
+2020-07-21, 21:14:03   Success to VerifyUserLicense.
+2020-07-21, 21:14:03   C:\Users\zhengweilin\Desktop\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-21, 21:14:03   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-21, 21:14:03   DGPS01
+2020-07-21, 21:14:03   DGPS01
+2020-07-21, 21:14:03   绘制池不足，建立新绘制器： 1
+2020-07-21, 21:14:03   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-21, 21:14:03   +++++ Init success! ++++++
+2020-07-21, 21:14:03   RefreshDrawer beg!
+2020-07-21, 21:14:03   --CDrawerPool::ReInitPool----begin------
+2020-07-21, 21:14:03   --CDrawerPool::ReInitPool-----end-----
+2020-07-21, 21:14:03   RefreshDrawer suc!
+2020-07-21, 21:14:03   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-21, 21:14:03   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-21, 21:14:03   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-21, 21:14:03   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-21, 21:14:03   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-21, 21:14:03   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-21, 21:14:05   绘制池不足，建立新绘制器： 2
+2020-07-21, 21:14:29   RefreshDrawer beg!
+2020-07-21, 21:14:29   --CDrawerPool::ReInitPool----begin------
+2020-07-21, 21:14:29   --CDrawerPool::ReInitPool-----end-----
+2020-07-21, 21:14:29   RefreshDrawer suc!
+2020-07-21, 21:14:43   To exit yimaenc....
+2020-07-21, 21:14:43   drawer release finished!
+2020-07-21, 21:14:43   drawer release finished!
+2020-07-21, 21:14:43   绘制池清理完毕
+2020-07-21, 21:14:43   绘制线程清理完毕
+2020-07-21, 21:14:43   绘制线程清理完毕
+2020-07-21, 21:14:43   绘制线程清理完毕
+2020-07-21, 21:14:43   绘制线程清理完毕
+2020-07-21, 21:14:43   绘制线程清理完毕
+2020-07-21, 21:14:43   绘制线程清理完毕
+2020-07-21, 21:14:43   绘制线程清理完毕
+2020-07-21, 21:14:43   绘制线程清理完毕
+2020-07-21, 21:14:43   自定义线程清理完毕
+2020-07-21, 21:14:43   线程池清理完毕
+2020-07-21, 21:14:43   图幅加载线程清理完毕
+2020-07-21, 21:14:43   drawer release finished!
+2020-07-21, 21:14:43   drawer release finished!
+2020-07-21, 21:14:43   drawer release finished!
+2020-07-21, 21:14:43   To exit process....
+2020-07-21, 21:19:10   -----APP START-----
+
+
+2020-07-21, 21:19:10   ----------YimaEnc Control started ----------
+2020-07-21, 21:19:10   Begin to VerifyUserLicense! .........
+2020-07-21, 21:19:10   服务许可验证失败，转为本地检测
+2020-07-21, 21:19:10   电子狗激活已被禁用
+2020-07-21, 21:19:10   Failed to find YimaEncBHW.lic
+2020-07-21, 21:19:10   Failed to find YimaEncBH.lic
+2020-07-21, 21:19:10   Success to VerifyUserLicense.
+2020-07-21, 21:19:10   C:\Users\zhengweilin\Desktop\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-21, 21:19:10   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-21, 21:19:10   DGPS01
+2020-07-21, 21:19:10   DGPS01
+2020-07-21, 21:19:10   绘制池不足，建立新绘制器： 1
+2020-07-21, 21:19:10   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-21, 21:19:10   +++++ Init success! ++++++
+2020-07-21, 21:19:10   RefreshDrawer beg!
+2020-07-21, 21:19:10   --CDrawerPool::ReInitPool----begin------
+2020-07-21, 21:19:10   --CDrawerPool::ReInitPool-----end-----
+2020-07-21, 21:19:10   RefreshDrawer suc!
+2020-07-21, 21:19:10   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-21, 21:19:10   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-21, 21:19:10   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-21, 21:19:10   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-21, 21:19:10   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-21, 21:19:10   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-21, 21:19:12   绘制池不足，建立新绘制器： 2
+2020-07-21, 21:19:18   RefreshDrawer beg!
+2020-07-21, 21:19:18   --CDrawerPool::ReInitPool----begin------
+2020-07-21, 21:19:18   --CDrawerPool::ReInitPool-----end-----
+2020-07-21, 21:19:18   RefreshDrawer suc!
+2020-07-21, 21:19:32   RefreshDrawer beg!
+2020-07-21, 21:19:32   --CDrawerPool::ReInitPool----begin------
+2020-07-21, 21:19:32   --CDrawerPool::ReInitPool-----end-----
+2020-07-21, 21:19:32   RefreshDrawer suc!
+2020-07-21, 21:21:30   -----APP START-----
+
+
+2020-07-21, 21:21:30   ----------YimaEnc Control started ----------
+2020-07-21, 21:21:30   Begin to VerifyUserLicense! .........
+2020-07-21, 21:21:30   服务许可验证失败，转为本地检测
+2020-07-21, 21:21:30   电子狗激活已被禁用
+2020-07-21, 21:21:30   Failed to find YimaEncBHW.lic
+2020-07-21, 21:21:30   Failed to find YimaEncBH.lic
+2020-07-21, 21:21:30   Success to VerifyUserLicense.
+2020-07-21, 21:21:30   C:\Users\zhengweilin\Desktop\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-21, 21:21:30   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-21, 21:21:30   DGPS01
+2020-07-21, 21:21:30   DGPS01
+2020-07-21, 21:21:30   绘制池不足，建立新绘制器： 1
+2020-07-21, 21:21:30   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-21, 21:21:30   +++++ Init success! ++++++
+2020-07-21, 21:21:30   RefreshDrawer beg!
+2020-07-21, 21:21:30   --CDrawerPool::ReInitPool----begin------
+2020-07-21, 21:21:30   --CDrawerPool::ReInitPool-----end-----
+2020-07-21, 21:21:30   RefreshDrawer suc!
+2020-07-21, 21:21:31   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-21, 21:21:31   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-21, 21:21:31   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-21, 21:21:31   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-21, 21:21:31   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-21, 21:21:31   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-21, 21:21:32   绘制池不足，建立新绘制器： 2
+2020-07-21, 21:21:42   To exit yimaenc....
+2020-07-21, 21:21:42   drawer release finished!
+2020-07-21, 21:21:42   drawer release finished!
+2020-07-21, 21:21:42   绘制池清理完毕
+2020-07-21, 21:21:42   绘制线程清理完毕
+2020-07-21, 21:21:42   绘制线程清理完毕
+2020-07-21, 21:21:42   绘制线程清理完毕
+2020-07-21, 21:21:42   绘制线程清理完毕
+2020-07-21, 21:21:42   绘制线程清理完毕
+2020-07-21, 21:21:42   绘制线程清理完毕
+2020-07-21, 21:21:42   绘制线程清理完毕
+2020-07-21, 21:21:42   绘制线程清理完毕
+2020-07-21, 21:21:42   自定义线程清理完毕
+2020-07-21, 21:21:42   线程池清理完毕
+2020-07-21, 21:21:42   图幅加载线程清理完毕
+2020-07-21, 21:21:42   drawer release finished!
+2020-07-21, 21:21:42   drawer release finished!
+2020-07-21, 21:21:42   drawer release finished!
+2020-07-21, 21:21:42   To exit process....
+2020-07-21, 21:22:50   -----APP START-----
+
+
+2020-07-21, 21:22:50   ----------YimaEnc Control started ----------
+2020-07-21, 21:22:50   Begin to VerifyUserLicense! .........
+2020-07-21, 21:22:50   服务许可验证失败，转为本地检测
+2020-07-21, 21:22:50   电子狗激活已被禁用
+2020-07-21, 21:22:50   Failed to find YimaEncBHW.lic
+2020-07-21, 21:22:50   Failed to find YimaEncBH.lic
+2020-07-21, 21:22:50   Success to VerifyUserLicense.
+2020-07-21, 21:22:50   C:\Users\zhengweilin\Desktop\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-21, 21:22:50   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-21, 21:22:50   DGPS01
+2020-07-21, 21:22:50   DGPS01
+2020-07-21, 21:22:50   绘制池不足，建立新绘制器： 1
+2020-07-21, 21:22:50   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-21, 21:22:50   +++++ Init success! ++++++
+2020-07-21, 21:22:50   RefreshDrawer beg!
+2020-07-21, 21:22:50   --CDrawerPool::ReInitPool----begin------
+2020-07-21, 21:22:50   --CDrawerPool::ReInitPool-----end-----
+2020-07-21, 21:22:50   RefreshDrawer suc!
+2020-07-21, 21:22:50   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-21, 21:22:50   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-21, 21:22:50   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-21, 21:22:50   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-21, 21:22:50   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-21, 21:22:50   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-21, 21:22:52   绘制池不足，建立新绘制器： 2
+2020-07-21, 21:29:54   To exit yimaenc....
+2020-07-21, 21:29:54   drawer release finished!
+2020-07-21, 21:29:54   drawer release finished!
+2020-07-21, 21:29:54   绘制池清理完毕
+2020-07-21, 21:29:54   绘制线程清理完毕
+2020-07-21, 21:29:54   绘制线程清理完毕
+2020-07-21, 21:29:54   绘制线程清理完毕
+2020-07-21, 21:29:54   绘制线程清理完毕
+2020-07-21, 21:29:54   绘制线程清理完毕
+2020-07-21, 21:29:54   绘制线程清理完毕
+2020-07-21, 21:29:54   绘制线程清理完毕
+2020-07-21, 21:29:54   绘制线程清理完毕
+2020-07-21, 21:29:54   自定义线程清理完毕
+2020-07-21, 21:29:54   线程池清理完毕
+2020-07-21, 21:29:54   图幅加载线程清理完毕
+2020-07-21, 21:29:54   drawer release finished!
+2020-07-21, 21:29:54   drawer release finished!
+2020-07-21, 21:29:54   drawer release finished!
+2020-07-21, 21:29:54   To exit process....
+2020-07-21, 21:36:14   -----APP START-----
+
+
+2020-07-21, 21:36:14   ----------YimaEnc Control started ----------
+2020-07-21, 21:36:14   Begin to VerifyUserLicense! .........
+2020-07-21, 21:36:14   服务许可验证失败，转为本地检测
+2020-07-21, 21:36:14   电子狗激活已被禁用
+2020-07-21, 21:36:14   Failed to find YimaEncBHW.lic
+2020-07-21, 21:36:14   Failed to find YimaEncBH.lic
+2020-07-21, 21:36:14   Success to VerifyUserLicense.
+2020-07-21, 21:36:14   C:\Users\zhengweilin\Desktop\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-21, 21:36:14   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-21, 21:36:14   DGPS01
+2020-07-21, 21:36:14   DGPS01
+2020-07-21, 21:36:14   绘制池不足，建立新绘制器： 1
+2020-07-21, 21:36:14   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-21, 21:36:14   +++++ Init success! ++++++
+2020-07-21, 21:36:14   RefreshDrawer beg!
+2020-07-21, 21:36:14   --CDrawerPool::ReInitPool----begin------
+2020-07-21, 21:36:14   --CDrawerPool::ReInitPool-----end-----
+2020-07-21, 21:36:14   RefreshDrawer suc!
+2020-07-21, 21:36:14   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-21, 21:36:14   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-21, 21:36:14   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-21, 21:36:14   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-21, 21:36:14   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-21, 21:36:14   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-21, 21:36:16   绘制池不足，建立新绘制器： 2
+2020-07-21, 21:36:23   To exit yimaenc....
+2020-07-21, 21:36:23   drawer release finished!
+2020-07-21, 21:36:23   drawer release finished!
+2020-07-21, 21:36:23   绘制池清理完毕
+2020-07-21, 21:36:23   绘制线程清理完毕
+2020-07-21, 21:36:23   绘制线程清理完毕
+2020-07-21, 21:36:23   绘制线程清理完毕
+2020-07-21, 21:36:23   绘制线程清理完毕
+2020-07-21, 21:36:23   绘制线程清理完毕
+2020-07-21, 21:36:23   绘制线程清理完毕
+2020-07-21, 21:36:23   绘制线程清理完毕
+2020-07-21, 21:36:23   绘制线程清理完毕
+2020-07-21, 21:36:23   自定义线程清理完毕
+2020-07-21, 21:36:23   线程池清理完毕
+2020-07-21, 21:36:23   图幅加载线程清理完毕
+2020-07-21, 21:36:23   drawer release finished!
+2020-07-21, 21:36:23   drawer release finished!
+2020-07-21, 21:36:23   drawer release finished!
+2020-07-21, 21:36:23   To exit process....
+2020-07-22, 21:04:55   -----APP START-----
+
+
+2020-07-22, 21:04:55   ----------YimaEnc Control started ----------
+2020-07-22, 21:04:55   Begin to VerifyUserLicense! .........
+2020-07-22, 21:04:55   服务许可验证失败，转为本地检测
+2020-07-22, 21:04:55   电子狗激活已被禁用
+2020-07-22, 21:04:55   Failed to find YimaEncBHW.lic
+2020-07-22, 21:04:55   Failed to find YimaEncBH.lic
+2020-07-22, 21:04:55   Success to VerifyUserLicense.
+2020-07-22, 21:04:55   C:\Users\zhengweilin\Desktop\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-22, 21:04:55   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-22, 21:04:55   DGPS01
+2020-07-22, 21:04:55   DGPS01
+2020-07-22, 21:04:55   绘制池不足，建立新绘制器： 1
+2020-07-22, 21:04:55   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-22, 21:04:55   +++++ Init success! ++++++
+2020-07-22, 21:04:55   RefreshDrawer beg!
+2020-07-22, 21:04:55   --CDrawerPool::ReInitPool----begin------
+2020-07-22, 21:04:55   --CDrawerPool::ReInitPool-----end-----
+2020-07-22, 21:04:55   RefreshDrawer suc!
+2020-07-22, 21:04:55   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-22, 21:04:55   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-22, 21:04:55   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-22, 21:04:55   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-22, 21:04:55   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-22, 21:04:55   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-22, 21:04:56   绘制池不足，建立新绘制器： 2
+2020-07-22, 21:05:16   To exit yimaenc....
+2020-07-22, 21:05:16   drawer release finished!
+2020-07-22, 21:05:16   drawer release finished!
+2020-07-22, 21:05:16   绘制池清理完毕
+2020-07-22, 21:05:16   绘制线程清理完毕
+2020-07-22, 21:05:16   绘制线程清理完毕
+2020-07-22, 21:05:16   绘制线程清理完毕
+2020-07-22, 21:05:16   绘制线程清理完毕
+2020-07-22, 21:05:16   绘制线程清理完毕
+2020-07-22, 21:05:16   绘制线程清理完毕
+2020-07-22, 21:05:16   绘制线程清理完毕
+2020-07-22, 21:05:16   绘制线程清理完毕
+2020-07-22, 21:05:16   自定义线程清理完毕
+2020-07-22, 21:05:16   线程池清理完毕
+2020-07-22, 21:05:16   图幅加载线程清理完毕
+2020-07-22, 21:05:16   drawer release finished!
+2020-07-22, 21:05:16   drawer release finished!
+2020-07-22, 21:05:16   drawer release finished!
+2020-07-22, 21:05:16   To exit process....
+2020-07-22, 21:05:37   -----APP START-----
+
+
+2020-07-22, 21:05:37   ----------YimaEnc Control started ----------
+2020-07-22, 21:05:37   Begin to VerifyUserLicense! .........
+2020-07-22, 21:05:37   服务许可验证失败，转为本地检测
+2020-07-22, 21:05:37   电子狗激活已被禁用
+2020-07-22, 21:05:37   Failed to find YimaEncBHW.lic
+2020-07-22, 21:05:37   Failed to find YimaEncBH.lic
+2020-07-22, 21:05:37   Success to VerifyUserLicense.
+2020-07-22, 21:05:37   C:\Users\zhengweilin\Desktop\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-22, 21:05:37   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-22, 21:05:37   DGPS01
+2020-07-22, 21:05:37   DGPS01
+2020-07-22, 21:05:37   绘制池不足，建立新绘制器： 1
+2020-07-22, 21:05:37   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-22, 21:05:37   +++++ Init success! ++++++
+2020-07-22, 21:05:37   RefreshDrawer beg!
+2020-07-22, 21:05:37   --CDrawerPool::ReInitPool----begin------
+2020-07-22, 21:05:37   --CDrawerPool::ReInitPool-----end-----
+2020-07-22, 21:05:37   RefreshDrawer suc!
+2020-07-22, 21:05:37   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-22, 21:05:37   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-22, 21:05:37   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-22, 21:05:37   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-22, 21:05:37   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-22, 21:05:37   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-22, 21:05:39   绘制池不足，建立新绘制器： 2
+2020-07-22, 21:05:44   To exit yimaenc....
+2020-07-22, 21:05:44   drawer release finished!
+2020-07-22, 21:05:44   drawer release finished!
+2020-07-22, 21:05:44   绘制池清理完毕
+2020-07-22, 21:05:44   绘制线程清理完毕
+2020-07-22, 21:05:44   绘制线程清理完毕
+2020-07-22, 21:05:44   绘制线程清理完毕
+2020-07-22, 21:05:44   绘制线程清理完毕
+2020-07-22, 21:05:44   绘制线程清理完毕
+2020-07-22, 21:05:44   绘制线程清理完毕
+2020-07-22, 21:05:44   绘制线程清理完毕
+2020-07-22, 21:05:44   绘制线程清理完毕
+2020-07-22, 21:05:44   自定义线程清理完毕
+2020-07-22, 21:05:44   线程池清理完毕
+2020-07-22, 21:05:44   图幅加载线程清理完毕
+2020-07-22, 21:05:44   drawer release finished!
+2020-07-22, 21:05:44   drawer release finished!
+2020-07-22, 21:05:44   drawer release finished!
+2020-07-22, 21:05:44   To exit process....
+2020-07-22, 21:05:59   -----APP START-----
+
+
+2020-07-22, 21:05:59   ----------YimaEnc Control started ----------
+2020-07-22, 21:05:59   Begin to VerifyUserLicense! .........
+2020-07-22, 21:05:59   服务许可验证失败，转为本地检测
+2020-07-22, 21:05:59   电子狗激活已被禁用
+2020-07-22, 21:05:59   Failed to find YimaEncBHW.lic
+2020-07-22, 21:05:59   Failed to find YimaEncBH.lic
+2020-07-22, 21:05:59   Success to VerifyUserLicense.
+2020-07-22, 21:05:59   C:\Users\zhengweilin\Desktop\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-22, 21:05:59   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-22, 21:05:59   DGPS01
+2020-07-22, 21:05:59   DGPS01
+2020-07-22, 21:05:59   绘制池不足，建立新绘制器： 1
+2020-07-22, 21:05:59   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-22, 21:05:59   +++++ Init success! ++++++
+2020-07-22, 21:05:59   RefreshDrawer beg!
+2020-07-22, 21:05:59   --CDrawerPool::ReInitPool----begin------
+2020-07-22, 21:05:59   --CDrawerPool::ReInitPool-----end-----
+2020-07-22, 21:05:59   RefreshDrawer suc!
+2020-07-22, 21:05:59   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-22, 21:05:59   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-22, 21:05:59   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-22, 21:05:59   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-22, 21:05:59   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-22, 21:05:59   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-22, 21:06:01   绘制池不足，建立新绘制器： 2
+2020-07-22, 21:06:01   To exit yimaenc....
+2020-07-22, 21:06:01   drawer release finished!
+2020-07-22, 21:06:01   drawer release finished!
+2020-07-22, 21:06:01   绘制池清理完毕
+2020-07-22, 21:06:01   绘制线程清理完毕
+2020-07-22, 21:06:01   绘制线程清理完毕
+2020-07-22, 21:06:01   绘制线程清理完毕
+2020-07-22, 21:06:01   绘制线程清理完毕
+2020-07-22, 21:06:01   绘制线程清理完毕
+2020-07-22, 21:06:01   绘制线程清理完毕
+2020-07-22, 21:06:01   绘制线程清理完毕
+2020-07-22, 21:06:01   绘制线程清理完毕
+2020-07-22, 21:06:01   自定义线程清理完毕
+2020-07-22, 21:06:01   线程池清理完毕
+2020-07-22, 21:06:01   图幅加载线程清理完毕
+2020-07-22, 21:06:01   drawer release finished!
+2020-07-22, 21:06:01   drawer release finished!
+2020-07-22, 21:06:01   drawer release finished!
+2020-07-22, 21:06:01   To exit process....
+2020-07-22, 21:06:22   -----APP START-----
+
+
+2020-07-22, 21:06:22   ----------YimaEnc Control started ----------
+2020-07-22, 21:06:22   Begin to VerifyUserLicense! .........
+2020-07-22, 21:06:22   服务许可验证失败，转为本地检测
+2020-07-22, 21:06:22   电子狗激活已被禁用
+2020-07-22, 21:06:22   Failed to find YimaEncBHW.lic
+2020-07-22, 21:06:22   Failed to find YimaEncBH.lic
+2020-07-22, 21:06:22   Success to VerifyUserLicense.
+2020-07-22, 21:06:22   C:\Users\zhengweilin\Desktop\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-22, 21:06:22   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-22, 21:06:22   DGPS01
+2020-07-22, 21:06:22   DGPS01
+2020-07-22, 21:06:22   绘制池不足，建立新绘制器： 1
+2020-07-22, 21:06:22   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-22, 21:06:22   +++++ Init success! ++++++
+2020-07-22, 21:06:22   RefreshDrawer beg!
+2020-07-22, 21:06:22   --CDrawerPool::ReInitPool----begin------
+2020-07-22, 21:06:22   --CDrawerPool::ReInitPool-----end-----
+2020-07-22, 21:06:22   RefreshDrawer suc!
+2020-07-22, 21:06:22   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-22, 21:06:22   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-22, 21:06:22   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-22, 21:06:22   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-22, 21:06:22   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-22, 21:06:22   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-22, 21:06:24   绘制池不足，建立新绘制器： 2
+2020-07-22, 21:06:28   To exit yimaenc....
+2020-07-22, 21:06:28   drawer release finished!
+2020-07-22, 21:06:28   drawer release finished!
+2020-07-22, 21:06:28   绘制池清理完毕
+2020-07-22, 21:06:28   绘制线程清理完毕
+2020-07-22, 21:06:28   绘制线程清理完毕
+2020-07-22, 21:06:28   绘制线程清理完毕
+2020-07-22, 21:06:28   绘制线程清理完毕
+2020-07-22, 21:06:28   绘制线程清理完毕
+2020-07-22, 21:06:28   绘制线程清理完毕
+2020-07-22, 21:06:28   绘制线程清理完毕
+2020-07-22, 21:06:28   绘制线程清理完毕
+2020-07-22, 21:06:28   自定义线程清理完毕
+2020-07-22, 21:06:28   线程池清理完毕
+2020-07-22, 21:06:28   图幅加载线程清理完毕
+2020-07-22, 21:06:28   drawer release finished!
+2020-07-22, 21:06:28   drawer release finished!
+2020-07-22, 21:06:29   drawer release finished!
+2020-07-22, 21:06:29   To exit process....
+2020-07-22, 21:06:57   -----APP START-----
+
+
+2020-07-22, 21:06:57   ----------YimaEnc Control started ----------
+2020-07-22, 21:06:57   Begin to VerifyUserLicense! .........
+2020-07-22, 21:06:57   服务许可验证失败，转为本地检测
+2020-07-22, 21:06:57   电子狗激活已被禁用
+2020-07-22, 21:06:57   Failed to find YimaEncBHW.lic
+2020-07-22, 21:06:57   Failed to find YimaEncBH.lic
+2020-07-22, 21:06:57   Success to VerifyUserLicense.
+2020-07-22, 21:06:57   C:\Users\zhengweilin\Desktop\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-22, 21:06:57   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-22, 21:06:57   DGPS01
+2020-07-22, 21:06:57   DGPS01
+2020-07-22, 21:06:57   绘制池不足，建立新绘制器： 1
+2020-07-22, 21:06:57   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-22, 21:06:57   +++++ Init success! ++++++
+2020-07-22, 21:06:57   RefreshDrawer beg!
+2020-07-22, 21:06:57   --CDrawerPool::ReInitPool----begin------
+2020-07-22, 21:06:57   --CDrawerPool::ReInitPool-----end-----
+2020-07-22, 21:06:57   RefreshDrawer suc!
+2020-07-22, 21:06:57   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-22, 21:06:57   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-22, 21:06:57   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-22, 21:06:57   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-22, 21:06:57   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-22, 21:06:57   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-22, 21:06:58   To exit yimaenc....
+2020-07-22, 21:06:58   drawer release finished!
+2020-07-22, 21:06:58   绘制池清理完毕
+2020-07-22, 21:06:58   绘制线程清理完毕
+2020-07-22, 21:06:58   绘制线程清理完毕
+2020-07-22, 21:06:58   绘制线程清理完毕
+2020-07-22, 21:06:58   绘制线程清理完毕
+2020-07-22, 21:06:58   绘制线程清理完毕
+2020-07-22, 21:06:58   绘制线程清理完毕
+2020-07-22, 21:06:58   绘制线程清理完毕
+2020-07-22, 21:06:58   绘制线程清理完毕
+2020-07-22, 21:06:58   自定义线程清理完毕
+2020-07-22, 21:06:58   线程池清理完毕
+2020-07-22, 21:06:58   图幅加载线程清理完毕
+2020-07-22, 21:06:58   drawer release finished!
+2020-07-22, 21:06:58   drawer release finished!
+2020-07-22, 21:06:58   drawer release finished!
+2020-07-22, 21:06:58   To exit process....
+2020-07-22, 21:15:07   -----APP START-----
+
+
+2020-07-22, 21:15:07   ----------YimaEnc Control started ----------
+2020-07-22, 21:15:07   Begin to VerifyUserLicense! .........
+2020-07-22, 21:15:07   服务许可验证失败，转为本地检测
+2020-07-22, 21:15:07   电子狗激活已被禁用
+2020-07-22, 21:15:07   Failed to find YimaEncBHW.lic
+2020-07-22, 21:15:07   Failed to find YimaEncBH.lic
+2020-07-22, 21:15:07   Success to VerifyUserLicense.
+2020-07-22, 21:15:07   C:\Users\zhengweilin\Desktop\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-22, 21:15:07   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-22, 21:15:07   DGPS01
+2020-07-22, 21:15:07   DGPS01
+2020-07-22, 21:15:07   绘制池不足，建立新绘制器： 1
+2020-07-22, 21:15:07   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-22, 21:15:07   +++++ Init success! ++++++
+2020-07-22, 21:15:07   RefreshDrawer beg!
+2020-07-22, 21:15:07   --CDrawerPool::ReInitPool----begin------
+2020-07-22, 21:15:07   --CDrawerPool::ReInitPool-----end-----
+2020-07-22, 21:15:07   RefreshDrawer suc!
+2020-07-22, 21:15:07   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-22, 21:15:07   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-22, 21:15:07   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-22, 21:15:07   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-22, 21:15:07   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-22, 21:15:07   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-22, 21:15:08   绘制池不足，建立新绘制器： 2
+2020-07-22, 21:15:18   To exit yimaenc....
+2020-07-22, 21:15:18   drawer release finished!
+2020-07-22, 21:15:18   drawer release finished!
+2020-07-22, 21:15:18   绘制池清理完毕
+2020-07-22, 21:15:18   绘制线程清理完毕
+2020-07-22, 21:15:18   绘制线程清理完毕
+2020-07-22, 21:15:18   绘制线程清理完毕
+2020-07-22, 21:15:18   绘制线程清理完毕
+2020-07-22, 21:15:18   绘制线程清理完毕
+2020-07-22, 21:15:18   绘制线程清理完毕
+2020-07-22, 21:15:18   绘制线程清理完毕
+2020-07-22, 21:15:18   绘制线程清理完毕
+2020-07-22, 21:15:18   自定义线程清理完毕
+2020-07-22, 21:15:18   线程池清理完毕
+2020-07-22, 21:15:18   图幅加载线程清理完毕
+2020-07-22, 21:15:18   drawer release finished!
+2020-07-22, 21:15:18   drawer release finished!
+2020-07-22, 21:15:18   drawer release finished!
+2020-07-22, 21:15:18   To exit process....
+2020-07-22, 21:15:35   -----APP START-----
+
+
+2020-07-22, 21:15:35   ----------YimaEnc Control started ----------
+2020-07-22, 21:15:35   Begin to VerifyUserLicense! .........
+2020-07-22, 21:15:35   服务许可验证失败，转为本地检测
+2020-07-22, 21:15:35   电子狗激活已被禁用
+2020-07-22, 21:15:35   Failed to find YimaEncBHW.lic
+2020-07-22, 21:15:35   Failed to find YimaEncBH.lic
+2020-07-22, 21:15:35   Success to VerifyUserLicense.
+2020-07-22, 21:15:35   C:\Users\zhengweilin\Desktop\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-22, 21:15:35   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-22, 21:15:35   DGPS01
+2020-07-22, 21:15:35   DGPS01
+2020-07-22, 21:15:35   绘制池不足，建立新绘制器： 1
+2020-07-22, 21:15:35   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-22, 21:15:35   +++++ Init success! ++++++
+2020-07-22, 21:15:35   RefreshDrawer beg!
+2020-07-22, 21:15:35   --CDrawerPool::ReInitPool----begin------
+2020-07-22, 21:15:35   --CDrawerPool::ReInitPool-----end-----
+2020-07-22, 21:15:35   RefreshDrawer suc!
+2020-07-22, 21:15:35   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-22, 21:15:35   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-22, 21:15:35   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-22, 21:15:35   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-22, 21:15:35   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-22, 21:15:35   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-22, 21:15:36   绘制池不足，建立新绘制器： 2
+2020-07-22, 21:15:46   To exit yimaenc....
+2020-07-22, 21:15:46   drawer release finished!
+2020-07-22, 21:15:46   drawer release finished!
+2020-07-22, 21:15:46   绘制池清理完毕
+2020-07-22, 21:15:46   绘制线程清理完毕
+2020-07-22, 21:15:46   绘制线程清理完毕
+2020-07-22, 21:15:46   绘制线程清理完毕
+2020-07-22, 21:15:46   绘制线程清理完毕
+2020-07-22, 21:15:46   绘制线程清理完毕
+2020-07-22, 21:15:46   绘制线程清理完毕
+2020-07-22, 21:15:46   绘制线程清理完毕
+2020-07-22, 21:15:46   绘制线程清理完毕
+2020-07-22, 21:15:46   自定义线程清理完毕
+2020-07-22, 21:15:46   线程池清理完毕
+2020-07-22, 21:15:46   图幅加载线程清理完毕
+2020-07-22, 21:15:46   drawer release finished!
+2020-07-22, 21:15:46   drawer release finished!
+2020-07-22, 21:15:46   drawer release finished!
+2020-07-22, 21:15:46   To exit process....
+2020-07-22, 21:17:01   -----APP START-----
+
+
+2020-07-22, 21:17:01   ----------YimaEnc Control started ----------
+2020-07-22, 21:17:01   Begin to VerifyUserLicense! .........
+2020-07-22, 21:17:01   服务许可验证失败，转为本地检测
+2020-07-22, 21:17:01   电子狗激活已被禁用
+2020-07-22, 21:17:01   Failed to find YimaEncBHW.lic
+2020-07-22, 21:17:01   Failed to find YimaEncBH.lic
+2020-07-22, 21:17:01   Success to VerifyUserLicense.
+2020-07-22, 21:17:01   C:\Users\zhengweilin\Desktop\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-22, 21:17:01   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-22, 21:17:01   DGPS01
+2020-07-22, 21:17:01   DGPS01
+2020-07-22, 21:17:01   绘制池不足，建立新绘制器： 1
+2020-07-22, 21:17:01   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-22, 21:17:01   +++++ Init success! ++++++
+2020-07-22, 21:17:01   RefreshDrawer beg!
+2020-07-22, 21:17:01   --CDrawerPool::ReInitPool----begin------
+2020-07-22, 21:17:01   --CDrawerPool::ReInitPool-----end-----
+2020-07-22, 21:17:01   RefreshDrawer suc!
+2020-07-22, 21:17:01   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-22, 21:17:01   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-22, 21:17:01   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-22, 21:17:01   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-22, 21:17:01   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-22, 21:17:01   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-22, 21:17:03   绘制池不足，建立新绘制器： 2
+2020-07-22, 21:17:08   To exit yimaenc....
+2020-07-22, 21:17:08   drawer release finished!
+2020-07-22, 21:17:08   drawer release finished!
+2020-07-22, 21:17:08   绘制池清理完毕
+2020-07-22, 21:17:08   绘制线程清理完毕
+2020-07-22, 21:17:08   绘制线程清理完毕
+2020-07-22, 21:17:08   绘制线程清理完毕
+2020-07-22, 21:17:08   绘制线程清理完毕
+2020-07-22, 21:17:08   绘制线程清理完毕
+2020-07-22, 21:17:08   绘制线程清理完毕
+2020-07-22, 21:17:08   绘制线程清理完毕
+2020-07-22, 21:17:08   绘制线程清理完毕
+2020-07-22, 21:17:08   自定义线程清理完毕
+2020-07-22, 21:17:08   线程池清理完毕
+2020-07-22, 21:17:08   图幅加载线程清理完毕
+2020-07-22, 21:17:08   drawer release finished!
+2020-07-22, 21:17:08   drawer release finished!
+2020-07-22, 21:17:08   drawer release finished!
+2020-07-22, 21:17:08   To exit process....
+2020-07-22, 21:20:58   -----APP START-----
+
+
+2020-07-22, 21:20:58   ----------YimaEnc Control started ----------
+2020-07-22, 21:20:58   Begin to VerifyUserLicense! .........
+2020-07-22, 21:20:58   服务许可验证失败，转为本地检测
+2020-07-22, 21:20:58   电子狗激活已被禁用
+2020-07-22, 21:20:58   Failed to find YimaEncBHW.lic
+2020-07-22, 21:20:58   Failed to find YimaEncBH.lic
+2020-07-22, 21:20:58   Success to VerifyUserLicense.
+2020-07-22, 21:20:58   C:\Users\zhengweilin\Desktop\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-22, 21:20:58   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-22, 21:20:58   DGPS01
+2020-07-22, 21:20:58   DGPS01
+2020-07-22, 21:20:58   绘制池不足，建立新绘制器： 1
+2020-07-22, 21:20:58   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-22, 21:20:58   +++++ Init success! ++++++
+2020-07-22, 21:20:58   RefreshDrawer beg!
+2020-07-22, 21:20:58   --CDrawerPool::ReInitPool----begin------
+2020-07-22, 21:20:58   --CDrawerPool::ReInitPool-----end-----
+2020-07-22, 21:20:58   RefreshDrawer suc!
+2020-07-22, 21:20:58   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-22, 21:20:58   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-22, 21:20:58   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-22, 21:20:58   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-22, 21:20:58   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-22, 21:20:58   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-22, 21:20:59   绘制池不足，建立新绘制器： 2
+2020-07-22, 21:21:06   To exit yimaenc....
+2020-07-22, 21:21:06   drawer release finished!
+2020-07-22, 21:21:06   drawer release finished!
+2020-07-22, 21:21:06   绘制池清理完毕
+2020-07-22, 21:21:06   绘制线程清理完毕
+2020-07-22, 21:21:06   绘制线程清理完毕
+2020-07-22, 21:21:06   绘制线程清理完毕
+2020-07-22, 21:21:06   绘制线程清理完毕
+2020-07-22, 21:21:06   绘制线程清理完毕
+2020-07-22, 21:21:06   绘制线程清理完毕
+2020-07-22, 21:21:06   绘制线程清理完毕
+2020-07-22, 21:21:06   绘制线程清理完毕
+2020-07-22, 21:21:06   自定义线程清理完毕
+2020-07-22, 21:21:06   线程池清理完毕
+2020-07-22, 21:21:06   图幅加载线程清理完毕
+2020-07-22, 21:21:06   drawer release finished!
+2020-07-22, 21:21:06   drawer release finished!
+2020-07-22, 21:21:06   drawer release finished!
+2020-07-22, 21:21:06   To exit process....
+2020-07-22, 21:29:38   -----APP START-----
+
+
+2020-07-22, 21:29:38   ----------YimaEnc Control started ----------
+2020-07-22, 21:29:38   Begin to VerifyUserLicense! .........
+2020-07-22, 21:29:38   服务许可验证失败，转为本地检测
+2020-07-22, 21:29:38   电子狗激活已被禁用
+2020-07-22, 21:29:38   Failed to find YimaEncBHW.lic
+2020-07-22, 21:29:38   Failed to find YimaEncBH.lic
+2020-07-22, 21:29:38   Success to VerifyUserLicense.
+2020-07-22, 21:29:38   C:\Users\zhengweilin\Desktop\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-22, 21:29:38   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-22, 21:29:38   DGPS01
+2020-07-22, 21:29:38   DGPS01
+2020-07-22, 21:29:38   绘制池不足，建立新绘制器： 1
+2020-07-22, 21:29:38   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-22, 21:29:38   +++++ Init success! ++++++
+2020-07-22, 21:29:38   RefreshDrawer beg!
+2020-07-22, 21:29:38   --CDrawerPool::ReInitPool----begin------
+2020-07-22, 21:29:38   --CDrawerPool::ReInitPool-----end-----
+2020-07-22, 21:29:38   RefreshDrawer suc!
+2020-07-22, 21:29:38   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-22, 21:29:38   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-22, 21:29:38   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-22, 21:29:38   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-22, 21:29:38   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-22, 21:29:38   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-22, 21:29:39   绘制池不足，建立新绘制器： 2
+2020-07-22, 21:29:46   To exit yimaenc....
+2020-07-22, 21:29:46   drawer release finished!
+2020-07-22, 21:29:46   drawer release finished!
+2020-07-22, 21:29:46   绘制池清理完毕
+2020-07-22, 21:29:46   绘制线程清理完毕
+2020-07-22, 21:29:46   绘制线程清理完毕
+2020-07-22, 21:29:46   绘制线程清理完毕
+2020-07-22, 21:29:46   绘制线程清理完毕
+2020-07-22, 21:29:46   绘制线程清理完毕
+2020-07-22, 21:29:46   绘制线程清理完毕
+2020-07-22, 21:29:46   绘制线程清理完毕
+2020-07-22, 21:29:46   绘制线程清理完毕
+2020-07-22, 21:29:46   自定义线程清理完毕
+2020-07-22, 21:29:46   线程池清理完毕
+2020-07-22, 21:29:46   图幅加载线程清理完毕
+2020-07-22, 21:29:46   drawer release finished!
+2020-07-22, 21:29:47   drawer release finished!
+2020-07-22, 21:29:47   drawer release finished!
+2020-07-22, 21:29:47   To exit process....
+2020-07-22, 21:30:41   -----APP START-----
+
+
+2020-07-22, 21:30:41   ----------YimaEnc Control started ----------
+2020-07-22, 21:30:41   Begin to VerifyUserLicense! .........
+2020-07-22, 21:30:41   服务许可验证失败，转为本地检测
+2020-07-22, 21:30:41   电子狗激活已被禁用
+2020-07-22, 21:30:41   Failed to find YimaEncBHW.lic
+2020-07-22, 21:30:41   Failed to find YimaEncBH.lic
+2020-07-22, 21:30:41   Success to VerifyUserLicense.
+2020-07-22, 21:30:41   C:\Users\zhengweilin\Desktop\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-22, 21:30:41   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-22, 21:30:41   DGPS01
+2020-07-22, 21:30:41   DGPS01
+2020-07-22, 21:30:41   绘制池不足，建立新绘制器： 1
+2020-07-22, 21:30:41   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-22, 21:30:41   +++++ Init success! ++++++
+2020-07-22, 21:30:41   RefreshDrawer beg!
+2020-07-22, 21:30:41   --CDrawerPool::ReInitPool----begin------
+2020-07-22, 21:30:41   --CDrawerPool::ReInitPool-----end-----
+2020-07-22, 21:30:41   RefreshDrawer suc!
+2020-07-22, 21:30:41   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-22, 21:30:41   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-22, 21:30:41   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-22, 21:30:41   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-22, 21:30:41   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-22, 21:30:41   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-22, 21:30:43   绘制池不足，建立新绘制器： 2
+2020-07-22, 21:30:43   To exit yimaenc....
+2020-07-22, 21:30:43   drawer release finished!
+2020-07-22, 21:30:43   drawer release finished!
+2020-07-22, 21:30:43   绘制池清理完毕
+2020-07-22, 21:30:43   绘制线程清理完毕
+2020-07-22, 21:30:43   绘制线程清理完毕
+2020-07-22, 21:30:43   绘制线程清理完毕
+2020-07-22, 21:30:43   绘制线程清理完毕
+2020-07-22, 21:30:43   绘制线程清理完毕
+2020-07-22, 21:30:43   绘制线程清理完毕
+2020-07-22, 21:30:43   绘制线程清理完毕
+2020-07-22, 21:30:43   绘制线程清理完毕
+2020-07-22, 21:30:43   自定义线程清理完毕
+2020-07-22, 21:30:43   线程池清理完毕
+2020-07-22, 21:30:43   图幅加载线程清理完毕
+2020-07-22, 21:30:43   drawer release finished!
+2020-07-22, 21:30:43   drawer release finished!
+2020-07-22, 21:30:43   drawer release finished!
+2020-07-22, 21:30:43   To exit process....
+2020-07-22, 21:35:42   -----APP START-----
+
+
+2020-07-22, 21:35:42   ----------YimaEnc Control started ----------
+2020-07-22, 21:35:42   Begin to VerifyUserLicense! .........
+2020-07-22, 21:35:42   服务许可验证失败，转为本地检测
+2020-07-22, 21:35:42   电子狗激活已被禁用
+2020-07-22, 21:35:42   Failed to find YimaEncBHW.lic
+2020-07-22, 21:35:42   Failed to find YimaEncBH.lic
+2020-07-22, 21:35:42   Success to VerifyUserLicense.
+2020-07-22, 21:35:42   C:\Users\zhengweilin\Desktop\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-22, 21:35:42   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-22, 21:35:42   DGPS01
+2020-07-22, 21:35:42   DGPS01
+2020-07-22, 21:35:42   绘制池不足，建立新绘制器： 1
+2020-07-22, 21:35:42   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-22, 21:35:42   +++++ Init success! ++++++
+2020-07-22, 21:35:42   RefreshDrawer beg!
+2020-07-22, 21:35:42   --CDrawerPool::ReInitPool----begin------
+2020-07-22, 21:35:42   --CDrawerPool::ReInitPool-----end-----
+2020-07-22, 21:35:42   RefreshDrawer suc!
+2020-07-22, 21:35:42   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-22, 21:35:42   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-22, 21:35:42   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-22, 21:35:42   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-22, 21:35:42   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-22, 21:35:42   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-22, 21:35:43   绘制池不足，建立新绘制器： 2
+2020-07-22, 21:40:05   To exit yimaenc....
+2020-07-22, 21:40:05   drawer release finished!
+2020-07-22, 21:40:05   drawer release finished!
+2020-07-22, 21:40:05   绘制池清理完毕
+2020-07-22, 21:40:05   绘制线程清理完毕
+2020-07-22, 21:40:05   绘制线程清理完毕
+2020-07-22, 21:40:05   绘制线程清理完毕
+2020-07-22, 21:40:05   绘制线程清理完毕
+2020-07-22, 21:40:05   绘制线程清理完毕
+2020-07-22, 21:40:05   绘制线程清理完毕
+2020-07-22, 21:40:05   绘制线程清理完毕
+2020-07-22, 21:40:05   绘制线程清理完毕
+2020-07-22, 21:40:05   自定义线程清理完毕
+2020-07-22, 21:40:05   线程池清理完毕
+2020-07-22, 21:40:05   图幅加载线程清理完毕
+2020-07-22, 21:40:05   drawer release finished!
+2020-07-22, 21:40:05   drawer release finished!
+2020-07-22, 21:40:05   drawer release finished!
+2020-07-22, 21:40:05   To exit process....
+2020-07-22, 21:40:08   -----APP START-----
+
+
+2020-07-22, 21:40:08   ----------YimaEnc Control started ----------
+2020-07-22, 21:40:08   Begin to VerifyUserLicense! .........
+2020-07-22, 21:40:08   服务许可验证失败，转为本地检测
+2020-07-22, 21:40:08   电子狗激活已被禁用
+2020-07-22, 21:40:08   Failed to find YimaEncBHW.lic
+2020-07-22, 21:40:08   Failed to find YimaEncBH.lic
+2020-07-22, 21:40:08   Success to VerifyUserLicense.
+2020-07-22, 21:40:08   C:\Users\zhengweilin\Desktop\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-22, 21:40:09   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-22, 21:40:09   DGPS01
+2020-07-22, 21:40:09   DGPS01
+2020-07-22, 21:40:09   绘制池不足，建立新绘制器： 1
+2020-07-22, 21:40:09   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-22, 21:40:09   +++++ Init success! ++++++
+2020-07-22, 21:40:09   RefreshDrawer beg!
+2020-07-22, 21:40:09   --CDrawerPool::ReInitPool----begin------
+2020-07-22, 21:40:09   --CDrawerPool::ReInitPool-----end-----
+2020-07-22, 21:40:09   RefreshDrawer suc!
+2020-07-22, 21:40:09   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-22, 21:40:09   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-22, 21:40:09   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-22, 21:40:09   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-22, 21:40:09   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-22, 21:40:09   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-22, 21:40:10   绘制池不足，建立新绘制器： 2
+2020-07-22, 21:46:34   To exit yimaenc....
+2020-07-22, 21:46:34   drawer release finished!
+2020-07-22, 21:46:34   drawer release finished!
+2020-07-22, 21:46:34   绘制池清理完毕
+2020-07-22, 21:46:34   绘制线程清理完毕
+2020-07-22, 21:46:34   绘制线程清理完毕
+2020-07-22, 21:46:34   绘制线程清理完毕
+2020-07-22, 21:46:34   绘制线程清理完毕
+2020-07-22, 21:46:34   绘制线程清理完毕
+2020-07-22, 21:46:34   绘制线程清理完毕
+2020-07-22, 21:46:34   绘制线程清理完毕
+2020-07-22, 21:46:34   绘制线程清理完毕
+2020-07-22, 21:46:34   自定义线程清理完毕
+2020-07-22, 21:46:34   线程池清理完毕
+2020-07-22, 21:46:34   图幅加载线程清理完毕
+2020-07-22, 21:46:34   drawer release finished!
+2020-07-22, 21:46:34   drawer release finished!
+2020-07-22, 21:46:34   drawer release finished!
+2020-07-22, 21:46:34   To exit process....
+2020-07-22, 21:46:38   -----APP START-----
+
+
+2020-07-22, 21:46:38   ----------YimaEnc Control started ----------
+2020-07-22, 21:46:38   Begin to VerifyUserLicense! .........
+2020-07-22, 21:46:38   服务许可验证失败，转为本地检测
+2020-07-22, 21:46:38   电子狗激活已被禁用
+2020-07-22, 21:46:38   Failed to find YimaEncBHW.lic
+2020-07-22, 21:46:38   Failed to find YimaEncBH.lic
+2020-07-22, 21:46:38   Success to VerifyUserLicense.
+2020-07-22, 21:46:38   C:\Users\zhengweilin\Desktop\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-22, 21:46:38   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-22, 21:46:38   DGPS01
+2020-07-22, 21:46:38   DGPS01
+2020-07-22, 21:46:38   绘制池不足，建立新绘制器： 1
+2020-07-22, 21:46:38   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-22, 21:46:38   +++++ Init success! ++++++
+2020-07-22, 21:46:38   RefreshDrawer beg!
+2020-07-22, 21:46:38   --CDrawerPool::ReInitPool----begin------
+2020-07-22, 21:46:38   --CDrawerPool::ReInitPool-----end-----
+2020-07-22, 21:46:38   RefreshDrawer suc!
+2020-07-22, 21:46:38   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-22, 21:46:38   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-22, 21:46:38   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-22, 21:46:38   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-22, 21:46:38   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-22, 21:46:38   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-22, 21:46:40   绘制池不足，建立新绘制器： 2
+2020-07-22, 22:01:38   To exit yimaenc....
+2020-07-22, 22:01:38   drawer release finished!
+2020-07-22, 22:01:38   drawer release finished!
+2020-07-22, 22:01:38   绘制池清理完毕
+2020-07-22, 22:01:38   绘制线程清理完毕
+2020-07-22, 22:01:38   绘制线程清理完毕
+2020-07-22, 22:01:38   绘制线程清理完毕
+2020-07-22, 22:01:38   绘制线程清理完毕
+2020-07-22, 22:01:38   绘制线程清理完毕
+2020-07-22, 22:01:38   绘制线程清理完毕
+2020-07-22, 22:01:38   绘制线程清理完毕
+2020-07-22, 22:01:38   绘制线程清理完毕
+2020-07-22, 22:01:38   自定义线程清理完毕
+2020-07-22, 22:01:38   线程池清理完毕
+2020-07-22, 22:01:38   图幅加载线程清理完毕
+2020-07-22, 22:01:38   drawer release finished!
+2020-07-22, 22:01:38   drawer release finished!
+2020-07-22, 22:01:38   drawer release finished!
+2020-07-22, 22:01:38   To exit process....
+2020-07-22, 22:02:22   -----APP START-----
+
+
+2020-07-22, 22:02:22   ----------YimaEnc Control started ----------
+2020-07-22, 22:02:22   Begin to VerifyUserLicense! .........
+2020-07-22, 22:02:22   服务许可验证失败，转为本地检测
+2020-07-22, 22:02:22   电子狗激活已被禁用
+2020-07-22, 22:02:22   Failed to find YimaEncBHW.lic
+2020-07-22, 22:02:22   Failed to find YimaEncBH.lic
+2020-07-22, 22:02:22   Success to VerifyUserLicense.
+2020-07-22, 22:02:22   C:\Users\zhengweilin\Desktop\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-22, 22:02:22   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-22, 22:02:22   DGPS01
+2020-07-22, 22:02:22   DGPS01
+2020-07-22, 22:02:22   绘制池不足，建立新绘制器： 1
+2020-07-22, 22:02:22   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-22, 22:02:22   +++++ Init success! ++++++
+2020-07-22, 22:02:22   RefreshDrawer beg!
+2020-07-22, 22:02:22   --CDrawerPool::ReInitPool----begin------
+2020-07-22, 22:02:22   --CDrawerPool::ReInitPool-----end-----
+2020-07-22, 22:02:22   RefreshDrawer suc!
+2020-07-22, 22:02:22   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-22, 22:02:22   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-22, 22:02:22   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-22, 22:02:22   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-22, 22:02:22   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-22, 22:02:22   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-22, 22:02:23   绘制池不足，建立新绘制器： 2
+2020-07-22, 22:12:00   To exit yimaenc....
+2020-07-22, 22:12:00   drawer release finished!
+2020-07-22, 22:12:00   drawer release finished!
+2020-07-22, 22:12:00   绘制池清理完毕
+2020-07-22, 22:12:00   绘制线程清理完毕
+2020-07-22, 22:12:00   绘制线程清理完毕
+2020-07-22, 22:12:00   绘制线程清理完毕
+2020-07-22, 22:12:00   绘制线程清理完毕
+2020-07-22, 22:12:00   绘制线程清理完毕
+2020-07-22, 22:12:00   绘制线程清理完毕
+2020-07-22, 22:12:00   绘制线程清理完毕
+2020-07-22, 22:12:00   绘制线程清理完毕
+2020-07-22, 22:12:00   自定义线程清理完毕
+2020-07-22, 22:12:00   线程池清理完毕
+2020-07-22, 22:12:00   图幅加载线程清理完毕
+2020-07-22, 22:12:00   drawer release finished!
+2020-07-22, 22:12:00   drawer release finished!
+2020-07-22, 22:12:00   drawer release finished!
+2020-07-22, 22:12:00   To exit process....
+2020-07-24, 20:17:54   -----APP START-----
+
+
+2020-07-24, 20:17:54   ----------YimaEnc Control started ----------
+2020-07-24, 20:17:54   Begin to VerifyUserLicense! .........
+2020-07-24, 20:17:54   服务许可验证失败，转为本地检测
+2020-07-24, 20:17:54   电子狗激活已被禁用
+2020-07-24, 20:17:54   Failed to find YimaEncBHW.lic
+2020-07-24, 20:17:54   Failed to find YimaEncBH.lic
+2020-07-24, 20:17:54   Success to VerifyUserLicense.
+2020-07-24, 20:17:54   C:\Users\zhengweilin\Desktop\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-24, 20:17:54   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-24, 20:17:54   DGPS01
+2020-07-24, 20:17:54   DGPS01
+2020-07-24, 20:17:54   绘制池不足，建立新绘制器： 1
+2020-07-24, 20:17:54   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-24, 20:17:54   +++++ Init success! ++++++
+2020-07-24, 20:17:54   RefreshDrawer beg!
+2020-07-24, 20:17:54   --CDrawerPool::ReInitPool----begin------
+2020-07-24, 20:17:54   --CDrawerPool::ReInitPool-----end-----
+2020-07-24, 20:17:54   RefreshDrawer suc!
+2020-07-24, 20:17:54   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-24, 20:17:54   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-24, 20:17:54   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-24, 20:17:54   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-24, 20:17:54   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-24, 20:17:54   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-24, 20:17:55   绘制池不足，建立新绘制器： 2
+2020-07-24, 20:18:26   To exit yimaenc....
+2020-07-24, 20:18:26   drawer release finished!
+2020-07-24, 20:18:26   drawer release finished!
+2020-07-24, 20:18:26   绘制池清理完毕
+2020-07-24, 20:18:26   绘制线程清理完毕
+2020-07-24, 20:18:26   绘制线程清理完毕
+2020-07-24, 20:18:26   绘制线程清理完毕
+2020-07-24, 20:18:26   绘制线程清理完毕
+2020-07-24, 20:18:26   绘制线程清理完毕
+2020-07-24, 20:18:26   绘制线程清理完毕
+2020-07-24, 20:18:26   绘制线程清理完毕
+2020-07-24, 20:18:26   绘制线程清理完毕
+2020-07-24, 20:18:26   自定义线程清理完毕
+2020-07-24, 20:18:26   线程池清理完毕
+2020-07-24, 20:18:26   图幅加载线程清理完毕
+2020-07-24, 20:18:26   drawer release finished!
+2020-07-24, 20:18:26   drawer release finished!
+2020-07-24, 20:18:26   drawer release finished!
+2020-07-24, 20:18:26   To exit process....
+2020-07-25, 09:26:29   -----APP START-----
+
+
+2020-07-25, 09:26:29   ----------YimaEnc Control started ----------
+2020-07-25, 09:26:29   Begin to VerifyUserLicense! .........
+2020-07-25, 09:26:29   服务许可验证失败，转为本地检测
+2020-07-25, 09:26:29   电子狗激活已被禁用
+2020-07-25, 09:26:29   Failed to find YimaEncBHW.lic
+2020-07-25, 09:26:29   Failed to find YimaEncBH.lic
+2020-07-25, 09:26:29   Success to VerifyUserLicense.
+2020-07-25, 09:26:29   C:\Users\zhengweilin\Desktop\PortShipScheduleSystem\PortShipScheduleSystem\bin\x86\Debug
+2020-07-25, 09:26:29   CENCMap::SetObjClassGeoStyleFromInstruct	 Error! Invalid complex lineStyle name!
+2020-07-25, 09:26:29   DGPS01
+2020-07-25, 09:26:29   DGPS01
+2020-07-25, 09:26:29   绘制池不足，建立新绘制器： 1
+2020-07-25, 09:26:29   Begin to SetS52LayerDisplaySetFilePath! .........
+2020-07-25, 09:26:29   +++++ Init success! ++++++
+2020-07-25, 09:26:29   RefreshDrawer beg!
+2020-07-25, 09:26:29   --CDrawerPool::ReInitPool----begin------
+2020-07-25, 09:26:29   --CDrawerPool::ReInitPool-----end-----
+2020-07-25, 09:26:29   RefreshDrawer suc!
+2020-07-25, 09:26:30   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-25, 09:26:30   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-25, 09:26:30   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-25, 09:26:30   YMC文件版本过低，建议卸载重导000文件，否则将影响运行效率
+2020-07-25, 09:26:30   YMC文件版本过低，新版本增加元物标显隐控制，建议更新。更新方法：卸载重导000文件
+2020-07-25, 09:26:30   TBL版本较低，建议清空海图库，重新导入图幅，可最大性能优化
+2020-07-25, 09:26:31   绘制池不足，建立新绘制器： 2
+2020-07-25, 09:27:46   RefreshDrawer beg!
+2020-07-25, 09:27:46   --CDrawerPool::ReInitPool----begin------
+2020-07-25, 09:27:46   --CDrawerPool::ReInitPool-----end-----
+2020-07-25, 09:27:46   RefreshDrawer suc!
+2020-07-25, 09:29:57   RefreshDrawer beg!
+2020-07-25, 09:29:57   --CDrawerPool::ReInitPool----begin------
+2020-07-25, 09:29:57   --CDrawerPool::ReInitPool-----end-----
+2020-07-25, 09:29:57   RefreshDrawer suc!
+2020-07-25, 09:30:10   RefreshDrawer beg!
+2020-07-25, 09:30:10   --CDrawerPool::ReInitPool----begin------
+2020-07-25, 09:30:10   --CDrawerPool::ReInitPool-----end-----
+2020-07-25, 09:30:10   RefreshDrawer suc!
+2020-07-25, 09:30:11   RefreshDrawer beg!
+2020-07-25, 09:30:11   --CDrawerPool::ReInitPool----begin------
+2020-07-25, 09:30:11   --CDrawerPool::ReInitPool-----end-----
+2020-07-25, 09:30:11   RefreshDrawer suc!
+2020-07-25, 09:32:47   RefreshDrawer beg!
+2020-07-25, 09:32:47   --CDrawerPool::ReInitPool----begin------
+2020-07-25, 09:32:47   --CDrawerPool::ReInitPool-----end-----
+2020-07-25, 09:32:47   RefreshDrawer suc!

@@ -1,0 +1,10 @@
+D:\03-个人代码\项目\Project\PortShipScheduleSystem\PortShipScheduleSystem\bin\x64\Debug\PortShipScheduleSystem.exe
+D:\03-个人代码\项目\Project\PortShipScheduleSystem\PortShipScheduleSystem\bin\x64\Debug\PortShipScheduleSystem.pdb
+D:\03-个人代码\项目\Project\PortShipScheduleSystem\PortShipScheduleSystem\bin\x64\Debug\AxInterop.YIMAENCLib.dll
+D:\03-个人代码\项目\Project\PortShipScheduleSystem\PortShipScheduleSystem\obj\x64\Debug\PortShipScheduleSystem.Form1.resources
+D:\03-个人代码\项目\Project\PortShipScheduleSystem\PortShipScheduleSystem\obj\x64\Debug\PortShipScheduleSystem.Properties.Resources.resources
+D:\03-个人代码\项目\Project\PortShipScheduleSystem\PortShipScheduleSystem\obj\x64\Debug\PortShipScheduleSystem.csproj.GenerateResource.cache
+D:\03-个人代码\项目\Project\PortShipScheduleSystem\PortShipScheduleSystem\obj\x64\Debug\PortShipScheduleSystem.csproj.CoreCompileInputs.cache
+D:\03-个人代码\项目\Project\PortShipScheduleSystem\PortShipScheduleSystem\obj\x64\Debug\PortShipScheduleSystem.csproj.CopyComplete
+D:\03-个人代码\项目\Project\PortShipScheduleSystem\PortShipScheduleSystem\obj\x64\Debug\PortShipScheduleSystem.exe
+D:\03-个人代码\项目\Project\PortShipScheduleSystem\PortShipScheduleSystem\obj\x64\Debug\PortShipScheduleSystem.pdb
